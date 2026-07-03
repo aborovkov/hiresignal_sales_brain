@@ -143,6 +143,41 @@ Avoid:
 
 ---
 
+# Objection 2 — "We already have 90 tools and 5 ATS — where does yours even fit?" `[heard in call — 2026-07]`
+
+## What They Actually Mean
+
+Common with agencies and larger recruiting orgs:
+
+* the stack is already saturated; every workflow has an owner tool
+* onboarding another tool is a cost, not a feature
+* they can't picture the *slot* your tool occupies, so it reads as tool #91
+* real concern is integration friction and change management, not capability
+
+---
+
+## Strong Response Angles
+
+* don't sell a new dashboard — sell the one job the stack of 90 doesn't actually do (reliable engineering signal, not another view of the same data)
+* reduce friction by riding *inside* an existing surface: integrate as an extension into the ATS they already run, rather than asking them to adopt a standalone tool
+* frame as subtractive: this removes wasted interview/screening cycles, it doesn't add a workflow
+
+## Good Response
+
+"You're right that the last thing anyone needs is tool number 91. This isn't a new place to manage candidates — it plugs into the ATS you already run and does the one thing that stack isn't doing: telling you which resumes are real signal versus polished noise, before anyone spends time on them."
+
+> Note: the extension/integration path lowers friction but lengthens the sales cycle — factor that into pipeline expectations (`crm/pipeline.md`).
+
+---
+
+# De-prioritized Concerns
+
+Things that feel like blockers but rarely are — don't lead with them, don't gate the motion on them:
+
+* **GDPR / compliance certification (US SMB).** `[heard in call — 2026-07]` A senior staffing operator had never seen a GDPR certificate come up in vendor selection for US customers. Treat a missing formal cert as a non-blocker for the US SMB market; follow standard GDPR procedure, but don't build the pitch around compliance. (EU enterprise may differ — revisit per-segment.)
+
+---
+
 # Philosophy
 
 Objections should not be treated as resistance.

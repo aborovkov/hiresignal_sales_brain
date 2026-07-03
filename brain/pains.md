@@ -212,6 +212,12 @@ Hiring teams feel:
 
 ---
 
+## Field note — the distortion moved upstream `[heard in call — 2026-07]`
+
+AI distortion is no longer only an interview-room problem. It now starts at the **resume**: candidates paste a JD into an LLM and generate a near-perfect keyword match. Those resumes clear keyword-based matching, so the match score rewards exactly the thing that is now automatable. The recruiter then burns real cycles on a candidate who looks perfect on paper and collapses live. Operational consequence: the most expensive false positive now happens *before* anyone has interviewed. Emerging expectation from the field: a match score paired with an **AI-likelihood indicator**, so a non-technical recruiter can make a judgment call before spending time. (Confirmed as a repeated, unprompted ask by a senior staffing operator.)
+
+---
+
 # Pain 5 — Weak Engineering Signal
 
 ## Description

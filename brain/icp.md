@@ -1,5 +1,13 @@
 # ICP Philosophy
 
+> ⚠️ **STRATEGY SIGNAL — 2026-07 (needs Alexey's decision, do not silently resolve).**
+> A GTM advisor call surfaced three *different* answers to "who do we sell to":
+> 1. **This file:** Priority 1 = technical recruiting agencies.
+> 2. **Alexey on the call:** enterprise product companies, 1,000+ employees (Bumble-like).
+> 3. **The advisor's strong push:** early-stage startups / ~20–40-person companies first (less red tape, fastest to revenue), enterprise only after the platform is battle-tested — and a **VC/PE portfolio channel** as the multiplier ("the fund tells its portcos to try it, and they try it"). This channel is not in this file at all.
+> Additionally: Alexey himself surfaced that agencies (this file's P1) hit a real adoption wall — **tool saturation** ("we have 90 tools, 5 ATS"). That weakens the P1 assumption. See the advisor account file in `crm/accounts/` and `brain/objections.md` (Objection 2). **Decide the priority order before the next outbound push.**
+
+
 The goal is **NOT** to target “everyone hiring engineers.”
 
 The goal is to target organizations where:
