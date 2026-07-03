@@ -1,0 +1,290 @@
+Keilian Knudsen  
+1st degree connection
+· 1st
+Pangea.ai | Hire Fractional CTO/CPOs, Forward Deployed Engineers & AI-native teams without the hiring lottery | Bootstrapped to $250M GMV
+MAY 14
+Alexey Borovkov sent the following message at 2:47 PM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     2:47 PM
+Hi Keilian,
+
+I spent several years conducting and leading technical interviews for software engineers at scale, and one recurring issue I keep seeing is how difficult it is for recruiting teams to consistently validate engineering candidates technically.
+
+Curious how your team currently handles technical screening before client submission?
+Keilian Knudsen sent the following message at 10:16 PM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     10:16 PM
+Hi Alexey,
+
+Thanks for reaching out.
+
+We have built a due diligence for our dev teams but now we are looking to build a pool of senior and elite ai native talent in our network as individuals.
+
+Do you have focus heavily on ai talent? 
+Alexey Borovkov sent the following message at 10:33 PM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     10:33 PM
+Hi Keilian,
+Yes - we’ve increasingly been involved with AI-focused technical evaluations.
+My team has interviewed not only software engineers, but also AI data annotators and developers working on LLM-based systems and tooling.
+We’re seeing a major shift toward AI-native engineering workflows, including rapid prototyping, AI-assisted development, and what many now call “vibe coding” - where the challenge is no longer just writing code, but understanding whether engineers can effectively use AI tools while still making solid architectural and engineering decisions.
+Our focus is less on keyword matching and more on validating real technical signal, problem-solving ability, and production readiness.
+
+Curious what kinds of AI-native profiles you’re prioritizing right now?
+Keilian Knudsen sent the following message at 10:57 PM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     10:57 PM
+We are getting lots of demand for forward deployed engineers, senior ai architects, ai native talent that are well versed in claude code, codex etc 
+MAY 15
+Alexey Borovkov sent the following message at 12:34 AM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     12:34 AM
+My team has already interviewed both AI data annotators and engineers building LLM-based products and internal AI tooling.
+MAY 20
+Keilian Knudsen sent the following messages at 1:37 AM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     1:37 AM
+Cool 
+Maybe we should have a call and see if there is a way to collaborate 
+Alexey Borovkov sent the following messages at 11:33 AM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     11:33 AM
+Good morning! That would be great, do you have a calendly link?
+MAY 22
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     1:25 PM
+Happy Friday, Keilian.
+
+https://calendly.com/stepup_services/discovery_call?month=2026-05
+
+mine one, please, feel free to book any slot which suits you well. 
+
+Best, Alexey(Edited)
+Keilian Knudsen sent the following message at 2:02 PM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     2:02 PM
+Booked for Monday 🙏
+Alexey Borovkov sent the following message at 2:26 PM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     2:26 PM
+awesome, have a great weekend!
+Keilian Knudsen sent the following message at 2:57 PM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     2:57 PM
+Same to you 🙏🙏
+MAY 25
+Alexey Borovkov sent the following message at 4:55 PM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     4:55 PM
+Hey Keilian,
+
+Quick follow-up from today’s call.
+
+I synced with my team and mapped out how we evaluate AI-native engineers.
+
+Our process focuses on whether candidates can use AI effectively while still operating as strong engineers independently.
+
+1. Resume Validation (5–10 min)
+We verify:
+
+- employment consistency and tenure
+- actual hands-on ownership vs. passive involvement
+- credibility of stack claims
+
+This helps filter resume inflation before spending engineering time.
+
+2. Core Engineering Assessment (30–45 min)
+Baseline competency across:
+
+- languages and frameworks
+- architecture and system design
+- debugging and reasoning
+- communication
+
+Strong AI usage does not compensate for weak engineering fundamentals.
+
+3. AI-Native Evaluation (15 min)
+We evaluate real-world AI workflows:
+
+- where AI accelerated delivery
+- where AI failed
+- validation and verification habits
+- context management
+- MCP/tooling usage
+- permission and security awareness
+
+The goal is to assess workflow maturity, not familiarity with trendy tools.
+
+4. Practical Exercise (45–90 min)
+Depending on the role, we use one of four formats:
+
+- Existing Codebase Change
+ Small legacy project with unclear requirements.
+ We observe whether candidates investigate before prompting AI, validate assumptions, and protect existing behavior.
+
+- Spec-First Task
+ Candidate writes requirements and acceptance criteria before implementation.
+ Tests clarity of thinking and ability to structure work independently.
+
+- TDD with AI
+ Candidate writes failing tests first, then implements with AI assistance.
+ We evaluate test quality, validation discipline, and review rigor.
+
+- Codebase Exploration
+ Candidate navigates an unfamiliar domain using AI tools.
+ We assess how they verify information, identify source-of-truth systems, and manage uncertainty.
+
+5. Code Review Discussion (20 min)
+Candidate walks through trade-offs, risks, and reasoning behind changes.
+
+We specifically evaluate whether they treat AI-generated code as production code requiring critical review.
+
+6. Documentation & Research (25 min)
+We assess:
+
+- specs
+- ADRs
+- PR descriptions
+- research approach for unfamiliar domains
+
+A strong signal is when documentation and reasoning appear -before implementation rather than after as justification.
+
+7. Team Adoption & Leadership (10–15 min, senior+ only)
+How would they introduce AI-assisted engineering practices across a larger team?
+
+We evaluate:
+
+- standards
+- governance
+- security
+- review culture
+- rollout strategy
+
+Some of the red flags we consistently detect:
+
+- resume inconsistencies
+- “I let AI do everything”
+- inability to explain validation steps
+- accepting generated diffs without review
+- weak testing discipline
+- shipping without security awareness
+
+We deliver full interview artifacts:
+- interview recording
+- transcription
+- structured evaluation notes
+- AI-assisted analysis with reasoning behind fit/no-fit recommendations
+
+Happy to run a pilot with one of your clients if you'd like to see the process in practice.
+
+- Alexey
+Keilian Knudsen sent the following messages at 9:15 PM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     9:15 PM
+Let me review this and revert back 
+Thanks for sharing 
+Alexey Borovkov sent the following message at 9:27 PM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     9:27 PM
+sounds good, thanks!
+MAY 26
+Keilian Knudsen sent the following message at 1:41 AM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     1:41 AM
+Is all of this done manually by humans? 
+Alexey Borovkov sent the following messages at 10:09 AM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     10:09 AM
+Yes, this one is a manual vetting interview strategy for SSE with AI skills. I can show you what I have regarding automated vetting. 
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     10:10 AM
+Keilian: Is all of this done manually by humans?
+What do you think about it?
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     10:19 AM
+I understand the appeal of automation - we pursued it heavily at Turing. But I should warn you: it's trickier than it looks.
+
+Automated assessments do expand your funnel, but they also introduce significant noise. Without extremely robust proctoring, you end up with high false positive rates. 
+
+Candidates are sophisticated about gaming these systems, and we found that even advanced anti-cheating measures - including ML models analyzing keystroke patterns - couldn't reliably catch it.
+
+After years of experimentation, we learned that human-conducted interviews remain the gold standard for quality. 
+
+A trained interviewer on a live call catches things automation simply can't. The real cost optimization isn't removing humans entirely - it's having the right humans. 
+
+Train recruiters to conduct structured technical screens instead of pulling senior engineers offline. You get the same evaluation quality at a fraction of the cost.
+MAY 27
+Keilian Knudsen sent the following messages at 1:46 AM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     1:46 AM
+Makes sense and thanks for clarification 
+How are you pricing your services towards clients? 
+Btw I may have a good plug for you to solve some of your sales hurdles 
+Alexey Borovkov sent the following message at 9:38 AM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     9:38 AM
+Thanks Keilian, glad it clicked.
+
+On pricing: we charge per evaluation, scaled by seniority - mid-level runs $200-225, senior $300-350. That includes the full package: recorded interview, transcript, AI-assisted analysis, and a hire/no-hire recommendation with the reasoning behind it. Volume brings it down 20-30%.
+
+If you're sending deals our way, I'd rather structure it as a partner arrangement than just discount the client price - either a referral cut to Pangea on sourced deals, or an intro rate for your clients on a first pilot. 
+
+Open to whatever makes the partnership clean on your end.
+
+And yes - very interested in that plug. Sales is genuinely my biggest bottleneck right now; I'd rather be building product than chasing outreach. What did you have in mind?
+MAY 28
+Keilian Knudsen sent the following messages at 1:42 AM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     1:42 AM
+Cool 👌 
+Yeah there could def be a partnership to explore 
+I have a young Russian lead gen wiz kid doing amazing stuff in the outreach space (Edited)
+He is a great guy, walks the talk, gets results and goes above & beyond for his customers 
+I’ll introduce you guys over email and you can take it from there 
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     2:07 AM
+Should I make intro on this email? 
+
+silichtech@gmail.com
+Alexey Borovkov sent the following messages at 8:45 AM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     8:45 AM
+Yes, please
+🔥
+🆘
+🤣
+ 
+ 
+
+And glad the partnership idea has legs - happy to set up a proper call to talk through what that could look like between StepUP and Pangea whenever you’ve got 30 mins.
+MAY 29
+Keilian Knudsen sent the following message at 2:43 AM
+View Keilian’s profile Keilian Knudsen
+Keilian Knudsen     2:43 AM
+sounds good - ive made the intro to Ivan, Please keep this channel between us as I do not want it getting diluted by too many people knowing about it.
+Seen by Keilian Knudsen at 2:43 AM.
+Alexey Borovkov sent the following messages at 10:17 AM
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     10:17 AM
+Okay
+JUN 3
+View Alexey’s profile Alexey Borovkov
+Alexey Borovkov     10:21 AM
+🔥
+🆘
+🤣
+ 
+ 
+
+Hey Keilian - all good here, hope same on your side.
+
+Quick one on Daniil: had a solid call, interesting approach. Agreed to circle back in a month. Appreciate you making the intro.
+
+On the Pangea pilot, here’s what I’d propose: run 3 of your senior/AI-native candidates through our full process and send back the artifact set per candidate - recording, transcript, structured evaluation, and a hire/no-hire recommendation with the reasoning behind it. 
+
+Gives you something concrete to react to before we scale anything together.
+
+Easier to walk through scope and the partnership shape live - Calendly’s open whenever it suits you: https://calendly.com/stepup_services/discovery_call
+ 
+Discovery Call - StepUP
+calendly.com
