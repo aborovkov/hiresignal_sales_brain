@@ -190,6 +190,28 @@ Instead, position as:
 
 ---
 
+# Segment Patterns
+
+> Field-validated argument order per segment. Objection wording and answers live in `objections.md`.
+
+## Experienced agency-side recruiters (CIS, high volume)
+
+* Mandatory argument order: remove the "AI black box" label -> technical guarantees (parsing, adjacent skills, resume retention) -> ROI via reallocation. Starting with ROI hits "я и так быстро".
+* Do not sell screening speed. Sell freed-up time for strong and borderline candidates.
+* Even on refusal, expert-trainer profiles are valuable as referrers: give a forwardable piece (one line + link).
+* Their flow numbers are ready-made social proof for outreach (anonymize).
+* Source: `../crm/accounts/sofiia-harasaian.md`, 2026-07-15
+
+## Technical agency owners / design partners
+
+* These buyers are technical and high-agency: they will build their own workaround (MCP, Claude, custom detectors) if we do not ship. They benchmark us live against other tools. Speed of iteration is a retention factor, not a nicety.
+* Winning motion is co-development, not a pitch: "let's solve the fake-profile problem together" beats "here is our product." Trust deepens through shared debugging.
+* Do not demo on live raw uploads while product rough edges exist (upload lag, missing bulk actions) - rough edges read as "the tool is unreliable" in a buying context even when the buyer tolerates them as a partner.
+* Such a partner is a channel and a quote source (case study, referrals into other agencies), not a funnel contact to close.
+* Source: `../crm/accounts/david-stepania.md`, 2026-07-17
+
+---
+
 # Emotional Drivers
 
 The strongest emotional triggers are:
@@ -313,6 +335,24 @@ Long-term, technical interviewing becomes less about static questioning and more
 * engineering judgment assessment
 
 The long-term opportunity is not interviewing alone. It is becoming a hiring signal intelligence layer, a calibration system, and an engineering evaluation infrastructure company for the AI-era engineering hiring market.
+
+---
+
+# AI-Era Identity Fraud - New Axis (2026-07, field-surfaced)
+
+> Surfaced via David Stepania design-partner session (`../sources/notes/2026-07-17__david-stepania__internal.md`). Extends "Core Market Shift" - this is the second axis of signal distortion.
+
+The original thesis is about **capability distortion**: AI-assisted candidates look more capable than they are. A second, sharper distortion has surfaced from the field: **identity fraud at the inbound layer.**
+
+* The problem is not inflated resumes. It is fabricated people - often geo-masked applicants (agency reports China-based) posing as local senior engineers, with resumes mass-produced off shared templates and tuned to beat ATS AI ranking.
+* Tell-tale evidence from the field: near-verbatim bullets reused across "different" candidates, disappearing LinkedIn profiles after applying, mismatched profiles, fantasy-density metrics, FAANG-hop chains with flawless numbers.
+* **The wedge:** the incumbent ATS AI ranks these fakes *highest*, because they are optimized against exactly that ranker. The buyer says it themselves: "the fake ones are always the best matches." Ranking harder on fit surfaces more fraud. We do not attack the incumbent - the buyer's own experience does.
+
+## What this means for positioning
+
+* Fit and legitimacy are **orthogonal axes**. StepUP's edge is a legitimacy / authenticity signal that sits *beside* fit, never merged into it. The ATS scores "does this match the JD"; we also answer "is this a real person who can defend the work."
+* "Inbound is dead" is a category shift, not a complaint. A tool that reads resumes faster loses value; a tool that verifies identity and surfaces defensible candidates gains value. Long-term this pulls toward sourcing / verification, consistent with the "hiring signal intelligence layer" vision.
+* Promise discipline holds: this is **flag-then-verify, not remove-all-fakes.** Founder read: a "fake" who can defend the story live is not the problem; the one who cannot is. That maps cleanly to the locked three-tier screening promise (obvious no removed, borderline stays with the recruiter). Do not let the fraud angle tempt "we cut all the fakes" wording.
 
 ---
 

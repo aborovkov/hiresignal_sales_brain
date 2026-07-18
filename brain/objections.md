@@ -75,6 +75,15 @@ Avoid:
 * defensive positioning
 * "humans are always better"
 
+## Field instance - 2026-07-15 `[heard in DM - 2026-07]`
+
+* Verbatim: "я и так могу загнать это в ИИ свой который обучен всему. Чем разница между моим HR ИИ и этой прогой. Как будто не вижу ценности что-ли."
+* Who/stage: external HR BP for tech companies (non-technical), conversation stage, after receiving a UI-screenshots PDF
+* Answer used: "конечно можешь и в свой) просто мой содержит дополнительно таксономию навыков, кучу вспомогательных промптов которые вытаскивают и анализируют данные.. такое можно сделать, но тебе нужно серию промптов на каждом новом кандидате прогонять"
+* Outcome: moved forward - positive reaction, conversation continued into a live run of her own profile
+* Notes: the "agree first, then differentiate on infrastructure" move worked (no ChatGPT-bashing, matches the Weak Responses guidance). For non-technical audiences the objection is triggered by static assets: UI screenshots read as "my AI can do this too". A live run of their own data answers it better than any wording.
+* Source: `../crm/accounts/katya-lay.md`
+
 ---
 
 # Objection 1 — "These systems/tools are unstable"
@@ -198,4 +207,103 @@ The goal is:
 * clarify positioning
 * expose hidden costs
 * deepen trust
+
+---
+
+# Field Objections - 2026-07-15, experienced agency-side recruiter / trainer (CIS) `[heard in DM - 2026-07]`
+
+> Six objections from one conversation. Source: `../crm/accounts/sofiia-harasaian.md`. Segment argument-order pattern lives in `positioning.md` (Segment Patterns).
+
+### "Я как бабулька против сканирования резюме в ИИ, за старый подход"
+
+* Who/stage: HR expert / recruiter trainer, agency-side, conversation stage
+* Date: 2026-07-15
+* Answer used: "Мы не сканируем, а парсим. Анализ детерминированный, ИИ - вспомогательный инструмент."
+* Outcome: moved forward - label removed, features heard afterwards
+* Best known answer: do not argue with the value; redefine the mechanics first (parse, deterministic, AI as helper), only then features. Until the "AI black box" label is removed, features are not heard.
+* Source: `../crm/accounts/sofiia-harasaian.md`
+
+### "ИИ скипнет резюме с пропусками / кривым описанием скиллов"
+
+* Who/stage: same contact, conversation stage
+* Date: 2026-07-15
+* Answer used: "Слой распознавания смежных скиллов: Angular -> js/css/html -> Vue/React. Система понимает, что человек писал на похожих технологиях."
+* Outcome: moved forward - confirmed as a strong argument
+* Best known answer: adjacent-skill inference layer, concrete tech chain example
+* Source: `../crm/accounts/sofiia-harasaian.md`
+
+### "Потеряю резюме / не смогу переиспользовать"
+
+* Who/stage: same contact, conversation stage
+* Date: 2026-07-15
+* Answer used: "Сохраняем резюме, ищем по базе, добавляем в новую вакансию по запросу."
+* Outcome: moved forward
+* Best known answer: same - asset preservation, searchable base, re-attach on demand
+* Source: `../crm/accounts/sofiia-harasaian.md`
+
+### "Подчинённые разучатся читать резюме сами" (deskilling)
+
+* Who/stage: recruiter trainer managing junior recruiters, conversation stage
+* Date: 2026-07-15
+* Answer used: "Ответственность самого рекрутёра и его заинтересованность. Можно тренировать на подборках хороших резюме / квизах."
+* Outcome: moved forward - accepted via agreement + responsibility transfer
+* Best known answer: managerial objection, out of product scope; agree and transfer responsibility, do not defend the product
+* Source: `../crm/accounts/sofiia-harasaian.md`
+
+### "Какие 30 сек на резюме? Опытный отсеивает за 6-10"
+
+* Who/stage: experienced recruiter, conversation stage
+* Date: 2026-07-15
+* Answer used: reallocation framing: "Мы не экономим часы на мусоре - мы возвращаем часы на созвоны с теми, у кого реально есть шанс пройти интервью."
+* Outcome: partially accepted; the "64 h/mo" time-saved math breaks on experienced recruiters
+* Best known answer: for experienced recruiters never sell "faster screening"; sell reallocation of expensive time from obvious rejects to borderline and strong candidates
+* Source: `../crm/accounts/sofiia-harasaian.md`
+
+### "Пока откажусь, вернусь к вакансиям позже, тогда будет актуально"
+
+* Who/stage: same contact, end of conversation stage
+* Date: 2026-07-15
+* Answer used: no push; fixed her own trigger ("вернусь к вакансиям") for reactivation, left the door open: "please keep us in mind" + shareable materials
+* Outcome: parked, warm referral source
+* Best known answer: timing objections are priorities, not product; capture the prospect's own trigger phrase and reactivate on it
+* Source: `../crm/accounts/sofiia-harasaian.md`
+
+---
+
+# Field Objection - 2026-07-16, agency building its own AI in-house `[heard in DM - 2026-07]`
+
+### "We've already automated a significant part of our recruitment workflow and are continuously developing our own AI-driven processes, so we're not looking to introduce another solution at the moment"
+
+* Who/stage: recruiter at a result-based recruitment agency, replied stage (decline of first-touch offer)
+* Date: 2026-07-16
+* Answer used: none - accepted gracefully ("Thanks for letting me know"), relationship preserved
+* Outcome: parked; decline was warm, "let's stay in touch" in her own words
+* Best known answer (recommended, untested): do not counter head-on - in-house AI is an identity investment, arguing fights their pride. Two later angles: (1) parallel benchmark - run the same batch of CVs through both systems and compare verdicts, zero integration ask; (2) reactivate in ~3 months asking how the in-house build is holding up (maintenance and calibration costs surface with time). Distinct from the "90 tools" stack-saturation objection: that one is about tool fatigue, this one is build-vs-buy.
+* Source: `../crm/accounts/margarita-isadjanean.md`
+
+---
+
+# Field Objections - 2026-07-17, David Stepania (advisor / design partner, ThirstySprout) `[design-partner test session - WhatsApp]`
+
+> Surfaced while David test-drove StepUP against a live Ashby role (Senior Software Engineer, CX platform, 746 applications). These are latent objections and beliefs, not head-on refusals - David is an advisor, not a prospect being closed. Source: `../sources/notes/2026-07-17__david-stepania__internal.md`, `../crm/accounts/david-stepania.md`.
+
+### "They are all fake profiles / quality is low" (input-conflation)
+
+- Who/stage: agency founder + advisor, design-partner test session
+- Date: 2026-07-17
+- Context: the candidates the ATS AI (Ashby) ranked as top matches were overwhelmingly AI-generated fakes. Risk: the prospect emotionally attributes the low input quality to the tool that surfaced it ("quality is low"), not to the ATS that produced it.
+- Answer used: none yet - captured for handling
+- Best known answer (recommended, untested): separate the two axes out loud. The fakes are an input problem coming from the ATS/inbound; StepUP's job is to flag them on a legitimacy axis that is independent of fit. Never let the authenticity score read as "our tool found you garbage" - frame it as "our tool caught what the ATS ranked number one." Demo on pre-seeded data, not a live raw upload, so the tool is never the thing showing junk first.
+- Outcome: n/a (advisor session)
+- Source: `../crm/accounts/david-stepania.md`
+
+### "Inbound is dead, it's all AI-generated spam" (belief to reframe, not counter)
+
+- Who/stage: agency founder + advisor, design-partner test session
+- Date: 2026-07-17
+- Context: "inbound is freakin dead lol", "ai generated spam", "some chinese companies just make fake profiles and tailor it to these ats systems". David's recruiter: "the fake ones are always the best matches." This is a geo/identity-fraud problem, not resume inflation.
+- Answer used: none yet
+- Best known answer (recommended, untested): agree, then flip the consequence. If inbound is dead, a tool that reads resumes faster loses value - but a tool that verifies identity and surfaces who can defend their work gains value. This is the moment to lead with the fraud/trust hook instead of the volume hook (see `positioning.md`, AI-Era Identity Fraud). Do not oversell detection as removal - Alexey's own read is that a "fake" who can defend the story live is not the problem; the unfixable case is the one who cannot. That maps to flag-then-verify, not auto-reject, and keeps the three-tier screening promise intact.
+- Outcome: n/a
+- Source: `../crm/accounts/david-stepania.md`
 
