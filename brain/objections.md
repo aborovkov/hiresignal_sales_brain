@@ -307,3 +307,23 @@ The goal is:
 - Outcome: n/a
 - Source: `../crm/accounts/david-stepania.md`
 
+
+# Field Objections - 2026-07-16/17, LinkedIn outbound wave (Focused inbox) `[heard in DM - 2026-07]`
+
+> From the role-anchored / volume-opener batch. Traces to `crm/accounts/`. Two of these are targeting signals, not objections to rebut.
+
+### "We're handling technical screening through our existing process, so we're not looking to make changes right now" `[julia-fokina, NEWHR, replied]`
+- Meaning: not a value objection - a switching-cost / "we have a process" reflex.
+- Do not defend against the process. Hand a zero-effort artifact (their own role or CV run through StepUP) and let the output argue. Offer to run ONE live role, no switch required.
+- Field outcome: pivoting off a "short chat" ask to a concrete CV/JD scoring asset + naming an internal champion (Kira) kept the thread alive - link forwarded onward.
+
+### "At this time, we're not looking to add new screening tools" `[julia-chimisova, Lavendo Recruitment, parked]`
+- Meaning: objection is to tool-adoption overhead, not to the value; door left open ("stay connected").
+- Reframe from "a new tool to adopt" to "a free sample on one role you're already working" - zero integration, expires on use not calendar. Revisit with a proof asset, not a feature case.
+
+### "We don't run a lot of interviews as we are a mid-size company" `[gleb-andreev, parked]` (volume / size)
+- Not an objection to rebut - a targeting signal. Low-volume teams should be filtered out before the first touch.
+- If kept, position on the resume pile (screening), not on interview volume.
+
+### "I'm not personally involved in conducting technical interviews or screening" `[mariam-tsitelashvili, lost]` (persona mismatch)
+- Disqualify, do not answer. Prevent with an ICP gate: only DM people who personally own screening/interviews. Business-development and non-technical roles are a miss regardless of message quality.

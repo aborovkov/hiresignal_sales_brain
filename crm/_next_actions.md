@@ -4,20 +4,31 @@
 > Names are allowed here (this is `crm/`). Pull live status from the Sheet; keep this list short and current.
 
 ## To contact (opener ready)
-- [ ] `<account-slug>` — send Pattern _ opener — see `accounts/<slug>.md`
+- [ ] `<account-slug>` - send opener - see `accounts/<slug>.md`
 
 ## Awaiting reply / follow up
-- [ ] `<account-slug>` — follow up (Pattern 9) if no reply by `<date>`
 - [ ] `sean-hassell` - by 2026-07-19: if no signup, FU1 with seeded-vacancy offer (his JD, 3-5 anonymized candidates) + re-ask the CV-count question - see `accounts/sean-hassell.md`
+- [ ] Focused-inbox cold batch (16 Jul, no reply yet) - FU1 due +3-4d, then park +60d. FU1 = offer "your own CV through StepUP", never a bump:
+  - Nadia Yankovskaya, Aleksey Zorin, Kristina Shunkova (Podscribe), Albina Mamedova, Rinat Shaykhutdinov, Daria Motorkina
+- [ ] Elisaveta Vladeva (Workster), Natalia Romashkina, Liz Taylor (Liverpool FC) - opener + "seed a vacancy" already sent. No 3rd touch. Park +60d if silent.
+- [ ] Yana Yakimchuk - inbound Web3 hiring request flipped to StepUP pitch, no reply. Low priority (persona mismatch: she was hiring, not screening).
 
 ## In conversation
-- [ ] `<account-slug>` — next move: `<...>`
-- [ ] `dina-veprikova` - TODAY 2026-07-16: demo call (45 min, her Calendly). Open with the CV-count question, qualify own-client-base, activate free tier on the call - see `accounts/dina-veprikova.md`
+- [ ] `roman-ostroushko` - HOT (trial). Collect his JD + CV batch, run the sample, return scored report. First pilot of the wave - see `accounts/roman-ostroushko.md`
+- [ ] `dina-veprikova` - demo booked (45 min, her Calendly). Open with the CV-count question, qualify own-client-base, activate free tier on the call - see `accounts/dina-veprikova.md`
+- [ ] `soumya-madan` - apply her 5 product-feedback points; ask for 1-2 recruiter intros - see `accounts/soumya-madan.md`
+- [ ] `julia-fokina` (NEWHR) - check if the CV/JD link reached Kira; nurture via Kira, FU +7d - see `accounts/julia-fokina.md`
 - [ ] `katya-lay` - by 2026-07-18 if she stays silent: send 2-3 min video walkthrough of her own profile report (RU) - the PDF asset failed twice, video answers "не вижу ценности" - see `accounts/katya-lay.md`
 
 ## Parked (dated reactivation)
+- [ ] `julia-chimisova` (Lavendo) - by 2026-09-15: revisit with a proof asset (anonymized before/after), not a re-pitch. Wording: "not looking to add new screening tools" - see `accounts/julia-chimisova.md`
+- [ ] `gleb-andreev` - by 2026-09-15: low interview volume (mid-size); revisit only on a hiring spike - see `accounts/gleb-andreev.md`
 - [ ] `sofiia-harasaian` - by 2026-08-15: send redone landing page + shareable one-liner for her network - see `accounts/sofiia-harasaian.md`. Trigger phrase: "вернусь к вакансиям".
 - [ ] `margarita-isadjanean` - by 2026-10-15: ask how the in-house AI screening is holding up, offer parallel benchmark on the free tier - see `accounts/margarita-isadjanean.md`. Her wording: "let's stay in touch".
 
+## Lost (closed, keep as weak network node)
+- [x] `mariam-tsitelashvili` - wrong persona (business development, not involved in screening) - see `accounts/mariam-tsitelashvili.md`
+
 ---
-TODO: import the current "Target Identified" backlog and the 4 qualified prospects with ready openers from the Sheet, one account file each.
+Rule reminders (see `brain/outreach.md`): offer the sample, never a call; ICP-gate before sending; the "seed a vacancy" asset only for people who already replied.
+TODO: import the current "Target Identified" backlog and the qualified prospects with ready openers from the Sheet, one account file each.

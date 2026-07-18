@@ -1,203 +1,150 @@
 # OUTREACH.md
 
-> Outreach and conversation mechanics: opener patterns, the conversation arc, the soft-CTA/transition phrase bank, and short-response lines.
+> Outreach and conversation mechanics: the field-tested first-touch template, opener variants, the conversation arc, the transition phrase bank, and short-response lines.
 > Tone rules and banned vocabulary live in `voice.md`. Strategy and beliefs live in `positioning.md`.
+> Locked messaging rules (approved DM structure, prohibitions) come from the sales-brain skill and win over anything here unless explicitly updated.
 
 ---
 
-# Philosophy
+# 0. What actually converts (field evidence, 2026-07)
 
-Outreach and founder-led conversations should feel like intelligent observation, peer-level discussion, industry insight, operational warning, and thoughtful pattern recognition.
+First outbound wave (15-17 Jul). Two structures, both landed. Evidence cross-checked against `content/winning-messages.md` and the `crm/accounts/` files.
 
-NOT: SDR messaging, recruiter outreach, SaaS automation, aggressive prospecting, or "closing."
+**Structure A - standard volume opener** ("how many CVs land on your desk for one technical role..." + Turing line + free offer + "you keep the conversations" close): 3 replies in ~24h, and one demo booked. Dina Veprikova (fractional technical recruiter) replied "I would like to try" in 11 minutes, demo booked in 16. Sean Hassell (in-house TA) replied warm same evening. See `crm/accounts/dina-veprikova.md`, `crm/accounts/sean-hassell.md`.
 
-The goal is recognition, curiosity, and continued conversation — not immediate conversion.
+**Structure B - role-anchored variant** (drops the Turing credential, names their exact seat and weekly cost): converted to a trial in the Focused-inbox batch. Roman Ostroushko (Head of Engineering):
 
-The recipient should think: "This is relevant" and "This person actually understands engineering hiring." NOT: "This person is selling me something."
+> Roman, as Head of Engineering - how much of your team's week goes to screening resumes and first-round interviews? We built an evaluation layer that scores how a candidate thinks, not just the answer. I can set you up with 100 resume screenings + 5 AI interviews to try, free, expires on use not calendar. You keep the conversations, we handle the reading.
 
----
+Reply in 10 minutes: "yes, I would like to take part in this." See `crm/accounts/roman-ostroushko.md`.
 
-# Conversation Arc
+Both winners share the same DNA - that DNA is the canonical first touch (section 1). Five reasons it works, all reusable:
 
-The escalation is never: service → pricing → close.
+1. Named the exact role and tied the pain to THEIR time ("as Head of Engineering - your team's week"). Not abstract industry commentary - their calendar.
+2. Right ICP: a person who personally owns the pain and can say yes.
+3. Value in one line ("scores how a candidate thinks, not just the answer"). No feature list.
+4. Zero-friction offer ("free, expires on use not calendar") kills the "no time for a trial" objection.
+5. Asked them to TRY, not to MEET. No call request. Yes was cheap to give.
 
-It is: **observation → recognition → operational discussion → pain clarification → trust → positioning → commercial discussion.**
+**What lost:**
+- Asking for a call up front ("would you be open to a short chat?") got a polite "we're fine as-is" (Julia Fokina). Offer the sample, never the meeting.
+- Wrong persona (business development, non-tech, tiny team) replied but went nowhere - Mariam, Gleb. Filter ICP before sending.
+- The strong "seed a vacancy under your own live role" asset was spent on cold no-repliers (Elisaveta, Natalia, Liz): 0 replies. Save that asset for people who already engaged.
 
-## Phase 1 — Recognition
-
-Create immediate relevance. Do NOT introduce services, explain the company, or pitch. Instead describe observable industry shifts, articulate hidden problems, and create intellectual recognition.
-
-> Use the canonical opener below (Opener Patterns → Pattern 1).
-
-## Phase 2 — Operational Consequence
-
-Connect the observation to real engineering pain.
-
-* "The difficult part is that many interviewing systems still optimize for polished answers rather than engineering judgment under ambiguity."
-
-## Phase 3 — Shared Discussion
-
-Move from monologue into peer-level conversation. → Use the Soft CTA / Transition Library below.
-
-## Phase 4 — Pain Expansion
-
-Once the prospect engages, deepen operational implications, discuss tradeoffs, and expose second-order effects. Avoid premature selling.
-
-* "A lot of teams seem reasonably confident in coding evaluation, but much less confident in evaluating production reasoning and engineering maturity consistently."
-
-## Phase 5 — Positioning Through Insight
-
-Only after discussion starts, lightly introduce perspective/capability.
-
-* "We've spent a lot of time thinking about calibration and structured signal extraction specifically because of these shifts."
-
-## Phase 6 — Soft Commercial Movement
-
-Only AFTER trust exists. The transition should feel natural.
-
-* Weak: "Can we schedule a demo?" / "Would love to show you the platform."
-* Strong: "Might be interesting to compare how your team currently approaches evaluation consistency." / "Could be useful to discuss how some teams are adapting interviewing loops around this."
-
-The goal of the first conversation is not conversion. It is trust, recognition, relevance, curiosity, and continued discussion.
+**Highest engagement move (even without a sale):** sending the recipient THEIR OWN CV/profile run through StepUP. Soumya returned 5 points of product feedback; Julia forwarded the link to a colleague. Show the product on their data; do not describe it.
 
 ---
 
-# Opener Patterns
+# 1. The canonical first touch (use this by default)
 
-## Pattern 1 — Industry Shift Observation (canonical opener)
+Structure (this is the skill's approved DM structure, now with the field-tested role hook):
 
-Structure: industry observation → hidden consequence → why it matters operationally → soft discussion invitation.
+1. **Role-anchored pain question.** "[First name], as [their exact role/seat] - [time or volume question tied to their week]?"
+2. **One-line value.** "We built an evaluation layer that scores how a candidate thinks, not just the answer."
+3. **Volume-framed free offer.** "I can set you up with 100 resume screenings + 5 AI interviews to try, free, expires on use not calendar."
+4. **Close.** "You keep the conversations, we handle the reading."
 
-> We're increasingly seeing candidates become highly optimized for interview performance itself.
->
-> AI-assisted preparation, rehearsed system design flows, and polished communication are making hiring signal much harder to evaluate consistently. Especially for teams scaling engineering hiring quickly.
->
-> Curious whether you're seeing similar patterns internally.
+Fill-in template:
 
-## Pattern 2 — Interview Signal Degradation
+> [First name], as [role] - [how much of your week / how many resumes per role / how many hours] goes to [screening resumes and first-round interviews]? We built an evaluation layer that scores how a candidate thinks, not just the answer. I can set you up with 100 resume screenings + 5 AI interviews to try, free, expires on use not calendar. You keep the conversations, we handle the reading.
 
-Best for: engineering managers, CTOs, technical founders.
-
-> One thing becoming increasingly noticeable is how much harder it's becoming to distinguish strong interview performance from actual engineering depth — especially once conversations move beyond rehearsed architecture patterns into production tradeoffs and operational reasoning.
-
-## Pattern 3 — Recruiting Agency Angle
-
-Best for: technical recruiting firms, staffing agencies.
-
-> We've been speaking with several technical recruiting teams recently about how difficult deep engineering validation is becoming — especially for senior candidates. A lot of agencies are finding that traditional technical screening no longer creates enough confidence for clients once hiring becomes more engineering-critical.
-
-## Pattern 4 — Scaling Hiring Pressure
-
-> What becomes interesting at scale is that interview consistency often degrades faster than teams expect. Different interviewers optimize for different signals, calibration drifts, and hiring confidence becomes increasingly noisy.
-
-## Pattern 5 — AI-Era Hiring
-
-> Engineering hiring is entering a strange phase. Candidates now have access to dramatically better interview preparation tooling than even 2 years ago, but most hiring systems still assume interview responses are mostly organic. That gap is creating some interesting evaluation problems.
-
-## Pattern 6 — Production Reasoning
-
-> There's a growing disconnect between interview performance and production reasoning. Some candidates communicate extremely well in structured interviews, but struggle significantly once ambiguity, tradeoffs, and operational ownership appear.
-
-## Pattern 7 — Founder/CTO Angle
-
-> A lot of smaller engineering-led teams seem to be hitting the same challenge: founders and engineering leads still heavily own hiring quality, but maintaining consistent evaluation standards becomes difficult once hiring pressure increases.
-
-## Pattern 8 — Calibration Discussion
-
-> The interesting hiring problem usually isn't whether interviewers exist. It's whether different interviewers are actually evaluating the same signals consistently.
-
-## Pattern 9 — Soft Follow-Up
-
-> Following up because this seems to be becoming a fairly common discussion among engineering hiring teams lately.
-
-## Pattern 10 — Warm Re-engagement
-
-> One thing that has become much more visible recently is how optimized candidates are becoming for interview environments specifically. Feels like many hiring systems are still adapting slower than candidate behavior itself.
-
-## Good Opening Lines (phrase bank)
-
-* "One thing becoming very noticeable..."
-* "Engineering hiring is entering a strange phase..."
-* "Most hiring systems still assume..."
-* "The difficult part is that..."
-* "What becomes interesting at scale..."
+Constraints: under ~500 characters. One question, one CTA. No em dash. No "quick question" opener. No exclamation marks in first touch. The Turing "1,700 interviews" line is optional here and overused - default to leaving it out (see prohibitions).
 
 ---
 
-# Conversation Move Patterns
+# 2. Role-anchored hook bank (the variable part of line 1)
 
-Once in dialogue, these deepen the exchange without selling:
+The hook must name their seat and hit a cost they personally feel. Real examples from the wave:
 
-* **Observation → curiosity:** observation → hidden implication → soft curiosity.
-* **Shared frustration:** "A lot of engineering leaders seem increasingly uncertain about which interview signals are still reliable." (creates emotional alignment and trust)
-* **Hidden problem exposure:** "The difficult part isn't usually coding evaluation itself. It's distinguishing rehearsed communication from actual engineering judgment." (surfaces what the prospect already suspects)
-* **Calibration framing:** "What becomes difficult at scale is maintaining interviewer consistency once hiring pressure increases." (positions expertise without promotion)
-* **Operational depth:** "A lot of interview loops still work reasonably well for identifying obvious weaknesses. The harder problem is evaluating decision-making quality under ambiguity." (signals engineering credibility)
+- **Head of Engineering:** "how much of your team's week goes to screening resumes and first-round interviews?"
+- **Eng leadership / high-load:** "when you're hiring for high-load work, how do you keep interview signal consistent across whoever runs the loop?"
+- **HRBP scaling remote teams:** "scaling global and remote teams at [Co] - how are you keeping technical interview quality consistent across timezones and interviewers?"
+- **Agency / TA for startups:** "building TA for EMEA tech startups - what's the resume volume per eng hire across your clients right now?"
+- **Niche staffing (iGaming/crypto/gamedev):** "resume volume in those niches gets brutal fast - how many are you reading per role?"
+- **In-house TA lead:** "how many CVs typically land on your desk for one technical role? Curious if it's gotten worse this year."
 
----
-
-# Soft CTA / Transition Library
-
-Preferred:
-
-* "Curious whether you're seeing similar patterns."
-* "Interested how your team approaches this today."
-* "Would be interesting to compare notes."
-* "Feels like more teams are running into this recently."
-* "This seems to be becoming increasingly noticeable."
-* "Curious whether this has become noticeable internally as well."
-
-Avoid:
-
-* "Book a call" / "Book a demo"
-* "Would love to connect"
-* "Quick 15-minute call?"
-* "Can I show you our platform?"
+Rule: if there is nothing real to anchor on, fall back to the plain volume question. Never fake personalization.
 
 ---
 
-# Short Response Library
+# 3. Pilot start (when they say yes)
 
-Sometimes shorter responses create more curiosity, engagement, and perceived confidence. Do not answer too aggressively or too quickly.
+Immediately, no calendar friction:
 
-* "That seems to be becoming increasingly common."
-* "Interesting. We've been hearing similar things."
-* "That's usually where calibration problems begin appearing."
+> Perfect. To kick it off: send me one open role (JD) plus a batch of CVs you'd otherwise read yourself. You get scored reports back - the obvious no's filtered out, the borderline calls kept for you to decide, and the ones actually worth a conversation surfaced. What are you hiring for right now?
 
----
-
-# Weak / Avoid Patterns
-
-Avoid forcing demo requests, immediate calls, or aggressive CTA. Avoid:
-
-* "We provide interview services"
-* "Can we schedule a quick call?"
-* "Helping companies hire top talent"
-* "Improving recruitment efficiency"
-* "Would love to connect"
-
-In conversation, also avoid: immediate pitching, feature dumping, hard CTA, overexplaining, defensive behavior, over-qualifying, and sounding scripted.
+This is the demo. Do not route a warm yes into a scheduling link.
 
 ---
 
-# Emotional Tone & Trust
+# 4. Assets to offer (order by warmth)
 
-Good outreach and conversation feel: calm, intelligent, observant, composed, analytical, experienced, thoughtful, and operationally grounded. Never excited, hype-driven, overly friendly, or salesy.
-
-Trust is created through pattern recognition, operational realism, nuanced thinking, calm communication, and accurate problem articulation — NOT through credentials, hype, or aggressive persuasion.
-
-Conversations should evolve slowly, deepen gradually, feel exploratory, and create intellectual engagement.
+1. **Cold, right ICP:** free trial (100 screenings + 5 AI interviews).
+2. **Replied / curious:** their own profile or CV run through StepUP ("here's what it looks like in practice" + link). Highest-engagement asset.
+3. **Engaged / considering:** seed a vacancy under one of their OWN live roles, run 3-5 anonymized candidates. Only for people who already replied - never a cold touch.
 
 ---
 
-# Founder-Led Principle
+# 5. Follow-up cadence
 
-The strongest founder outreach does not feel like outreach. It feels like domain expertise, thoughtful observation, industry awareness, pattern recognition, and operator-to-operator discussion — NOT vendor-to-buyer.
+- **FU1: +3-4 days.** New angle or a new asset, never "just bumping this". Good FU1 = offer the "your own CV through StepUP" asset.
+- **FU2: +7 days after FU1.** Shorter, give an easy out.
+- Then **park +60 days** unless there is a live trigger (vacancy spike, relevant post).
+- **Reply in their thread beats any new message.** If they commented or reacted anywhere, engage there first.
+- Do not stack a third asset on someone who never answered the first two (that is what failed with the "seed a vacancy" sends).
 
 ---
 
-# Messaging Priority
+# 6. ICP filter BEFORE sending (gate, not afterthought)
 
-Always prioritize: (1) insight, (2) recognition, (3) relevance, (4) credibility, (5) curiosity. Only later: (6) services, (7) solutions, (8) commercial discussion.
+Send only to people who personally own screening or interviews:
+- Heads of Engineering / eng leads, technical recruiters, staffing-agency owners, in-house TA leads with steady eng hiring.
 
-Ideal prospect reaction: "This person understands engineering hiring dynamics better than most people I talk to."
+Skip / deprioritize:
+- Business development, sales, non-technical roles (Mariam = business dev, went nowhere).
+- Tiny teams with little interview volume (Gleb = mid-size, "we don't run a lot of interviews").
+
+Grade the person A/B/C (see `crm-format.md` ICP scoring) before the DM, not after.
+
+---
+
+# 7. Locked prohibitions (from skill, do not violate)
+
+- No subscription pricing or COGS logic in first outreach. Pricing only after a live conversation or a demo.
+- Screening promise only in the approved three-tier form: obvious "no" removed, "worth a conversation" surfaced, borderline calls stay with the recruiter. Approved wording: "You'll never read an obviously unqualified resume again - and the borderline calls stay yours." Never "we cut all unsuitable candidates".
+- EU AI Act: never "AI Act compliant". Use "built with AI Act requirements in mind".
+- Cost-savings claim ("$65k/year per team, $5,700 per recruiter") allowed on LinkedIn and to agency owners only.
+- Turing "1,700 interviews" anchor is overused - default off, use only on explicit request or the one sanctioned first-touch slot.
+- No em dash "-" anywhere. No fake personalization.
+
+---
+
+# 8. Transition / soft-CTA bank (once in dialogue)
+
+Preferred once a conversation is live:
+- "Want me to set that up for one role?"
+- "Send me one JD plus a batch of CVs and I'll run it."
+- "Curious how you handle this today."
+- "Would be interesting to compare notes."
+
+Avoid as a first move:
+- "Book a call" / "Book a demo" / "Quick 15-minute call?"
+- "Would love to connect" / "Can I show you our platform?"
+
+Note: earlier this file taught an abstract "industry shift observation" opener (Patterns 1-10). Those were never used in the live wave and are not what converted. The role-anchored volume question + free-sample offer is the tested default. The abstract patterns are kept below only as a fallback register for peer-to-peer threads with senior technical buyers who bristle at anything offer-shaped.
+
+---
+
+# 9. Fallback register - analytical peer opener (use sparingly)
+
+For senior technical buyers (CTOs, VPEs) where an offer-first DM reads as selling, open with observation instead of offer, then let them pull:
+
+> One thing becoming increasingly noticeable is how much harder it is to distinguish strong interview performance from actual engineering depth once conversations move past rehearsed architecture into production tradeoffs. Curious whether you're seeing similar patterns internally.
+
+Move to the offer only after they engage. This register trades conversion speed for credibility; do not use it as the default.
+
+---
+
+# 10. Emotional tone
+
+Calm, analytical, operator-to-operator. Never hype, never salesy, never over-friendly. Trust comes from accurate problem articulation and a frictionless offer, not from credentials or persuasion. See `voice.md`.

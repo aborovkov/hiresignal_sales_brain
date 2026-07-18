@@ -19,3 +19,12 @@ Watch: none of the three replies actually answered the CV-count question - the q
 Context: First-touch DM to a 1st-degree connection. Non-standard structure - role-specific opener instead of the Turing credential.
 > Roman, as Head of Engineering - how much of your team's week goes to screening resumes and first-round interviews? We built an evaluation layer that scores how a candidate thinks, not just the answer. I can set you up with 100 resume screenings + 5 AI interviews to try, free, expires on use not calendar. You keep the conversations, we handle the reading.
 Why it likely worked: named his exact role and the exact weekly pain, one crisp positioning line ("scores how a candidate thinks, not just the answer"), volume-based free offer with no calendar pressure, and a memorable close ("you keep the conversations, we handle the reading"). No credential dump, no CTA to book a call.
+
+## 2026-07-16 - "your own CV run through StepUP" - highest-engagement asset (feedback + referral, not a sale)
+
+Context: warm thread, sent the recipient THEIR OWN CV run through StepUP and asked "is it accurate? which parts are missing?". See `../crm/accounts/soumya-madan.md`.
+
+- Soumya Madan returned 5 concrete product-improvement points unprompted and forwarded interest into her network.
+- Julia Fokina (NEWHR), after a decline, was handed the CV/JD scoring link and forwarded it to a colleague (Kira). See `../crm/accounts/julia-fokina.md`.
+
+Why it likely worked: showing output on the recipient's own data pulls specific, invested responses far better than describing the product. Promote this to a first-touch move for the right ICP, and it doubles as the payoff of the "send me your resume" LinkedIn lead-magnet post.
