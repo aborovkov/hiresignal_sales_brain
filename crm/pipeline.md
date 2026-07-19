@@ -1,33 +1,26 @@
 # PIPELINE.md
 
-> How the CRM works: what lives in the Google Sheet vs. what lives in this repo, the funnel stages, and the per-account file schema.
+> How the CRM works: where the pipeline lives, the funnel stages, and the per-account file schema.
 
 ---
 
-# Sheet vs. Repo — the split
+# Repo = the single source of truth
 
-**Google Sheet = the live pipeline.** It is the source of truth for *movement*: which account is at which stage, when it moved, and pipeline-level rollups. Fast to update, sortable, filterable.
+**`crm/leads.csv` = the live pipeline.** One row per person, keyed by LinkedIn URL. It is the source of truth for *movement*: who is at which status, when they were touched, and what the next action is. Managed via the lead-hunter tooling (`leads.py add / mark / next / stats`).
 
-* Sheet ID: `1WTbK6Zmha5EttAs3m0RsbPlOXq3lh_0t-v4AdMhGQfI`
+**Account files (`crm/accounts/`) = durable account intelligence.** The source of truth for *depth*: what was actually said, the pains heard, objections raised, verbatim quotes, and the reasoning behind next actions. Slow-changing, high-context, feeds `brain/` and `content/`.
 
-**This repo = durable account intelligence.** It is the source of truth for *depth*: what was actually said, the pains heard, objections raised, verbatim quotes, and the reasoning behind next actions. Slow-changing, high-context, feeds `brain/` and `content/`.
-
-Rule of thumb: **if it changes every touch → Sheet. If it accumulates understanding → repo.** The account file's `status` field mirrors the Sheet stage; the Sheet never holds the qualitative detail.
+**The Google Sheet ("(StepUP) Data Room навигация", ID `1WTbK6Zmha5EttAs3m0RsbPlOXq3lh_0t-v4AdMhGQfI`) is RETIRED as a lead source.** Its lead lists (tabs "Leads" and "TeamTailor") were fully imported into `crm/leads.csv` on 2026-07-19. Do NOT read the Sheet for lead analysis, lead status, or pipeline questions — it is stale from that date forward. It remains only as a historical archive (it still holds the original M1–M3 outreach message texts, which were not copied over).
 
 ---
 
 # Funnel Stages
 
-> These must mirror the stage column in the Sheet. Reconcile the list below with the actual Sheet values — **TODO: confirm exact Sheet stage names.**
+> The status vocabulary of `crm/leads.csv` (shared with the lead-hunter and sales-brain tooling):
 
-1. **Target Identified** — fits ICP, not yet researched. (Most current leads sit here.)
-2. **Researched** — account profile built, angle chosen, opener drafted.
-3. **Contacted** — first message sent.
-4. **Engaged** — prospect replied / conversation live.
-5. **Discovery** — pain confirmed, needs/authority/timeline being mapped.
-6. **Sample Delivered** — free-sample wedge run on their data.
-7. **Proposal** — commercial discussion open.
-8. **Won** / **Lost** — closed, with reason logged.
+`new → queued → contacted → replied → conversation → demo → trial → client`, plus `lost` (requires a reason in notes) and `parked` (requires a revisit date in notes).
+
+Forward movement requires evidence stated by the user — never advance a status on assumption.
 
 ---
 
@@ -42,7 +35,7 @@ Each account file holds, in order:
 3. **Pains heard** — real pains surfaced (feeds `brain/pains.md`, anonymized).
 4. **Objections** — objections raised (feeds `brain/objections.md`, anonymized).
 5. **Quotes** — verbatim lines worth keeping (never leave this file un-anonymized).
-6. **Status** — current stage, mirroring the Sheet.
+6. **Status** — current stage, mirroring the `status` column in `crm/leads.csv`.
 7. **Next action** — the single next move.
 
 ---

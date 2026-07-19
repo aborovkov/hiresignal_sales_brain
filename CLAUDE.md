@@ -27,7 +27,8 @@ ops/        The engines: how transcripts become assets, how we run sales.
 
 ## crm/
 
-* `pipeline.md` — **Sheet-vs-repo split**, funnel stages, per-account schema.
+* `pipeline.md` — how the CRM works, funnel stages, per-account schema.
+* `leads.csv` — **the live pipeline.** One row per person, keyed by LinkedIn URL. Source of truth for lead status and movement.
 * `accounts/<slug>.md` — one file per account (use `accounts/_template.md`).
 * `_next_actions.md` — who to contact / reply to next.
 
@@ -48,7 +49,7 @@ ops/        The engines: how transcripts become assets, how we run sales.
 
 # Conventions
 
-* **Live pipeline is in the Google Sheet** (`1WTbK6Zmha5EttAs3m0RsbPlOXq3lh_0t-v4AdMhGQfI`). The repo holds depth, not stage-movement. See `crm/pipeline.md`.
+* **Live pipeline is `crm/leads.csv` in this repo.** The Google Sheet "(StepUP) Data Room навигация" (`1WTbK6Zmha5EttAs3m0RsbPlOXq3lh_0t-v4AdMhGQfI`) is **retired for lead analysis** — its lead lists were fully imported into `crm/leads.csv` on 2026-07-19 and the Sheet is stale from that date. Never read it for leads, statuses, or pipeline questions. See `crm/pipeline.md`.
 * **Anonymization:** names live only in `crm/` and `sources/`. Never promote identifying detail into `brain/` or `content/`.
 * **One fact, one home.** If two files would state the same thing, one owns it and the other links. Canonical outreach opener lives only in `brain/outreach.md`.
 * Content voice is governed by `brain/voice.md`. Content flows via `/linkedin-post-writer` → `/linkedin-humanizer` audit → Publora (Tue–Thu, 07:30–09:00 Tbilisi).
