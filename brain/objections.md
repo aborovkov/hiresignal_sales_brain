@@ -327,3 +327,11 @@ The goal is:
 
 ### "I'm not personally involved in conducting technical interviews or screening" `[mariam-tsitelashvili, lost]` (persona mismatch)
 - Disqualify, do not answer. Prevent with an ICP gate: only DM people who personally own screening/interviews. Business-development and non-technical roles are a miss regardless of message quality.
+
+
+### "We have our CTO in the team, who takes care about it" `[fernando-eillman, TalentCross, replied 2026-05-27]` (internal-owner deflection)
+- Meaning: screening is covered by a trusted internal person. Polite deflection, not a value objection - at small agency scale CTO vetting genuinely works, so "is that sustainable?" reads as an insult.
+- What NOT to do (field-tested failure): the 2026-05-27 AI auto-reply lectured him - "the bar stays high - but so does the cost. Curious whether that's sustainable as placement volume grows." Invented a cost/volume pain with zero knowledge of his volume, abstract consultant register, no offer, no answerable question. Thread died; Alexey: "полная чушь". Never argue that their internal owner is a bottleneck.
+- Best known answer (untested): validate the setup, then offer the CTO leverage instead of replacement - "Makes sense - a CTO who vets personally is why your placements stick. If he ever wants a second signal on a busy batch, I'll run 10 candidates against one live role free; he keeps every call." CTO becomes the user, not the competitor. Alternative: park +60d and return only on a live trigger (vacancy spike).
+- Outcome: thread silent since 2026-05-27; next touch human-written only.
+- Source: `../crm/accounts/fernando-eillman.md`

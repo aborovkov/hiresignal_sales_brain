@@ -11,5 +11,6 @@ Scope for hunts under this decision:
 - Target: owners, founders, managing partners, and senior delivery leads of technical recruiting / IT staffing agencies.
 - Strong fit signals: tech-focused desk (engineering roles), client-side interview dependence, inbound fraud pain (fake / geo-masked applicants), CIS or EU/US remote markets.
 - Disqualifiers: generic non-technical staffing, pure volume shops, enterprise in-house TA teams.
+- **Hard disqualifier (2026-07-18, Alexey, personal): no leads based in Ukraine.** Drop at scoring time regardless of fit; never write them to `crm/leads.csv`.
 
 If the strategy question in `icp.md` gets resolved differently later, update this file — lead-hunter reads it before every run.

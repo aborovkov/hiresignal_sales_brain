@@ -1,0 +1,6 @@
+linkedin_url,stage,opener_variant,connect_sent_at,connect_accepted_at,opener_sent_at,replied_at,reply_class,won_at,dead_at,notes
+https://www.linkedin.com/in/ACoAAAHaWL8BDZKCHxKVV,won,A_volume_turing,,,2026-07-15,2026-07-15,positive,2026-07-15,,"Dina Veprikova; reply 11min, demo booked 16min; already 1st-degree so connect predates"
+https://www.linkedin.com/in/ACoAAAGB-3IBD338N,replied,A_volume_turing,,,2026-07-15,2026-07-15,positive,,,"Sean Hassell; warm same-evening reply, promised to try; 1st-degree"
+https://www.linkedin.com/in/ACoAABW8d1EBwBtnED0f-MO2RrUm4RMyamfuQHo,dead,A_volume_turing,,,2026-07-15,2026-07-16,decline,,2026-07-16,"Margarita Isadjanean; warm decline (builds own AI), door left open; 1st-degree"
+account:roman-ostroushko,won,B_role_anchored,,,2026-07-16,2026-07-16,positive,2026-07-16,,"Roman Ostroushko Head of Eng; trial accepted in 10min; account file has no URL"
+account:fernando-eillman,dead,A_volume_turing,,,2026-05-27,2026-05-27,decline,,2026-05-27,"Fernando Eillman; replied 'we have our CTO', AI auto-reply killed thread (grounding-gate origin)"

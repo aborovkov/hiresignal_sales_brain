@@ -6,6 +6,18 @@
 
 ---
 
+# 00. Grounding gate - hard rules before ANY draft (added 2026-07-19, Fer Eillman incident)
+
+Context: Fernando Eillman (TalentCross) replied to the 27 May opener with "we have our CTO in the team, who take care about it". Two minutes later an AI auto-reply lectured him that his own setup was unsustainable ("the bar stays high - but so does the cost. Curious whether that's sustainable...") - invented pain, abstract register, no offer, thread died. Alexey's verdict: "полная чушь, так больше писать не надо." Full log: `../crm/accounts/fernando-eillman.md`; objection filed in `objections.md`. Separately, the May-July campaigns ran off a stale Google Sheet with unlogged statuses/WAS SENT, producing double-sends (OnHires, reQruitz, Talenteek). These rules exist so neither can recur.
+
+1. **Thread first.** For any lead with status `replied` or later, or with any prior message in the thread: do not draft until the actual LinkedIn thread text is in front of you (paste or live browser read). Drafting from a CRM row or spreadsheet stage alone is forbidden. Thread unavailable = stop and ask for it.
+2. **Source per claim.** Every personalized statement in a draft shown for review carries its source in brackets: [their post, date], [thread, date], [profile headline]. No source = cut the claim or fall back to the plain volume question.
+3. **No bulk to warm.** Leads with status `replied` or later are excluded from every batch, template, or mass-send run. They get an individually written reply, human-reviewed before send, every time.
+4. **Check the log before any touch.** Read last_touch_at + notes in `crm/leads.csv` (or the thread itself) before composing. A blank tracking column means "not logged", never "not contacted".
+5. **Log at send time.** Any sent message is written back to the CRM in the same session, before the next lead is opened.
+
+---
+
 # 0. What actually converts (field evidence, 2026-07)
 
 First outbound wave (15-17 Jul). Two structures, both landed. Evidence cross-checked against `content/winning-messages.md` and the `crm/accounts/` files.
