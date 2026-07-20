@@ -9,8 +9,8 @@ source: cold outreach after connect, 1st degree connection
 icp: B
 stage: conversation
 stage_date: 2026-07-09
-next_action: if no reply to "заметила что-нибудь еще?" by then - send a 2-3 min video walkthrough of her own profile report (the UI-screenshot PDF did not convey how it works)
-next_action_date: 2026-07-18
+next_action: send the new mini-video (being produced this week for the landing redo) as a personal touch - ask her, as external HR BP, to say where it is unclear; concrete micro-ask, not a bump
+next_action_date: 2026-07-24
 ---
 
 ## Snapshot
@@ -22,6 +22,7 @@ External HR BP ("я как агенство, как внешний HR BP") for t
 - 2026-07-09: confirmed technical roles in work, self-built screening scheme on borrowed questions
 - 2026-07-15: engaged critically with the product (real evaluation, not politeness) - gave the "my own HR AI" objection unprompted
 - 2026-07-15: found a data bug in her profile run: phone number rendered incorrectly (turned out to be the stale number in her LinkedIn profile itself)
+- 2026-07-20: re-engaged - looked at the material, exchange continued, interest visible; tone reads ambiguous (possibly flirtatious rather than commercial). Went quiet again after.
 
 ## Log
 
@@ -94,6 +95,9 @@ External HR BP ("я как агенство, как внешний HR BP") for t
 > Me: либо настройки у вас либо одно из двух)
 > Me: заметила что-нибудь еще ? (номер телефона такой у тебя стоит в ЛИ)
 
+### 2026-07-20 - DM (user account, not verbatim)
+New exchange since 07-15: she looked at what was sent, they corresponded, seemed interested - but the tone was ambiguous (business interest vs flirting, hard to tell), and she has gone quiet again. Verbatim thread not yet pasted - add it here when available; what exactly she "looked at" (the report link vs a video) is unconfirmed.
+
 ## Objections raised
 
 - "я и так могу загнать это в ИИ свой который обучен всему. Чем разница между моим HR ИИ и этой прогой. Как будто не вижу ценности" -> skill taxonomy + purpose-built extraction prompts vs re-running a prompt series manually per candidate -> 💚 reaction, conversation continued. Field instance of Objection 0 ("why not just ChatGPT") - filed to `../../brain/objections.md`.
@@ -101,3 +105,5 @@ External HR BP ("я как агенство, как внешний HR BP") for t
 ## Notes
 
 Thread is in Russian - all future touches in Russian. Ball is technically on her side (open question "заметила что-нибудь еще?"), but the real gap is comprehension: the UI-screenshots PDF failed twice as an asset - both technically (would not open on LinkedIn even compressed; her own profile PDF also failed - possibly her client/app) and substantively ("непонятно как работает"). For a non-technical HR audience the PDF produces "looks nice, value unclear". A short video walkthrough of HER OWN report is the natural next asset - it answers the objection with her own data. Relationship is an asset in itself: "Мне вообще нравится с тобой взаимодействие" - she gives honest product feedback unprompted, useful as an informal advisor voice from the external-HR-BP segment even before any deal. Live demo of her profile is a GDPR-sensitive touch - offer-to-delete was made in the thread; if she asks, actually delete and confirm.
+
+Reactivation read (2026-07-20): the flirt-vs-interest ambiguity is not a problem to resolve - it is the relationship style she set from message one ("поговорим по русски?)", "энд ю?)"). Do not match the flirt and do not go cold-formal; keep the warm register but always attach a concrete micro-ask so every touch has a business spine. Her value right now is (a) honest product feedback from the exact non-technical external-HR audience the new mini-video targets, and (b) a real vacancy if one surfaces. Escalation path: mini-video feedback ask -> if she engages, "давай прогоним одну твою реальную вакансию" -> if silent after that, park +60d without drama.

@@ -19,7 +19,7 @@
 - [ ] `dina-veprikova` - TRIAL, active (Telegram). Found bug -> fixed -> re-testing; ran more matches on her own. If no reply by 2026-07-23: light check-in, confirm fix, steer to a real vacancy. Still owe: CV-volume + own-client-base qualification - see `accounts/dina-veprikova.md`
 - [ ] `soumya-madan` - apply her 5 product-feedback points; ask for 1-2 recruiter intros - see `accounts/soumya-madan.md`
 - [ ] `julia-fokina` (NEWHR) - check if the CV/JD link reached Kira; nurture via Kira, FU +7d - see `accounts/julia-fokina.md`
-- [ ] `katya-lay` - by 2026-07-18 if she stays silent: send 2-3 min video walkthrough of her own profile report (RU) - the PDF asset failed twice, video answers "не вижу ценности" - see `accounts/katya-lay.md`
+- [ ] `katya-lay` - re-engaged ~07-19/20 (looked at material, tone playful-ambiguous), quiet again. By 2026-07-24: send the new mini-video (from the landing redo) with a concrete feedback micro-ask; if she engages - propose running one of her real vacancies - see `accounts/katya-lay.md`
 
 ## Parked (dated reactivation)
 - [ ] `julia-chimisova` (Lavendo) - by 2026-09-15: revisit with a proof asset (anonymized before/after), not a re-pitch. Wording: "not looking to add new screening tools" - see `accounts/julia-chimisova.md`

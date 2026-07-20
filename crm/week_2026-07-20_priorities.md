@@ -21,7 +21,7 @@
 
 Every item below has a date that has already passed. One sitting, Monday.
 
-- [ ] **katya-lay** (due 07-18): record 2–3 min RU video walkthrough of her own profile report. The PDF asset failed twice; video is the agreed answer to "не вижу ценности".
+- [ ] **katya-lay** (updated 07-20): she re-engaged (looked at the material, playful-ambiguous tone), then went quiet again. Video asset still the play - now merged with the mini-video production in P4. By 07-24: send it with a concrete feedback micro-ask.
 - [ ] **sean-hassell** (due 07-19): FU1 with seeded-vacancy offer (his JD, 3–5 anonymized candidates) + re-ask the CV-count question.
 - [ ] **Focused-inbox cold batch of 07-16** (FU1 due +3–4d → now): Nadia Yankovskaya, Aleksey Zorin, Kristina Shunkova, Albina Mamedova, Rinat Shaykhutdinov, Daria Motorkina. FU1 = "your own CV through StepUP", never a bump.
 - [ ] **Elisaveta Vladeva, Natalia Romashkina, Liz Taylor**: two touches sent, rule says no 3rd — park +60d (revisit ~2026-09-20) in `leads.csv` and `_next_actions.md`.
@@ -37,7 +37,18 @@ Every item below has a date that has already passed. One sitting, Monday.
 - [ ] Qualify the channel angle: own client base → she's a door into multiple startups, not one account.
 - [ ] Paste the Telegram thread into the account file (log is non-verbatim right now) + record what the bug was.
 
-## P4 — Lock the offer wedge parameters (`brain/offer.md`)
+## P4 — Landing page redo per Stas's feedback + mini-video (added 07-20, must land this week)
+
+Alexey's call: this has to be resolved this week. It also unblocks three waiting consumers: Katya Lay (video is her next asset), Sofiia Harasaian (parked until "redone landing page + shareable one-liner" exists), and every future cold DM that links the site.
+
+- [ ] **File Stas's feedback first** - it is not in the repo anywhere (`sources/notes/2026-07-XX__stas__feedback.md`). Rework against a written list, not memory.
+- [ ] Rework the landing per that list.
+- [ ] Record the **mini-video** (60-120 sec product walkthrough): what lands on the page is the master; a personalized variant goes to Katya. Script rule from the Katya PDF failure: show the report on real data, not UI screenshots - the audience is non-technical HR.
+- [ ] **Pick the video captioning/transcription tool** and lock it as the standard for all video assets (see candidates in the reply thread / notes). Requirements: RU + EN subtitles, fast turnaround, burned-in captions for LinkedIn autoplay.
+
+**Definition of done:** landing reworked, one mini-video published on it with captions, tool chosen and written into ops.
+
+## P5 — Lock the offer wedge parameters (`brain/offer.md`)
 
 Roman's pilot and Dina's free tier are being sold against an offer with TODO parameters. Before either converts, we must be able to answer "what happens after the free batch."
 
@@ -47,7 +58,7 @@ Roman's pilot and Dina's free tier are being sold against an offer with TODO par
 
 **Definition of done:** `offer.md` loses its ⚠️ TODO header for wedge + conversion trigger (pricing may stay draft, but flagged consciously).
 
-## P5 — New outreach wave from the queued backlog
+## P6 — New outreach wave from the queued backlog
 
 186 contacted vs. 104 queued + 100 new: the top of the funnel is stocked (Sheet import landed 07-19) but the last wave was 07-16. Reply energy this week should come from new sends, not just follow-ups.
 
@@ -55,7 +66,7 @@ Roman's pilot and Dina's free tier are being sold against an offer with TODO par
 - [ ] Use tracked opener variants (`A_volume_turing` / `B_role_anchored`) and log every send to `outreach_funnel.csv` at send time — the 5-row funnel is too thin to read reply-rate signal yet; this wave fixes that.
 - [ ] From the 07-16 worklist: resolve founders for the 5 named companies (Rebyc, Tech Talent Link, Talent Stack, Emerald Resource Group, The Talent Mine) before their rows go stale.
 
-## P6 — Content machine: publish post #1
+## P7 — Content machine: publish post #1
 
 `post_log.md` is empty — the pipeline (pillars, formulas, cadence) is fully built and has produced zero output. The comments engine is documented as driving more inbound than posts and is also at zero.
 
