@@ -6,10 +6,10 @@ location: UK (UK Global Talent Visa holder per headline)
 linkedin: https://www.linkedin.com/in/ACoAAAHaWL8BDZKCHxKVV_w5BecOWunIkmAh4N8
 source: cold outreach, 1st degree connection
 icp: A
-stage: demo
-stage_date: 2026-07-16
-next_action: hold the demo call (booked via her Calendly, 45 min); on the call get CV volume, client count, current screening flow; close on activating the free tier same day
-next_action_date: 2026-07-16
+stage: trial
+stage_date: 2026-07-20
+next_action: if she has not returned with re-test results by then, light Telegram check-in - confirm the bug fix holds, then steer toward running one of her real vacancies
+next_action_date: 2026-07-23
 ---
 
 ## Snapshot
@@ -19,6 +19,7 @@ Talent & People Partner doing technical recruiting for startups and scale-ups, U
 ## Signals
 
 - 2026-07-15: replied in 11 minutes with direct trial intent - no objections, no questions. Screening volume pain likely acute or she is an early-adopter type
+- 2026-07-20: active product usage confirmed - tested the system, reported a bug, and after the fix was seen running several more matches on her own. Engaged-user behavior, not polite-trial behavior.
 
 ## Log
 
@@ -46,6 +47,9 @@ Talent & People Partner doing technical recruiting for startups and scale-ups, U
 ### 2026-07-15 - DM (LinkedIn), 18:48
 > Me: scheduled for tomorrow!
 
+### 2026-07-20 - Telegram (user account, not verbatim)
+Conversation moved to Telegram. She has been testing the system hands-on: found a bug, Alexey fixed it and handed it back for re-test. She has not replied yet, but product activity shows she ran several more matches after the fix. Trial is real and self-driven. (Telegram thread not yet pasted - log verbatim exchange when available. Bug specifics not captured - worth recording for product feedback.)
+
 ## Objections raised
 
 - None. Went straight to trial intent.
@@ -58,5 +62,7 @@ Talent & People Partner doing technical recruiting for startups and scale-ups, U
 - Close: free tier activated before the call ends (100 screenings + 5 AI interviews, expires on use)
 
 ## Notes
+
+Primary channel is now Telegram, not LinkedIn. Outcome of the 07-16 demo call itself was never logged separately - trial usage is confirmed via the Telegram thread and product activity, so the stage moved on evidence of usage, not on the call. Demo-prep questions (CV volume, own client base vs in-house) are still open - fold them into the next Telegram touch.
 
 Calendly: https://calendly.com/dinaveprikova/45min. She flipped the scheduling - sent her own link instead of taking his. Decisive, low-friction style; keep the demo practical, not slide-driven. If the call confirms own client base, she is also a potential channel into multiple startups, not just one account.

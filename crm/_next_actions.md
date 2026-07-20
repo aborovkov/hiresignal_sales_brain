@@ -14,8 +14,9 @@
 - [ ] Yana Yakimchuk - inbound Web3 hiring request flipped to StepUP pitch, no reply. Low priority (persona mismatch: she was hiring, not screening).
 
 ## In conversation
-- [ ] `roman-ostroushko` - HOT (trial). Collect his JD + CV batch, run the sample, return scored report. First pilot of the wave - see `accounts/roman-ostroushko.md`
-- [ ] `dina-veprikova` - demo booked (45 min, her Calendly). Open with the CV-count question, qualify own-client-base, activate free tier on the call - see `accounts/dina-veprikova.md`
+- [ ] `roman-ostroushko` - HOT (trial). 2026-07-20: referred his Spain-based colleague to run the pilot. Get her name/contact, open her account file, collect JD + CVs through her; keep Roman cc'd on the report - see `accounts/roman-ostroushko.md`
+- [ ] **NEW LEAD (name TBD)** - Roman's colleague in Spain, referral. Blocked on getting her name/contact from Roman - then `accounts/<slug>.md`, source: referral by roman-ostroushko
+- [ ] `dina-veprikova` - TRIAL, active (Telegram). Found bug -> fixed -> re-testing; ran more matches on her own. If no reply by 2026-07-23: light check-in, confirm fix, steer to a real vacancy. Still owe: CV-volume + own-client-base qualification - see `accounts/dina-veprikova.md`
 - [ ] `soumya-madan` - apply her 5 product-feedback points; ask for 1-2 recruiter intros - see `accounts/soumya-madan.md`
 - [ ] `julia-fokina` (NEWHR) - check if the CV/JD link reached Kira; nurture via Kira, FU +7d - see `accounts/julia-fokina.md`
 - [ ] `katya-lay` - by 2026-07-18 if she stays silent: send 2-3 min video walkthrough of her own profile report (RU) - the PDF asset failed twice, video answers "не вижу ценности" - see `accounts/katya-lay.md`

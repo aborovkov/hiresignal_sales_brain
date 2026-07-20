@@ -7,9 +7,11 @@
 
 ## P1 — Deliver Roman's pilot (the week's single most important outcome)
 
-**Why first:** only conversion of the 15-DM wave, decision-maker, said yes in 10 minutes on 07-16. `next_action_date` was 07-18 — already slipping. This is simultaneously the first real pilot, the first proof asset, and the test of the whole free-sample wedge.
+**Why first:** only conversion of the 15-DM wave, decision-maker, said yes in 10 minutes on 07-16. This is simultaneously the first real pilot, the first proof asset, and the test of the whole free-sample wedge.
 
-- [ ] If JD + CV batch not yet received: nudge today (Mon). If still silent by Wed: FU per account plan — run his own most recent hire's CV through StepUP so he sees output with zero effort.
+**Update 07-20:** Roman is not ghosting - he referred his Spain-based colleague (name TBD) to run the pilot. The pilot path now goes through her.
+
+- [ ] Get her name + contact from the thread, create her account file (`source: referral by roman-ostroushko`), open the conversation, collect JD + CV batch through her. Keep Roman cc'd on the result.
 - [ ] Once inputs land: run the sample **same day**, return the scored report (obvious no's filtered, borderline kept, worth-a-conversation surfaced — the exact framing he was sold).
 - [ ] Capture everything for `brain/proof.md`: batch size, Proceed/Hold/Reject split, turnaround time. This is the "Batch screening outcome" case study waiting to exist.
 
@@ -26,13 +28,14 @@ Every item below has a date that has already passed. One sitting, Monday.
 
 **Definition of done:** nothing in `_next_actions.md` carries a date earlier than today.
 
-## P3 — Dina Veprikova: close the loop on the demo
+## P3 — Dina Veprikova: convert active trial usage into a real vacancy
 
-Demo was booked for 07-16 (45 min, her Calendly); the account file has prep notes but **no outcome logged**. Either the demo happened and the CRM is behind, or it didn't and she needs a reschedule touch.
+**Update 07-20:** she's in **trial**, and it's real - moved to Telegram, tested hands-on, found a bug (fixed same cycle, back with her for re-test), and ran several more matches on her own. Loop is closed; now steer the energy.
 
-- [ ] Log what actually happened (contact log + status in `leads.csv`).
-- [ ] If it happened: execute the close plan — free tier activated, seed a vacancy with her real JD. If it didn't: one light reschedule message this week.
+- [ ] If no re-test reply by Wed 07-23: light Telegram check-in - confirm the fix holds, then push to run one of her **real vacancies** through the system.
+- [ ] Still owed from demo prep: CV-volume question + qualify own-client-base vs in-house — fold both into the next touch.
 - [ ] Qualify the channel angle: own client base → she's a door into multiple startups, not one account.
+- [ ] Paste the Telegram thread into the account file (log is non-verbatim right now) + record what the bug was.
 
 ## P4 — Lock the offer wedge parameters (`brain/offer.md`)
 

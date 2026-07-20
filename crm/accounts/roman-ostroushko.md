@@ -8,8 +8,8 @@ source: cold DM (outbound wave, role-anchored volume question)
 icp: B
 stage: trial
 stage_date: 2026-07-16
-next_action: Get his open role (JD) + a batch of CVs, run the sample, return scored report. First real pilot of the wave.
-next_action_date: 2026-07-18
+next_action: Get the name + contact of his Spain-based colleague (she will run the pilot); open a thread with her, collect JD + CV batch through her.
+next_action_date: 2026-07-21
 ---
 
 ## Snapshot
@@ -17,6 +17,7 @@ Head of Engineering who personally owns resume screening + first-round interview
 
 ## Signals
 - 2026-07-16: agreed to run a pilot on his own open role.
+- 2026-07-20: referred Alexey to a colleague of his (female, based in Spain) - she is the one to run the pilot with. Delegating instead of ghosting = intent is real.
 
 ## Log
 ### 2026-07-16 - DM
@@ -24,8 +25,12 @@ Head of Engineering who personally owns resume screening + first-round interview
 > Them: Hello, yes, I would like to take part in this.
 > Me: Perfect. To kick it off: send me one open role (JD) plus a batch of CVs you'd otherwise read yourself. You get scored reports back - the obvious no's filtered out, the borderline calls kept for you to decide, and the ones actually worth a conversation surfaced. What are you hiring for right now?
 
+### 2026-07-20 - update (user account, not verbatim)
+Roman redirected the pilot to a colleague of his based in Spain - she owns the part of the process the sample needs. Her name/contact not yet captured; details of her situation were cut off in the update. As soon as the name lands: create `crm/accounts/<her-slug>.md` with `source: referral by roman-ostroushko` and move pilot logistics (JD + CVs) into her thread.
+
 ## Objections raised
 - None. Clean yes.
 
 ## Notes
 The exact message that won is logged in `content/winning-messages.md`. If he goes quiet, FU1 (+3-4d): offer to run his own most recent hire's CV through StepUP so he sees output without lifting a finger. Fill company + LinkedIn URL from the profile.
+Pilot now runs through the referred colleague (Spain, name TBD) - Roman stays the decision-maker/sponsor; keep him cc'd on the scored report so the win lands with him too.
