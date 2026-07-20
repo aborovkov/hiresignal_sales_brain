@@ -8,8 +8,8 @@ source: cold DM 2026-07-07 (agency-tailored opener, HireSignal framing)
 icp: A (agency desk, tech roles, EU-based with RF-to-US client geography, live vacancy, active screening volume)
 stage: trial
 stage_date: 2026-07-08
-next_action: follow up - 12 days of silence since invite: did the discovery call happen (check Calendly booking), did testing start, is the PM-vacancy test run still on? One message, reference his own "поделюсь обратной связью после тестирования"
-next_action_date: 2026-07-20
+next_action: DO NOT contact directly for now (Alexey's call, 2026-07-20) - the Efix entry runs through Yulia. After her call happens, close the loop with him (thanks + outcome) and only then pick up his open loops (discovery call, invite activity, PM run).
+next_action_date: 2026-07-24
 ---
 
 ## Snapshot
@@ -57,7 +57,9 @@ Recruiter at Efix, IT & FinTech desk with clients spanning RF to US, based in Al
 
 ## Notes
 
-Open loops, 12 days old as of 07-20: (1) discovery call - he picked a slot on 07-07, no outcome logged anywhere; check the Calendly booking record; (2) platform invite sent 07-08 - any login/activity?; (3) PM-vacancy test run agreed in principle but details were deferred to the call. The follow-up should reference his own commitment ("поделюсь обратной связью после тестирования") rather than re-pitch.
+STRATEGY (2026-07-20, Alexey): work Efix through Yulia, not through Vitalii. He handed the ball to her ("Я коллегам идею донес... она хочет предметно пообщаться") - going back at him in parallel risks looking pushy and splits the account's attention. His open loops get raised naturally after Yulia's call, wrapped in a thank-you.
+
+Open loops, 12 days old as of 07-20 (parked until after Yulia's call): (1) discovery call - he picked a slot on 07-07, no outcome logged anywhere; check the Calendly booking record; (2) platform invite sent 07-08 - any login/activity?; (3) PM-vacancy test run agreed in principle but details were deferred to the call. The follow-up should reference his own commitment ("поделюсь обратной связью после тестирования") rather than re-pitch.
 
 The 07-07 pitch is a field-validated winning structure (logged in `content/winning-messages.md`): mirror their named pains point-by-point, then collapse into a concrete test-run offer ("одна реальная вакансия, 24 часа, до 10 кандидатов, скоркарты с обоснованием"). Also: he switched to "ты" mid-thread (14:42 "Можешь, пожалуйста") - mirror informal register going forward.
 
