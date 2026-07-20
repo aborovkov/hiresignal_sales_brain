@@ -1,12 +1,12 @@
 ---
 name: Yulia (surname TBD; Telegram display name "July")
-company: (unknown - qualify on the call)
-role: (unknown - qualify on the call)
+company: Efix (colleague of Vitalii Pustobaev - recruiting agency, IT & FinTech)
+role: (unknown - qualify on the call; likely recruiting/delivery side at Efix)
 location: Spain
 linkedin: (unknown - Telegram-first contact)
-telegram: display name "July"
-source: referral by Vitalii Pustobaev (his colleague; see vitalii-pustobaev.md)
-icp: TBD (no role/company data yet - grade after the call)
+telegram: @julyyyyp (display name "July")
+source: referral by Vitalii Pustobaev (his Efix colleague; see vitalii-pustobaev.md)
+icp: A-track pending call (Efix = agency desk already graded A via Vitalii; confirm her role)
 stage: conversation
 stage_date: 2026-07-09
 next_action: she is back from vacation (was out until 07-17) - write now, schedule the call this week; ask for one vacancy + a couple of candidates upfront to demo on her real examples
@@ -15,7 +15,7 @@ next_action_date: 2026-07-20
 
 ## Snapshot
 
-Warm referral from Vitaliy, based in Spain, communicates in Russian (formal "вы") via Telegram. First touch 07-08; she proposed continuing after her vacation (until 07-17) and explicitly agreed to plan a call - the ball was left in a "спишемся после 17-го" state. As of 07-20 she is back. Everything else (company, role, screening volume) is unknown - the call doubles as qualification.
+Warm referral inside Efix: Vitalii pitched StepUP to his colleagues himself ("Я коллегам идею донес") and routed her with "она хочет предметно пообщаться" - she came pre-sold on the idea, wanting specifics. Based in Spain, Russian thread (formal "вы") via Telegram. First touch 07-08; she deferred to after her vacation (until 07-17) and explicitly agreed to plan a call. As of 07-20 she is back. Role and desk unknown - the call doubles as qualification, but the Efix context means agency-side screening volume is near-certain.
 
 ## Signals
 

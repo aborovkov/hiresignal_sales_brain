@@ -16,7 +16,7 @@
 ## In conversation
 - [ ] `roman-ostroushko` - HOT (trial) but silent since the clean yes on 07-16. Nudge for JD + CVs today; if quiet by 07-22, FU: run his most recent hire's CV through StepUP - see `accounts/roman-ostroushko.md`
 - [ ] `yulia-spain` - HOT TIMING. Back from vacation (was out until 07-17), agreed pre-vacation to schedule a call. Write TODAY: reference "после 17-го", propose 2 slots, ask for one vacancy + a couple of candidates upfront - see `accounts/yulia-spain.md`
-- [ ] `vitalii-pustobaev` - referral source (sent Yulia) + likely direct fit (IT/Digital/FinTech desk, Alicante). After Yulia's call is booked: thank him for the referral, ask what he is hiring for himself. Paste the original thread with him - it is not in CRM - see `accounts/vitalii-pustobaev.md`
+- [ ] `vitalii-pustobaev` (Efix) - TRIAL, but 12 days silent since 07-08 invite. Three open loops: discovery call he self-booked (check Calendly - did it happen?), platform activity after invite, PM-vacancy test run (24h/10 candidates agreed in principle). FU today referencing his own "поделюсь обратной связью после тестирования"; register is "ты" - see `accounts/vitalii-pustobaev.md`
 - [ ] `dina-veprikova` - TRIAL, active (Telegram). Found bug -> fixed -> re-testing; ran more matches on her own. If no reply by 2026-07-23: light check-in, confirm fix, steer to a real vacancy. Still owe: CV-volume + own-client-base qualification - see `accounts/dina-veprikova.md`
 - [ ] `soumya-madan` - apply her 5 product-feedback points; ask for 1-2 recruiter intros - see `accounts/soumya-madan.md`
 - [ ] `julia-fokina` (NEWHR) - check if the CV/JD link reached Kira; nurture via Kira, FU +7d - see `accounts/julia-fokina.md`
