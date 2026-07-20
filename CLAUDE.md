@@ -40,6 +40,7 @@ ops/        The engines: how transcripts become assets, how we run sales.
 ## content/
 
 * `pillars.md` → `ideas.md` → `drafts/` → `published/` → `post_log.md`.
+* `links.md` — external links & competitor watch (competitor analysis lives here).
 
 ## ops/
 
