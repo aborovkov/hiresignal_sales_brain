@@ -5,7 +5,7 @@ role: (unknown - qualify on the call)
 location: Spain
 linkedin: (unknown - Telegram-first contact)
 telegram: display name "July"
-source: referral by Vitaliy (surname/context TBD - not yet in CRM)
+source: referral by Vitalii Pustobaev (his colleague; see vitalii-pustobaev.md)
 icp: TBD (no role/company data yet - grade after the call)
 stage: conversation
 stage_date: 2026-07-09
@@ -44,4 +44,4 @@ Warm referral from Vitaliy, based in Spain, communicates in Russian (formal "в�
 
 Register is formal Russian ("вы") - keep it until she switches. The 07-08 opener already planted the perfect call format: platform walkthrough + her real vacancy and candidates. The follow-up just needs to collect on that agreement - reference her own words ("после 17-го"), do not re-pitch.
 
-OPEN QUESTION (2026-07-20): is Yulia the same person as "Roman Ostroushko's Spain-based colleague" from the 07-20 voice update? Timeline argues against it (this thread started 07-08, Roman was first contacted 07-16, and the stated referrer here is Vitaliy), but "female + Spain + referral" matches suspiciously well. Confirm with Alexey; if they are different people, Roman's colleague is still an uncaptured lead. Also: who is Vitaliy? Not in the CRM - worth a row as a referral source.
+RESOLVED (2026-07-20): the referrer is Vitalii Pustobaev (IT/Digital/FinTech recruiter, Alicante) - Yulia is HIS colleague, not Roman's; the earlier "Roman's Spain colleague" attribution was a mix-up and has been corrected in `roman-ostroushko.md`. Implication for ICP: colleague of a tech recruiter, so she is likely in recruiting herself - the call should confirm role and desk. Vitalii now has his own file: `vitalii-pustobaev.md`.

@@ -14,9 +14,9 @@
 - [ ] Yana Yakimchuk - inbound Web3 hiring request flipped to StepUP pitch, no reply. Low priority (persona mismatch: she was hiring, not screening).
 
 ## In conversation
-- [ ] `roman-ostroushko` - HOT (trial). 2026-07-20: referred his Spain-based colleague to run the pilot. Get her name/contact, open her account file, collect JD + CVs through her; keep Roman cc'd on the report - see `accounts/roman-ostroushko.md`
+- [ ] `roman-ostroushko` - HOT (trial) but silent since the clean yes on 07-16. Nudge for JD + CVs today; if quiet by 07-22, FU: run his most recent hire's CV through StepUP - see `accounts/roman-ostroushko.md`
 - [ ] `yulia-spain` - HOT TIMING. Back from vacation (was out until 07-17), agreed pre-vacation to schedule a call. Write TODAY: reference "после 17-го", propose 2 slots, ask for one vacancy + a couple of candidates upfront - see `accounts/yulia-spain.md`
-- [ ] **Confirm:** is `yulia-spain` the same person as "Roman's Spain-based colleague" from the 07-20 update? Referrer in her thread is Vitaliy and the thread predates Roman's reply - if different people, Roman's colleague is still an uncaptured lead (get name/contact from Roman)
+- [ ] `vitalii-pustobaev` - referral source (sent Yulia) + likely direct fit (IT/Digital/FinTech desk, Alicante). After Yulia's call is booked: thank him for the referral, ask what he is hiring for himself. Paste the original thread with him - it is not in CRM - see `accounts/vitalii-pustobaev.md`
 - [ ] `dina-veprikova` - TRIAL, active (Telegram). Found bug -> fixed -> re-testing; ran more matches on her own. If no reply by 2026-07-23: light check-in, confirm fix, steer to a real vacancy. Still owe: CV-volume + own-client-base qualification - see `accounts/dina-veprikova.md`
 - [ ] `soumya-madan` - apply her 5 product-feedback points; ask for 1-2 recruiter intros - see `accounts/soumya-madan.md`
 - [ ] `julia-fokina` (NEWHR) - check if the CV/JD link reached Kira; nurture via Kira, FU +7d - see `accounts/julia-fokina.md`

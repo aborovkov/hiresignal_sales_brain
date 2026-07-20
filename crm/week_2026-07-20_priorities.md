@@ -9,13 +9,21 @@
 
 **Why first:** only conversion of the 15-DM wave, decision-maker, said yes in 10 minutes on 07-16. This is simultaneously the first real pilot, the first proof asset, and the test of the whole free-sample wedge.
 
-**Update 07-20:** Roman is not ghosting - he referred his Spain-based colleague (name TBD) to run the pilot. The pilot path now goes through her.
+**Update 07-20 (corrected):** the "Spain colleague referral" attributed to Roman was a mix-up - that referral is Vitalii Pustobaev → Yulia (both now in CRM, see P1b below). Roman himself has simply been silent since his clean yes on 07-16.
 
-- [ ] Get her name + contact from the thread, create her account file (`source: referral by roman-ostroushko`), open the conversation, collect JD + CV batch through her. Keep Roman cc'd on the result.
+- [ ] Nudge Roman for the JD + CV batch today; if still quiet by Wed 07-22, FU per account plan - run his most recent hire's CV through StepUP so he sees output with zero effort.
 - [ ] Once inputs land: run the sample **same day**, return the scored report (obvious no's filtered, borderline kept, worth-a-conversation surfaced — the exact framing he was sold).
 - [ ] Capture everything for `brain/proof.md`: batch size, Proceed/Hold/Reject split, turnaround time. This is the "Batch screening outcome" case study waiting to exist.
 
 **Definition of done:** scored report delivered to Roman, or a documented reason it's blocked on him.
+
+## P1b — Yulia (Spain, referral via Vitalii Pustobaev): book the call while the timing is hot
+
+She agreed pre-vacation to schedule a call ("после 17-го спишемся"), was out until 07-17, and is back as of today. This is a warm referral with a self-set deadline that just arrived - the cheapest meeting on the board.
+
+- [ ] Write her **today**: reference her own "после 17-го", propose 2 concrete slots, 20-30 min platform walkthrough.
+- [ ] Once a slot lands: ask for one vacancy + a couple of candidates upfront - demo on her real examples (the format was already planted in the 07-08 opener).
+- [ ] After booking: thank Vitalii for the referral + qualify his own desk (IT/Digital/FinTech recruiter - likely a direct fit, not just a router).
 
 ## P2 — Clear the overdue follow-up debt (all past due as of today)
 
