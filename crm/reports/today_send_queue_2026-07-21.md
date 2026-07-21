@@ -1,11 +1,12 @@
-# Send queue 2026-07-21 - 49 accepted-invite 1st-degree connections
+# Send queue 2026-07-21 - accepted-invite 1st-degree connections
 
-Cohort: `status=contacted`, invite confirmed accepted, never DMed. Split 25 x C_cv_callback / 24 x A2_volume_refresh.
+Cohort: `status=contacted`, invite confirmed accepted, never DMed. Split 25 x C_cv_callback / 23 x A2_volume_refresh.
 Same-company people always get the SAME variant (AMBOSS x2 -> C, SpiceOrb x2 -> A2) so coworkers never see two different pitches.
+Bruce Weller removed 2026-07-21: his `company` field reads 'Bill', which is a bad import, not a company name. He stays in leads.csv.
 
 **Read before sending:** LinkedIn is read-only for the assistant - every message below is sent by hand by Alexey.
-40 profile loads already burned today; split these across 2-3 sittings, not one burst.
-After each batch run: `python3 scripts/log_sent.py --variant C` (see bottom).
+Split these across 2-3 sittings, not one burst.
+After each batch run: `python3 scripts/log_sent.py --variant C` (or `--variant A2`).
 
 ---
 
@@ -388,7 +389,7 @@ You keep the conversations, we handle the reading.
 ```
 
 
-## A2_volume_refresh - 24 people
+## A2_volume_refresh - 23 people
 
 ### 1. Bill Kerr - Athyna
 https://www.linkedin.com/in/thebillkerr
@@ -405,22 +406,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 2. Bruce Weller - Bill **<- CHECK: company field reads 'Bill', verify before sending**
-https://www.linkedin.com/in/bruce-weller-099162
-
-```
-Bruce - we connected a while back and I never wrote.
-
-How many CVs land on your desk for a single engineering role at Bill right now?
-
-We built an evaluation layer that scores how a candidate thinks, not just the answer. Ran my own CV through it instead of describing it: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my short stint at HiForce as a churn risk, so it doesn't flatter its owner either.
-
-I can set you up with 100 resume screenings + 5 AI interviews to try, free, expires on use not calendar.
-
-You keep the conversations, we handle the reading.
-```
-
-### 3. Arjit Sofat - CBL Solutions
+### 2. Arjit Sofat - CBL Solutions
 https://www.linkedin.com/in/arjit-sofat-71941651
 
 ```
@@ -435,7 +421,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 4. Hakeem Abbas - Coding Crafts
+### 3. Hakeem Abbas - Coding Crafts
 https://www.linkedin.com/in/hakeemsyd
 
 ```
@@ -450,7 +436,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 5. Dave Camell - Edge Staffing
+### 4. Dave Camell - Edge Staffing
 https://www.linkedin.com/in/davecamell
 
 ```
@@ -465,7 +451,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 6. Denis Giacomelli - Engineering Insights
+### 5. Denis Giacomelli - Engineering Insights
 https://www.linkedin.com/in/denis-giacomelli-9069496
 
 ```
@@ -480,7 +466,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 7. Camila Gomes de Carvalho - Experis Brasil
+### 6. Camila Gomes de Carvalho - Experis Brasil
 https://www.linkedin.com/in/camilacarvalho7
 
 ```
@@ -495,7 +481,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 8. Dave Cannon - Gentis Solutions
+### 7. Dave Cannon - Gentis Solutions
 https://www.linkedin.com/in/dave-cannon
 
 ```
@@ -510,7 +496,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 9. Sofia Schoppe - iHuman Agency
+### 8. Sofia Schoppe - iHuman Agency
 https://www.linkedin.com/in/sofiaschoppe
 
 ```
@@ -525,7 +511,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 10. Olga Kavunenko - Intellectsoft
+### 9. Olga Kavunenko - Intellectsoft
 https://www.linkedin.com/in/olga-kavunenko
 
 ```
@@ -540,7 +526,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 11. Garrett Blood - Kajae
+### 10. Garrett Blood - Kajae
 https://www.linkedin.com/in/garrettblood
 
 ```
@@ -555,7 +541,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 12. Tatiana Melnichuk - Lucky Hunter
+### 11. Tatiana Melnichuk - Lucky Hunter
 https://www.linkedin.com/in/tatianamelnichuk
 
 ```
@@ -570,7 +556,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 13. Ramon Azevedo - Morada
+### 12. Ramon Azevedo - Morada
 https://www.linkedin.com/in/ramonazevedo
 
 ```
@@ -585,7 +571,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 14. Jeyakar Antony - Newlineinfo Corp
+### 13. Jeyakar Antony - Newlineinfo Corp
 https://www.linkedin.com/in/jeyantony
 
 ```
@@ -600,7 +586,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 15. Rahul Kathuria - Offshore Minds
+### 14. Rahul Kathuria - Offshore Minds
 https://www.linkedin.com/in/rahul-kathuria-50b651159
 
 ```
@@ -615,7 +601,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 16. Mariana Baldini - Pyou Brazil
+### 15. Mariana Baldini - Pyou Brazil
 https://www.linkedin.com/in/marianabaldini
 
 ```
@@ -630,7 +616,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 17. Miguel Marques - Remote Crew
+### 16. Miguel Marques - Remote Crew
 https://www.linkedin.com/in/miguelcdpmarques
 
 ```
@@ -645,7 +631,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 18. Osmar A. M. Pedrozo - SoftDesign
+### 17. Osmar A. M. Pedrozo - SoftDesign
 https://www.linkedin.com/in/opedrozo
 
 ```
@@ -660,7 +646,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 19. Naveen Suroj - SpiceOrb
+### 18. Naveen Suroj - SpiceOrb
 https://www.linkedin.com/in/naveen-suroj-4094ba20
 
 ```
@@ -675,7 +661,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 20. Arvind S. - SpiceOrb
+### 19. Arvind S. - SpiceOrb
 https://www.linkedin.com/in/arvindsinha
 
 ```
@@ -690,7 +676,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 21. Neerkeet Jarg - Talent Squad Pvt Ltd
+### 20. Neerkeet Jarg - Talent Squad Pvt Ltd
 https://www.linkedin.com/in/neerkeet-jarg-15539a116
 
 ```
@@ -705,7 +691,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 22. CHASE morrow - Techs and the City
+### 21. CHASE morrow - Techs and the City
 https://www.linkedin.com/in/digwhatyoudo
 
 ```
@@ -720,7 +706,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 23. María de la Paz Sarmiento - ThinkBigHR
+### 22. María de la Paz Sarmiento - ThinkBigHR
 https://www.linkedin.com/in/mariadelapazsarmiento
 
 ```
@@ -735,7 +721,7 @@ I can set you up with 100 resume screenings + 5 AI interviews to try, free, expi
 You keep the conversations, we handle the reading.
 ```
 
-### 24. Arthur Teixeira - UDS Tecnologia
+### 23. Arthur Teixeira - UDS Tecnologia
 https://www.linkedin.com/in/arthurnteixeira
 
 ```
