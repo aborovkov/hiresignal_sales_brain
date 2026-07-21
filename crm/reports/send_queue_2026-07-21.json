@@ -1,0 +1,394 @@
+[
+ {
+  "name": "Bill Kerr",
+  "first": "Bill",
+  "company": "Athyna",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/thebillkerr"
+ },
+ {
+  "name": "Bruce Weller",
+  "first": "Bruce",
+  "company": "Bill",
+  "variant": "A2",
+  "check": true,
+  "linkedin_url": "https://www.linkedin.com/in/bruce-weller-099162"
+ },
+ {
+  "name": "Arjit Sofat",
+  "first": "Arjit",
+  "company": "CBL Solutions",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/arjit-sofat-71941651"
+ },
+ {
+  "name": "Hakeem Abbas",
+  "first": "Hakeem",
+  "company": "Coding Crafts",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/hakeemsyd"
+ },
+ {
+  "name": "Dave Camell",
+  "first": "Dave",
+  "company": "Edge Staffing",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/davecamell"
+ },
+ {
+  "name": "Denis Giacomelli",
+  "first": "Denis",
+  "company": "Engineering Insights",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/denis-giacomelli-9069496"
+ },
+ {
+  "name": "Camila Gomes de Carvalho",
+  "first": "Camila",
+  "company": "Experis Brasil",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/camilacarvalho7"
+ },
+ {
+  "name": "Dave Cannon",
+  "first": "Dave",
+  "company": "Gentis Solutions",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/dave-cannon"
+ },
+ {
+  "name": "Sofia Schoppe",
+  "first": "Sofia",
+  "company": "iHuman Agency",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/sofiaschoppe"
+ },
+ {
+  "name": "Olga Kavunenko",
+  "first": "Olga",
+  "company": "Intellectsoft",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/olga-kavunenko"
+ },
+ {
+  "name": "Garrett Blood",
+  "first": "Garrett",
+  "company": "Kajae",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/garrettblood"
+ },
+ {
+  "name": "Tatiana Melnichuk",
+  "first": "Tatiana",
+  "company": "Lucky Hunter",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/tatianamelnichuk"
+ },
+ {
+  "name": "Ramon Azevedo",
+  "first": "Ramon",
+  "company": "Morada",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/ramonazevedo"
+ },
+ {
+  "name": "Jeyakar Antony",
+  "first": "Jeyakar",
+  "company": "Newlineinfo Corp",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/jeyantony"
+ },
+ {
+  "name": "Rahul Kathuria",
+  "first": "Rahul",
+  "company": "Offshore Minds",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/rahul-kathuria-50b651159"
+ },
+ {
+  "name": "Mariana Baldini",
+  "first": "Mariana",
+  "company": "Pyou Brazil",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/marianabaldini"
+ },
+ {
+  "name": "Miguel Marques",
+  "first": "Miguel",
+  "company": "Remote Crew",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/miguelcdpmarques"
+ },
+ {
+  "name": "Osmar A. M. Pedrozo",
+  "first": "Osmar",
+  "company": "SoftDesign",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/opedrozo"
+ },
+ {
+  "name": "Naveen Suroj",
+  "first": "Naveen",
+  "company": "SpiceOrb",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/naveen-suroj-4094ba20"
+ },
+ {
+  "name": "Arvind S.",
+  "first": "Arvind",
+  "company": "SpiceOrb",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/arvindsinha"
+ },
+ {
+  "name": "Neerkeet Jarg",
+  "first": "Neerkeet",
+  "company": "Talent Squad Pvt Ltd",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/neerkeet-jarg-15539a116"
+ },
+ {
+  "name": "CHASE morrow",
+  "first": "Chase",
+  "company": "Techs and the City",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/digwhatyoudo"
+ },
+ {
+  "name": "María de la Paz Sarmiento",
+  "first": "María",
+  "company": "ThinkBigHR",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/mariadelapazsarmiento"
+ },
+ {
+  "name": "Arthur Teixeira",
+  "first": "Arthur",
+  "company": "UDS Tecnologia",
+  "variant": "A2",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/arthurnteixeira"
+ },
+ {
+  "name": "Jesse Shrader",
+  "first": "Jesse",
+  "company": "AMBOSS",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/shraderjesse"
+ },
+ {
+  "name": "Julia Ka'iulani Nelson",
+  "first": "Julia",
+  "company": "AMBOSS",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/juliaknelson"
+ },
+ {
+  "name": "Maria Ines Garcia Palombo",
+  "first": "Maria",
+  "company": "Arkano Software",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/mariainesgarciapalombo"
+ },
+ {
+  "name": "Julián Fuks",
+  "first": "Julián",
+  "company": "BEON.tech",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/julian-fuks"
+ },
+ {
+  "name": "Paula Barrionuevo Tomedi",
+  "first": "Paula",
+  "company": "Builders",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/ptomedi"
+ },
+ {
+  "name": "Jorge Morales Ramirez",
+  "first": "Jorge",
+  "company": "CodeRoad Inc",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/jmmr"
+ },
+ {
+  "name": "Emilio Baez",
+  "first": "Emilio",
+  "company": "Developers.Net",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/ebaez"
+ },
+ {
+  "name": "Jake Broussard",
+  "first": "Jake",
+  "company": "Element Staffing Services",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/jake-broussard-6004981b"
+ },
+ {
+  "name": "Sarah-Emily Oades",
+  "first": "Sarah-Emily",
+  "company": "Eucalyptus",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/seoades"
+ },
+ {
+  "name": "Alejandro Ferrazzuolo",
+  "first": "Alejandro",
+  "company": "GEN Staffing & Recruiting",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/alejandro-ferrazzuolo-a4321b2"
+ },
+ {
+  "name": "Nadine Gubanova",
+  "first": "Nadine",
+  "company": "Gubanova & Partners",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/nadine-gubanova-10732487"
+ },
+ {
+  "name": "Kamran A.",
+  "first": "Kamran",
+  "company": "Integriti Studio",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/kamranpmp"
+ },
+ {
+  "name": "Kristina Marino",
+  "first": "Kristina",
+  "company": "IT Accel",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/kristinamarino"
+ },
+ {
+  "name": "Hirendra Bhattacharjee",
+  "first": "Hirendra",
+  "company": "Lite Tech",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/hirendrab"
+ },
+ {
+  "name": "Desislava Zhelyazkova",
+  "first": "Desislava",
+  "company": "Mobile Wave Solutions",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/desislava-zhelyazkova-056a35152"
+ },
+ {
+  "name": "John Oliver Coffey",
+  "first": "John",
+  "company": "NetMidas",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/johnolivercoffey"
+ },
+ {
+  "name": "Radhika Kasu",
+  "first": "Radhika",
+  "company": "Next Gen Software Solutions LLC",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/radhika-kasu-9368a5365"
+ },
+ {
+  "name": "Arun Kumar",
+  "first": "Arun",
+  "company": "OpenTeQ Technologies",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/arun-kumar-a94b55204"
+ },
+ {
+  "name": "Harsh Singh",
+  "first": "Harsh",
+  "company": "QuilinX",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/hvsingh1979"
+ },
+ {
+  "name": "Eze Alloatti",
+  "first": "Eze",
+  "company": "Scale Up Recruiting Partners",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/ezealloatti"
+ },
+ {
+  "name": "Nicole (Kilar) O'Neill",
+  "first": "Nicole",
+  "company": "Talent Edge Recruiting",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/nicole-kilar-o-neill-354807132"
+ },
+ {
+  "name": "Kelly Sindiney Torres Celis",
+  "first": "Kelly",
+  "company": "TalycapGlobal",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/kelly-sindiney-torres-celis-5002941b4"
+ },
+ {
+  "name": "Alex Lagos González",
+  "first": "Alex",
+  "company": "Tecnova IT Solutions",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/alexlagos"
+ },
+ {
+  "name": "Adam Szeptycki",
+  "first": "Adam",
+  "company": "tombo",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/adamszeptycki"
+ },
+ {
+  "name": "Luis Franklin Anaya Reyna",
+  "first": "Luis",
+  "company": "wirbi",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/luisfranklin"
+ }
+]

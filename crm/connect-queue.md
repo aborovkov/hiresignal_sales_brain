@@ -1,0 +1,102 @@
+# Connect queue - 100 leads, click Connect manually, top score first
+
+- [5] Alex Pettitt (CodeX Digital) https://www.linkedin.com/in/alexpettitt
+- [5] Valentina Brysina (-) https://www.linkedin.com/in/hireyourteam
+- [5] Oli Stockford (Stockford Recruitment) https://www.linkedin.com/in/oli-stockford
+- [5] Waqas Ali (Tech Hive Talent) https://www.linkedin.com/in/waqas-ali-51a43a371
+- [5] Nikos Kyriazidis (iTechScope) https://www.linkedin.com/in/nkyriazidisitechscope
+- [5] Steven Jagger (Maxwell Bond) https://www.linkedin.com/in/stevenjagger
+- [5] Rinat Kudiakov (Hi, Rockits!) https://www.linkedin.com/in/ree-kudiakov
+- [5] Nadine Gubanova (Gubanova & Partners) https://www.linkedin.com/in/nadine-gubanova-10732487
+- [5] Valentina Kozyreva (DigiCorn) https://www.linkedin.com/in/valentina-kozyreva-30193920a
+- [5] Tatiana Melnichuk (Lucky Hunter) https://www.linkedin.com/in/tatianamelnichuk
+- [5] Sandor Piller (euDevelopers) https://www.linkedin.com/in/sandorpiller
+- [5] Siarhei Bakulin (Sivilio) https://www.linkedin.com/in/sergbakulin
+- [5] Dmitry Chebanov (Spice IT Recruitment) https://www.linkedin.com/in/dchebanov
+- [5] Pavel Ptushkin (Spice IT Recruitment) https://www.linkedin.com/in/pavel-ptushkin-b5540524b
+- [5] Kamil Glowacki (dotLinkers) https://www.linkedin.com/in/kamilglowacki
+- [5] Tomasz Rodziewicz (Edge Recruitment) https://www.linkedin.com/in/tomasz-rodziewicz
+- [5] Matej Kotrba (KAIZEMA) https://www.linkedin.com/in/mat%c4%9bjkotrba
+- [4] Shaun Gwee (reco) https://www.linkedin.com/in/shaungwee
+- [4] Jonathan S. (reco) https://www.linkedin.com/in/jonathansay
+- [4] Matt Watts (Not Yet Unicorns) https://www.linkedin.com/in/matt-watts-5a40b953
+- [4] Laurence Evans (AES Global) https://www.linkedin.com/in/evanslaurence
+- [4] Kevin Allan (Ivaris) https://www.linkedin.com/in/kevin-allan-tech-recruiter
+- [4] Dan Blackwell (Ronald James Group) https://www.linkedin.com/in/danblackwell
+- [4] Robin Weiler (Impact Recruitment) https://www.linkedin.com/in/robin-weiler-a615b4174
+- [4] Marketa Krejci (Rezacova) (Reeva) https://www.linkedin.com/in/marketarezacova
+- [4] Phil Smith (-) https://www.linkedin.com/in/philsmithedison-tech
+- [4] Jeremy Daubresse (Beyond Skills) https://www.linkedin.com/in/jeremydaubresse-techrecruteur
+- [4] Raphael Eisenberg (Recruitment Circle) https://www.linkedin.com/in/raphael-eisenberg
+- [4] Paul Shone (Pixelated People) https://www.linkedin.com/in/paulshone
+- [4] Marc Cahill (staff-in Group) https://www.linkedin.com/in/marc-cahill
+- [4] Georgie Lynskey (G.Digital) https://www.linkedin.com/in/georgie-lynskey
+- [4] James MacDonald (NTP Talent) https://www.linkedin.com/in/jamesmacdonaldau
+- [4] Orla Fitzsimons (ViVA Tech Talent) https://www.linkedin.com/in/orla-fitzsimons-1366418
+- [4] Barry Smith (Nuage Technology Group) https://www.linkedin.com/in/barry-smith-200b0052
+- [4] Brad Leaman (-) https://www.linkedin.com/in/bradleaman
+- [4] Martin Blythe (The Searchability Group) https://www.linkedin.com/in/martinblythe
+- [4] Mark Hannigan (Unite Technology Staffing) https://www.linkedin.com/in/hanniganmark
+- [4] Joe Pilling (Three Group) https://www.linkedin.com/in/joepilling
+- [4] Chris Aust (TrinIT Talent) https://www.linkedin.com/in/christrinit
+- [4] Ondrej Horak (Andrew Paulsen) https://www.linkedin.com/in/onhorak
+- [4] Monika Owsianna (Allstar Search Group) https://www.linkedin.com/in/monikaowsianna
+- [4] Sabine Dzirkale (Supreme HR Latvija) https://www.linkedin.com/in/supreme-hr
+- [4] Louise Bishop (Integral Recruitment Limited) https://www.linkedin.com/in/louisebishop
+- [4] Neisa Baksh (-) https://www.linkedin.com/in/neisa
+- [4] Jamie Thompson (TrinIT Talent) https://www.linkedin.com/in/jamietrinit
+- [4] Therese Otten (-) https://www.linkedin.com/in/thereseotten
+- [4] Christoph Maassen (-) https://www.linkedin.com/in/christophmaassen
+- [4] Michal Davitkovski (Sourcein) https://www.linkedin.com/in/michal-davitkovski-aa028249
+- [4] William Denholm (Radiant Japan) https://www.linkedin.com/in/william-data-denholm%e3%80%80%e3%82%a6%e3%82%a3%e3%83%aa%e3%82%a2%e3%83%a0-%e3%83%87%e3%83%b3%e3%83%9b%e3%83%ab%e3%83%a0-918900106
+- [4] Brett Sirois (Stem IT) https://www.linkedin.com/in/stemit
+- [4] Marianna Horvath (euDevelopers) https://www.linkedin.com/in/marianna-horv%c3%a1th-99224457
+- [4] Bhumika Srivastava (ScaleX Consulting) https://www.linkedin.com/in/sbhumika
+- [4] Jay Guney (dcoded.) https://www.linkedin.com/in/jayguney
+- [4] Nathalie Brynza (HRREX-INT) https://www.linkedin.com/in/nathaliebrynza
+- [4] Tomasz Miller (comm1t) https://www.linkedin.com/in/tomaszmiller
+- [4] Drew Percival (Quantum People) https://www.linkedin.com/in/talent-solutions
+- [4] Jez Clark (Eden Smith Limited) https://www.linkedin.com/in/edensmithjezclark
+- [4] Lloyd Gray (connectify) https://www.linkedin.com/in/lloydgray
+- [4] Will Johnson (Blue Wolf Digital) https://www.linkedin.com/in/will-johnson-77443933
+- [3] Adam Elliott (Stacked) https://www.linkedin.com/in/adamelliott1
+- [3] Hugo Hernandez (Don Chambitas) https://www.linkedin.com/in/donchambitas
+- [3] Charlie Punshon (-) https://www.linkedin.com/in/charlie-punshon
+- [3] Lee Sentino (Innova Recruitment) https://www.linkedin.com/in/lee-sentino
+- [3] George Collier (Collier Global Transformation Partners) https://www.linkedin.com/in/georgecollier1
+- [3] James Reed (Seer) https://www.linkedin.com/in/james-reed-435522128
+- [3] Shaz Shafiq (Weston Marshall) https://www.linkedin.com/in/pitmantraininglw
+- [3] Adriaan Kolff (Matchr) https://www.linkedin.com/in/adriaankolff
+- [3] Michele Zotti (-) https://www.linkedin.com/in/michele-zotti2105
+- [3] A Sharma (CygniSoft) https://www.linkedin.com/in/sharmaamb
+- [3] Kathryn Tremblay (Altis Recruitment & Technology) https://www.linkedin.com/in/kathryn-tremblay
+- [3] Rick Ruffini (Mainspring Corporation) https://www.linkedin.com/in/rickruffini
+- [3] Morgan McIntyre (Found) https://www.linkedin.com/in/morganmcintyre
+- [3] Julia Jolkin (IT Talent) https://www.linkedin.com/in/juliajolkin
+- [3] Magdalena Nykiel (GetPRO) https://www.linkedin.com/in/magdalena-nykiel-9599b390
+- [3] Rajesh Sonkusre (Jobs Capital) https://www.linkedin.com/in/rajesh-sonkusre-25b479156
+- [3] Rafael Canaca (Spot On TLNT) https://www.linkedin.com/in/rafael-canaca-775147ab
+- [3] Oleksandr Folgin (-) https://www.linkedin.com/in/alex-folgin
+- [3] Colin Gerrard (-) https://www.linkedin.com/in/colingerrard
+- [3] Kavi Nowzari (-) https://www.linkedin.com/in/kavi-nowzari-b8169a50
+- [3] David Fontana (Tana Search) https://www.linkedin.com/in/dvdftn-tanasearch
+- [3] Brian Sanchez (Aleida Partners) https://www.linkedin.com/in/brian-sanchez-aleida-partners
+- [3] Simmane Bangura (Bangura Solutions) https://www.linkedin.com/in/simmane
+- [3] Jamal Sido (-) https://www.linkedin.com/in/jamalsido
+- [3] Raphael Schlussel (Cossel) https://www.linkedin.com/in/raphael-schlussel-5a4736a5
+- [3] Eric Busch (NeoSapiens) https://www.linkedin.com/in/ericbusch
+- [3] Ricardo van Dijk (-) https://www.linkedin.com/in/ricardovandijk
+- [3] Gordon Brown (Nine Twenty Technology) https://www.linkedin.com/in/gobrown
+- [2] Nadia van Bedijk (MORGENDAUW) https://www.linkedin.com/in/nadiavanbedijk
+- [2] Mark Thomas (Mirus) https://www.linkedin.com/in/markatmirus
+- [2] Thomas Fulton (Hirecracker Military) https://www.linkedin.com/in/thomas-fulton-hirecracker
+- [2] Tatiana Calpajiu (Easy Hire Staff) https://www.linkedin.com/in/tatiana-calpajiu-567738250
+- [2] Alex Volkov (Escanor) https://www.linkedin.com/in/vlkvalex
+- [2] Franck Venys (-) https://www.linkedin.com/in/franck-venys-ba3a777
+- [2] Daniel Ambrose (-) https://www.linkedin.com/in/daniel-ambrose1
+- [2] Chris Specht (Expect LLC) https://www.linkedin.com/in/expectdenver
+- [2] Anurag Kiran (Concord Group of Companies) https://www.linkedin.com/in/anurag-kiran-8b6b0b88
+- [2] Martin van Hal (Het Werkstation) https://www.linkedin.com/in/martinvanhal
+- [2] Mike Lupton (DMR Personnel Limited) https://www.linkedin.com/in/mikeluptonnorwich
+- [2] Curtis Bailey (Ascent Group) https://www.linkedin.com/in/curtisbailey
+- [2] Aijalon Wallace (-) https://www.linkedin.com/in/aijalonwallace

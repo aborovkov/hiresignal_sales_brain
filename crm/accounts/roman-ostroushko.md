@@ -17,6 +17,7 @@ Head of Engineering who personally owns resume screening + first-round interview
 
 ## Signals
 - 2026-07-16: agreed to run a pilot on his own open role.
+- 2026-07-21: **Bauman MSTU alumnus - same alma mater as Alexey** (per Alexey, not yet verified on the profile). Shared-school warm signal: usable as a personal opener on the follow-up, and a reason to treat this account as warm rather than cold-pilot.
 
 ## Log
 ### 2026-07-16 - DM

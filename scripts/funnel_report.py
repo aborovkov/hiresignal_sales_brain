@@ -34,13 +34,66 @@ def load_csv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(fh))
 
 
-def segment_by_url(leads: list[dict[str, str]]) -> dict[str, str]:
-    out: dict[str, str] = {}
+def normalize_url(url: str) -> str:
+    """Mirror leads.py normalize_url so both files key the same way."""
+    url = (url or "").strip().split("?")[0].rstrip("/")
+    if url.startswith("http://"):
+        url = "https://" + url[len("http://") :]
+    if url.startswith("https://linkedin.com"):
+        url = "https://www." + url[len("https://") :]
+    return url.lower()
+
+
+def slug_of(url: str) -> str:
+    """Last path segment of a /in/ URL, lowercased. '' when not a profile URL."""
+    url = normalize_url(url)
+    return url.rsplit("/in/", 1)[1] if "/in/" in url else ""
+
+
+def segment_index(leads: list[dict[str, str]]) -> tuple[dict[str, str], list[str]]:
+    """Return (lookup, profile_slugs).
+
+    lookup maps every key a sidecar row might use to an icp_segment:
+      - the normalized profile URL
+      - 'account:<name>' derived from the contact_file column
+    profile_slugs backs the prefix match for truncated LinkedIn URNs.
+    """
+    lookup: dict[str, str] = {}
+    slugs: list[str] = []
     for row in leads:
-        url = (row.get("linkedin_url") or "").strip()
+        seg = (row.get("icp_segment") or "unknown").strip() or "unknown"
+        url = normalize_url(row.get("linkedin_url") or "")
         if url:
-            out[url] = (row.get("icp_segment") or "unknown").strip() or "unknown"
-    return out
+            lookup[url] = seg
+            slug = slug_of(url)
+            if slug:
+                slugs.append(slug)
+                lookup[f"slug:{slug}"] = seg
+        contact = (row.get("contact_file") or "").strip()
+        if contact:
+            stem = Path(contact).stem.lower()
+            if stem:
+                lookup[f"account:{stem}"] = seg
+    return lookup, slugs
+
+
+def resolve_segment(key: str, lookup: dict[str, str], slugs: list[str]) -> str | None:
+    """Resolve a sidecar linkedin_url to an icp_segment, or None if unmatched."""
+    key = (key or "").strip()
+    if not key:
+        return None
+    if key.lower().startswith("account:"):
+        return lookup.get(key.lower())
+    url = normalize_url(key)
+    if url in lookup:
+        return lookup[url]
+    # LinkedIn URNs get truncated by hand-editing; match on a shared prefix.
+    slug = slug_of(url)
+    if slug:
+        hits = {s for s in slugs if s.startswith(slug) or slug.startswith(s)}
+        if len(hits) == 1:
+            return lookup.get(f"slug:{hits.pop()}")
+    return None
 
 
 def pct(num: int, den: int) -> str:
@@ -105,11 +158,24 @@ def print_funnel(rows: list[dict[str, str]]) -> None:
 def main() -> None:
     leads = load_csv(LEADS)
     funnel = load_csv(FUNNEL)
-    seg = segment_by_url(leads)
+    lookup, slugs = segment_index(leads)
+    unmatched: list[str] = []
     for r in funnel:
-        r["_segment"] = seg.get((r.get("linkedin_url") or "").strip(), "unknown")
+        key = (r.get("linkedin_url") or "").strip()
+        seg = resolve_segment(key, lookup, slugs)
+        if seg is None:
+            unmatched.append(key or "(blank key)")
+            seg = "unmatched"
+        r["_segment"] = seg
 
     print(f"leads: {len(leads)}   funnel rows: {len(funnel)}")
+    if unmatched:
+        print(
+            f"\n!! {len(unmatched)} funnel row(s) not joined to leads.csv "
+            f"- these are invisible to leads.csv status and to funnel.py:"
+        )
+        for key in unmatched:
+            print(f"   {key}")
     print_funnel(funnel)
     print_table("reply rate by opener variant", tally(funnel, lambda r: (r.get("opener_variant") or "unlabeled").strip() or "unlabeled"))
     print_table("reply rate by ICP segment", tally(funnel, lambda r: r["_segment"]))
