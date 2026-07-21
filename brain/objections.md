@@ -335,3 +335,10 @@ The goal is:
 - Best known answer (untested): validate the setup, then offer the CTO leverage instead of replacement - "Makes sense - a CTO who vets personally is why your placements stick. If he ever wants a second signal on a busy batch, I'll run 10 candidates against one live role free; he keeps every call." CTO becomes the user, not the competitor. Alternative: park +60d and return only on a live trigger (vacancy spike).
 - Outcome: thread silent since 2026-05-27; next touch human-written only.
 - Source: `../crm/accounts/fernando-eillman.md`
+
+### "please don't send me any more spam messages" `[tatiana-melnichuk, Lucky Hunter, lost]` (cold pitch read as spam)
+- Who/stage: founder of an international IT recruitment agency (UK-USA-EU), ICP score 5 on paper; first DM after a connect she had accepted. Replied within ~1h, called it spam, asked to stop.
+- Not an objection to rebut - a hard rejection. Do not defend ("it was not spam" only invites more friction; Alexey's polite acknowledge-and-close was the right move). Mark lost, no re-contact.
+- Targeting lesson: her headline flagged "Stealth AI Startup" + "Product Mindset" - she is building her own recruiting AI. Founders shipping their own AI treat a cold tool pitch as competitive noise, not value (same wall as `soumya-madan` and the 2026-07-16 "we develop our own AI-driven processes" objection). Treat "building own AI" in the headline as a soft disqualifier for cold outbound even at ICP 5.
+- Message lesson: the self-proving "I ran my own CV through it, it flagged my own churn risk" opener - our strongest variant - still read as spam to this persona. The opener does not de-spam the touch when the recipient is a competitor-minded builder.
+- Source: `../crm/accounts/tatiana-melnichuk.md`
