@@ -1,17 +1,22 @@
-# Send queue 2026-07-21 - accepted-invite 1st-degree connections
+# Send queue 2026-07-21 - PENDING
 
-Cohort: `status=contacted`, invite confirmed accepted, never DMed. Split 25 x C_cv_callback / 23 x A2_volume_refresh.
-Same-company people always get the SAME variant (AMBOSS x2 -> C, SpiceOrb x2 -> A2) so coworkers never see two different pitches.
-Bruce Weller removed 2026-07-21: his `company` field reads 'Bill', which is a bad import, not a company name. He stays in leads.csv.
+36 left: 13 x C_cv_callback / 23 x A2_volume_refresh. Already sent today: 5 (C), logged in the sidecar.
 
-**Read before sending:** LinkedIn is read-only for the assistant - every message below is sent by hand by Alexey.
-Split these across 2-3 sittings, not one burst.
-After each batch run: `python3 scripts/log_sent.py --variant C` (or `--variant A2`).
+## STOP AND CHECK BEFORE EACH SEND
+
+45 of these came from `excel-import: Leads tab`, whose WAS SENT column was lost on import. Seven people in this
+cohort turned out to have been messaged twice already. **Open the thread first; if there is history, skip and tell
+Claude.** `brain/outreach.md` rule 4: a blank tracking column means not logged, never not contacted.
+
+Removed so far: Bruce Weller (bad company field), Maria Ines Garcia Palombo, Julian Fuks, Jorge Morales Ramirez,
+Emilio Baez, Alejandro Ferrazzuolo, Kristina Marino (all messaged twice), Jake Broussard (wrong_lead, off ICP).
+
+After each batch: `python3 scripts/log_sent.py --variant C|A2`
 
 ---
 
 
-## C_cv_callback - 25 people
+## C_cv_callback - 13 left
 
 ### 1. Jesse Shrader - AMBOSS
 https://www.linkedin.com/in/shraderjesse
@@ -28,187 +33,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 2. Julia Ka'iulani Nelson - AMBOSS
-https://www.linkedin.com/in/juliaknelson
-
-```
-Julia - we connected a while back and I never wrote. Fixing that.
-
-At AMBOSS, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 3. Maria Ines Garcia Palombo - Arkano Software
-https://www.linkedin.com/in/mariainesgarciapalombo
-
-```
-Maria - we connected a while back and I never wrote. Fixing that.
-
-At Arkano Software, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 4. Julián Fuks - BEON.tech
-https://www.linkedin.com/in/julian-fuks
-
-```
-Julián - we connected a while back and I never wrote. Fixing that.
-
-At BEON.tech, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 5. Paula Barrionuevo Tomedi - Builders
-https://www.linkedin.com/in/ptomedi
-
-```
-Paula - we connected a while back and I never wrote. Fixing that.
-
-At Builders, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 6. Jorge Morales Ramirez - CodeRoad Inc
-https://www.linkedin.com/in/jmmr
-
-```
-Jorge - we connected a while back and I never wrote. Fixing that.
-
-At CodeRoad Inc, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 7. Emilio Baez - Developers.Net
-https://www.linkedin.com/in/ebaez
-
-```
-Emilio - we connected a while back and I never wrote. Fixing that.
-
-At Developers.Net, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 8. Jake Broussard - Element Staffing Services
-https://www.linkedin.com/in/jake-broussard-6004981b
-
-```
-Jake - we connected a while back and I never wrote. Fixing that.
-
-At Element Staffing Services, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 9. Sarah-Emily Oades - Eucalyptus
-https://www.linkedin.com/in/seoades
-
-```
-Sarah-Emily - we connected a while back and I never wrote. Fixing that.
-
-At Eucalyptus, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 10. Alejandro Ferrazzuolo - GEN Staffing & Recruiting
-https://www.linkedin.com/in/alejandro-ferrazzuolo-a4321b2
-
-```
-Alejandro - we connected a while back and I never wrote. Fixing that.
-
-At GEN Staffing & Recruiting, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 11. Nadine Gubanova - Gubanova & Partners
-https://www.linkedin.com/in/nadine-gubanova-10732487
-
-```
-Nadine - we connected a while back and I never wrote. Fixing that.
-
-At Gubanova & Partners, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 12. Kamran A. - Integriti Studio
-https://www.linkedin.com/in/kamranpmp
-
-```
-Kamran - we connected a while back and I never wrote. Fixing that.
-
-At Integriti Studio, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 13. Kristina Marino - IT Accel
-https://www.linkedin.com/in/kristinamarino
-
-```
-Kristina - we connected a while back and I never wrote. Fixing that.
-
-At IT Accel, are you still the one reading CVs for engineering roles, or has that moved off your desk?
-
-I ran 1,700 technical interviews at Turing and built the thing I kept wanting: it reads a CV against the role and separates what's proven from what's inferred from what's missing, with the quote behind every call. Started with my own: https://app.stepup.services/c/hanr23mntym1JGFGw1A6ThRabSMfsqTkEzPL39Ad - it flagged my two months at HiForce as a churn risk. Fair enough.
-
-If you want to see how it reads one of yours, send me a CV you're unsure about. Raw text is fine, strip the name. I'll send back what it flagged. No signup.
-
-You keep the conversations, we handle the reading.
-```
-
-### 14. Hirendra Bhattacharjee - Lite Tech
+### 2. Hirendra Bhattacharjee - Lite Tech
 https://www.linkedin.com/in/hirendrab
 
 ```
@@ -223,7 +48,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 15. Desislava Zhelyazkova - Mobile Wave Solutions
+### 3. Desislava Zhelyazkova - Mobile Wave Solutions
 https://www.linkedin.com/in/desislava-zhelyazkova-056a35152
 
 ```
@@ -238,7 +63,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 16. John Oliver Coffey - NetMidas
+### 4. John Oliver Coffey - NetMidas
 https://www.linkedin.com/in/johnolivercoffey
 
 ```
@@ -253,7 +78,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 17. Radhika Kasu - Next Gen Software Solutions LLC
+### 5. Radhika Kasu - Next Gen Software Solutions LLC
 https://www.linkedin.com/in/radhika-kasu-9368a5365
 
 ```
@@ -268,7 +93,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 18. Arun Kumar - OpenTeQ Technologies
+### 6. Arun Kumar - OpenTeQ Technologies
 https://www.linkedin.com/in/arun-kumar-a94b55204
 
 ```
@@ -283,7 +108,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 19. Harsh Singh - QuilinX
+### 7. Harsh Singh - QuilinX
 https://www.linkedin.com/in/hvsingh1979
 
 ```
@@ -298,7 +123,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 20. Eze Alloatti - Scale Up Recruiting Partners
+### 8. Eze Alloatti - Scale Up Recruiting Partners
 https://www.linkedin.com/in/ezealloatti
 
 ```
@@ -313,7 +138,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 21. Nicole (Kilar) O'Neill - Talent Edge Recruiting
+### 9. Nicole (Kilar) O'Neill - Talent Edge Recruiting
 https://www.linkedin.com/in/nicole-kilar-o-neill-354807132
 
 ```
@@ -328,7 +153,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 22. Kelly Sindiney Torres Celis - TalycapGlobal
+### 10. Kelly Sindiney Torres Celis - TalycapGlobal
 https://www.linkedin.com/in/kelly-sindiney-torres-celis-5002941b4
 
 ```
@@ -343,7 +168,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 23. Alex Lagos González - Tecnova IT Solutions
+### 11. Alex Lagos González - Tecnova IT Solutions
 https://www.linkedin.com/in/alexlagos
 
 ```
@@ -358,7 +183,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 24. Adam Szeptycki - tombo
+### 12. Adam Szeptycki - tombo
 https://www.linkedin.com/in/adamszeptycki
 
 ```
@@ -373,7 +198,7 @@ If you want to see how it reads one of yours, send me a CV you're unsure about. 
 You keep the conversations, we handle the reading.
 ```
 
-### 25. Luis Franklin Anaya Reyna - wirbi
+### 13. Luis Franklin Anaya Reyna - wirbi
 https://www.linkedin.com/in/luisfranklin
 
 ```
@@ -389,7 +214,7 @@ You keep the conversations, we handle the reading.
 ```
 
 
-## A2_volume_refresh - 23 people
+## A2_volume_refresh - 23 left
 
 ### 1. Bill Kerr - Athyna
 https://www.linkedin.com/in/thebillkerr

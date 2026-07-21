@@ -1,0 +1,42 @@
+[
+ {
+  "name": "Julia Ka'iulani Nelson",
+  "first": "Julia",
+  "company": "AMBOSS",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/juliaknelson"
+ },
+ {
+  "name": "Paula Barrionuevo Tomedi",
+  "first": "Paula",
+  "company": "Builders",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/ptomedi"
+ },
+ {
+  "name": "Sarah-Emily Oades",
+  "first": "Sarah-Emily",
+  "company": "Eucalyptus",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/seoades"
+ },
+ {
+  "name": "Nadine Gubanova",
+  "first": "Nadine",
+  "company": "Gubanova & Partners",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/nadine-gubanova-10732487"
+ },
+ {
+  "name": "Kamran A.",
+  "first": "Kamran",
+  "company": "Integriti Studio",
+  "variant": "C",
+  "check": false,
+  "linkedin_url": "https://www.linkedin.com/in/kamranpmp"
+ }
+]
