@@ -15,7 +15,7 @@ Framed as outcomes, not tooling (see `positioning.md` → "What We Actually Sell
 * interviewer calibration consistency
 * reduction of false positives
 
-Concrete deliverable form — TODO: is the primary sellable unit the platform (self-serve/seat-based), a done-for-you evaluation service, or a hybrid?
+Concrete deliverable form — **near-term answer (2026-07-29, Alexey): service-led / done-with-you.** The reliable asset today is the founder's evaluation judgment (1,700 interviews — see `proof.md`), NOT an automated product metric. So the near-term motion is: the expert reads capability, the product assists; we sell the expertise, the product hardens behind it. This pragmatically resolves the platform-vs-service question for now (revisit once the product's signal is provably reliable on its own). **Do NOT put identity-fraud / "we catch fakes" detection in the offer** — the product does not reliably deliver it (see `positioning.md` → "AI-Era Identity Fraud - PARKED").
 
 ---
 

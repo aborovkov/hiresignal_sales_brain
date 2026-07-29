@@ -50,7 +50,7 @@ The conversation is easier because the pain already exists.
 - failed placements
 - lack of interviewer calibration
 - inability to assess engineering maturity
-- AI-generated inbound fraud - fabricated / geo-masked applicants that the ATS AI ranks as top matches (2026-07, field-surfaced via David Stepania; see `objections.md` and `positioning.md` AI-Era Identity Fraud)
+- AI-generated inbound fraud - fabricated / geo-masked applicants that the ATS AI ranks as top matches (2026-07, field-surfaced via David Stepania). ⚠️ **PARKED 2026-07-29 - do NOT lead with this or pitch fraud detection: the product does not reliably detect it. Real buyer observation, NOT a sellable claim. See `positioning.md` → "AI-Era Identity Fraud - PARKED" and `icp-decision.md` (2026-07-29).**
 
 ### Emotional Drivers
 

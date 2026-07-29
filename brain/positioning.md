@@ -338,9 +338,11 @@ The long-term opportunity is not interviewing alone. It is becoming a hiring sig
 
 ---
 
-# AI-Era Identity Fraud - New Axis (2026-07, field-surfaced)
+# AI-Era Identity Fraud - PARKED, not a current angle (demoted 2026-07-29)
 
-> Surfaced via David Stepania design-partner session (`../sources/notes/2026-07-17__david-stepania__internal.md`). Extends "Core Market Shift" - this is the second axis of signal distortion.
+> ⚠️ **DEMOTED 2026-07-29 by Alexey.** Briefly treated as the sharpest differentiator after one design-partner session (David Stepania). **Field verdict: the product does NOT reliably detect identity fraud.** So we do not sell, promise, wedge, or lead with it - in outreach, the offer, the free sample, or content. Promising a detector we cannot deliver would fail live in the free wedge, and a single missed fake kills both the case and our credibility. Everything below is retained as long-term vision ONLY; revive it only after reliable detection is proven on a real pipeline. Current sellable axis is capability evaluation (false positives / interviewer calibration), anchored on the 1,700-interview credibility - see `icp.md` / `../brain/icp-decision.md` and `proof.md`.
+
+> Original framing (kept for context, NOT for outreach): surfaced via David Stepania design-partner session (`../sources/notes/2026-07-17__david-stepania__internal.md`). Extended "Core Market Shift" as a proposed second axis of signal distortion.
 
 The original thesis is about **capability distortion**: AI-assisted candidates look more capable than they are. A second, sharper distortion has surfaced from the field: **identity fraud at the inbound layer.**
 
