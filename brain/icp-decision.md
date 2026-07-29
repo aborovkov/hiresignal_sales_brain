@@ -96,3 +96,51 @@ Field verdict this session: the **identity-fraud / legitimacy angle does not wor
 **Offer motion:** service-led / done-with-you near-term (see `offer.md`) — sell the founder's evaluation, the product assists.
 
 **Hard disqualifiers unchanged: no leads based in Ukraine (UA) or Russia (RU).** Drop at scoring, never write.
+
+
+---
+
+## Update 2026-07-29 (b), by Alexey: LOCKED active target set + seed hunting queries.
+
+Set chosen by Alexey from the untried-ICP shortlist. Split by motion — do NOT sell channels like direct buyers.
+
+### DIRECT BUYERS (feel the pain + own the budget → revenue, Phase 1-2). Hunt these first.
+
+**1. Staff-aug / nearshore-offshore / software houses + talent marketplaces** — tag `staff-aug` (PRIMARY spearhead, per 2026-07-29 update above).
+Why: vetting *quality* = their product; false positive hits margin + client directly; not tool-saturated; Alexey is a Turing insider. Buyer: Head of Talent Quality / VP Vetting / VP Supply / delivery lead / co-founder.
+Seed queries (English hubs + warm CIS non-RU/UA; keep overlap low, geo-scope one per metro):
+1. `"VP of Engineering" ("staff augmentation" OR "nearshore")`
+2. `"delivery director" ("IT staffing" OR "software house")` — London / Amsterdam
+3. `"Head of Vetting" OR "Head of Talent Quality" OR "VP Supply"` — marketplace supply-quality owners
+4. `"co-founder" "nearshore software"` — Poland / Portugal / LATAM
+5. `"Head of Engineering" ("software consultancy" OR "dev shop")`
+6. `"software house" founder` — Warsaw / Krakow / Lisbon / Tbilisi / Yerevan
+7. `"talent marketplace" "engineering" ("quality" OR "vetting")`
+
+**2. Mid-market NON-tech building an eng team** — tag `mid-market`.
+Why: real budgets, no interview infra, not tool-saturated. Buyer: Head of Eng / VP Eng / Head of Talent. Harder to keyword — lean on industry filter + title + scaling signal.
+Seed queries (use LinkedIn Industry filter, one vertical per query):
+1. `"Head of Engineering"` — Industry: Insurance / Insurtech
+2. `"VP of Engineering"` — Industry: Logistics / Supply Chain
+3. `"Head of Talent" ("digital health" OR healthtech)`
+4. `"Director of Engineering" (proptech OR "real estate technology")`
+5. `"VP Engineering" (manufacturing OR industrial OR automotive)`
+6. `"Head of Engineering"` — Stockholm / Copenhagen / Helsinki / Amsterdam
+
+**3. Eng-led startups — founders / CTO** — tag `startup-p2` (existing P2, capability angle, NOT cost-per-CV).
+Harder to keyword (a CTO does not headline "hiring pain") — lean on recent-funding + hiring + founder-in-loop + posts about eng hiring; warm up before DM.
+Seed queries:
+1. `"co-founder & CTO"` — London / Berlin / Amsterdam
+2. `"CTO" "Series A"` / `"CTO" "Series B"`
+3. `"Founder" "we're hiring engineers"` (recent-post signal)
+4. `"Head of Engineering" "remote-first"`
+
+### CHANNELS / MULTIPLIERS (seed now with low effort, convert AFTER first case studies — Phase 2-3). Do not treat as Phase-1 revenue.
+
+- **Accelerators** — door to non-technical founders' first eng hire. YC / Techstars / Antler / Entrepreneur First + regional (Startup Wise Guys, Baltics/Caucasus). Needs a founder-facing wedge + one case first.
+- **Fractional-CTO networks / CTO-as-a-service** — one CTO evaluates hiring for several client cos = multiplier. Seed: `"fractional CTO"`, `"CTO as a service"`.
+- **IC / PE-VC operating (technical due diligence)** — DIFFERENT product use (assess a whole team on a deal, not screen one hire); relationship/credibility-heavy. Channel experiment for later, NOT a Phase-1 revenue line. Seed: `"operating partner" engineering`, `"technical due diligence"`.
+
+### Hunt order for revenue: `staff-aug` + `mid-market` first, `startup-p2` continues; channels seeded in parallel at low effort.
+
+**Hard disqualifiers (restated): no leads based in Ukraine (UA) or Russia (RU).** Drop at scoring, never write.
