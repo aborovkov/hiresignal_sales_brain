@@ -342,3 +342,16 @@ The goal is:
 - Targeting lesson: her headline flagged "Stealth AI Startup" + "Product Mindset" - she is building her own recruiting AI. Founders shipping their own AI treat a cold tool pitch as competitive noise, not value (same wall as `soumya-madan` and the 2026-07-16 "we develop our own AI-driven processes" objection). Treat "building own AI" in the headline as a soft disqualifier for cold outbound even at ICP 5.
 - Message lesson: the self-proving "I ran my own CV through it, it flagged my own churn risk" opener - our strongest variant - still read as spam to this persona. The opener does not de-spam the touch when the recipient is a competitor-minded builder.
 - Source: `../crm/accounts/tatiana-melnichuk.md`
+
+
+# Field Objection - 2026-07-22, James MacDonald (NTP Talent, founder & MD) `[heard in DM - 2026-07]`
+
+### "There are a thousand new HR products on the market weekly. Most being LLM wrappers. If you can explain what you do / why youre different valueable I'm open to a chat."
+
+- Who/stage: founder & MD of a tech recruitment agency (NTP Talent, AU), replied to first-touch offer DM; technical (builds with Claude Code himself), explicitly open to a chat
+- Date: 2026-07-22
+- Context: sharp, high-agency technical buyer. Not a brush-off - an explicit "prove the differentiation and I'll engage." The bar he sets is "why is this not another LLM wrapper."
+- Answer used: "Fair - most are wrappers, and a JD-CV keyword match is a weekend build. Agreed, not selling you that. What we do isn't [keyword matching]..." + noted ATS integration.
+- Best known answer (recommended): concede the wrapper point immediately - a JD-CV keyword match IS a weekend build, do not defend the category. Then differentiate on the one thing a wrapper cannot do: reliable engineering signal extraction under AI-era distortion - scoring how a candidate reasons, not how well the CV matches the JD, calibrated off 1,700+ real technical interviews. Offer zero-risk proof (run his own live role through it) rather than argue. For a builder like James, co-development framing ("let's see where it breaks on your roles") beats a pitch - see `positioning.md` Segment Patterns, technical agency owners.
+- Outcome: live conversation, awaiting his reply.
+- Source: `../crm/james-macdonald.md`
