@@ -20,8 +20,14 @@ both about NON-ICP shapes:
 ## Hunting cut
 
 Prefer: agency owner / co-founder / partner titles, firm size ~10-40, engineering
-or tech recruiting focus, Nordic / UK / EU. Deprioritize: in-house corporate
+or tech recruiting focus. ~~Nordic / UK / EU~~ **ОТМЕНЕНО 2026-08-07 (Alexey): гео любое,
+кроме России и Украины - не деприоритизировать по рынку, см. `icp-decision.md`.**
+Deprioritize: in-house corporate
 recruiters at large employers, and hands-off founders who no longer touch resumes.
+
+**Дополнение 2026-08-07 (Alexey):** фракциональные / фрилансящие / соло технические
+рекрутеры - тоже полноценная цель (partner-network fit), и это активный фронт для
+хантинга. Наличие своей клиентской базы гейтом НЕ является.
 
 ## Guardrail
 

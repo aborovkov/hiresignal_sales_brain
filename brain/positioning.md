@@ -131,6 +131,8 @@ rather than:
 * keyword matching
 * standardized filtering alone
 
+> Competitor-specific comparisons and battlecards live in `competitors.md`. This section owns the differentiation itself; that file only maps named competitors onto it.
+
 ## Deep Interviewing Experience
 
 Extensive experience conducting and calibrating technical interviews across engineering levels: coding interviews, system design, technical leadership evaluation, communication assessment, engineering maturity evaluation. (See `proof.md` for the credibility anchor.)
@@ -392,3 +394,44 @@ The messaging should sound like engineering leadership, operational evaluation, 
 18. Many hiring failures originate from false confidence rather than obvious weakness. The dangerous candidates are often articulate, polished, highly prepared, and interview-optimized.
 19. The strongest technical evaluation systems balance consistency with adaptive reasoning depth. Pure standardization alone creates shallow signal.
 20. Trust in engineering hiring comes from calibration, consistency, operational realism, and evaluation quality — not from volume or automation alone.
+
+---
+
+# Field signal - 2026-08: "no recording" is a feature, and we keep describing it as a gap
+
+Source: `../crm/tika-sharubanashvili.md` (freelance tech recruiter, Tbilisi, 2026-08-06).
+
+A security-conscious recruiter who had just refused to open a demo link asked two questions in a row:
+how the video screening works, and whether it is recorded. That sequence is a data-handling screen,
+not feature curiosity. Behind her sits a client whose candidates these are, and recording an
+interview raises consent, storage and retention questions in every market she works in.
+
+## The reframe
+
+Our current shape is: the recruiter runs the call on whatever notetaker they already use, keeps the
+recording, and uploads only a text file they choose to hand over. **StepUP never holds the
+recording.** We have been describing this as a temporary state pending a notetaker integration
+("integration coming a little bit later"), which turns an architectural advantage into an apology.
+
+For a buyer screening us on data handling, minimal data ingress is the strongest thing we can say:
+
+> You keep the recording. We never hold it. The only thing that reaches us is a text file you
+> decided to send.
+
+Say it that way round by default. The integration, when it ships, must not quietly destroy this -
+if it starts pulling recordings, it trades away the answer that wins this conversation. Offer it as
+a convenience option, keep upload-only as a supported path, and keep saying so.
+
+## Category mapping to watch
+
+She asked about "video screening" without asking what the product does - she assumed a category.
+In recruiter vocabulary that means async video interview tools. If arrivals keep making the same
+jump, positioning needs one sentence that names the adjacent category and steps away from it:
+we do not put a candidate in front of a camera, we evaluate the reasoning in a conversation you
+already had. Watch the next few first contacts and confirm before rewriting anything.
+
+## Adjacent product signal
+
+Notetakers came up twice on 2026-08-06 from two unconnected contacts - one actively shopping for a
+replacement and unhappy with hers, one asking how recording works. Weak on its own. Log the next
+mention; if it holds, notetaker choice is a live surface where recruiters are already unsatisfied.

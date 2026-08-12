@@ -28,3 +28,37 @@ Context: warm thread, sent the recipient THEIR OWN CV run through StepUP and ask
 - Julia Fokina (NEWHR), after a decline, was handed the CV/JD scoring link and forwarded it to a colleague (Kira). See `../crm/accounts/julia-fokina.md`.
 
 Why it likely worked: showing output on the recipient's own data pulls specific, invested responses far better than describing the product. Promote this to a first-touch move for the right ICP, and it doubles as the payoff of the "send me your resume" LinkedIn lead-magnet post.
+
+## 2026-08-06 - "judge the output, not my description of it" - reply after two silent touches
+
+Context: follow-up 1 to an agency founder running both an IT and a Sales/GTM desk, +6 days after the
+canonical pain-speed-call opener drew nothing. See `../crm/madiha-mustafa.md`.
+
+> {FirstName}, adding something my last message skipped.
+>
+> You run both IT and GTM desks, and the technical side is the one where a wrong call surfaces late, after the client has already onboarded.
+>
+> Here is a board from a live run, so you can judge the output directly instead of my description of it: {board link}. Happy to run one of your open IT roles the same way.
+
+Result: reply in ~5.5 hours, after a soft intro DM and the canonical opener had both drawn silence
+for a week. She asked to see the product and volunteered feedback unprompted.
+
+Why it likely worked:
+
+- **It named a real asymmetry inside HER business**, not a generic recruiting pain. Two desks, and
+  the specific reason the technical one is worse: a wrong call surfaces late, after the client has
+  onboarded. That is a sentence that could not have been sent to anyone else on the list.
+- **It handed over evidence instead of a claim.** A live board, with the framing made explicit:
+  judge the output directly instead of my description of it. Same underlying move as the
+  "your own CV run through StepUP" asset - show output, ask for a verdict - but reachable at
+  follow-up stage without needing their data first.
+- **It opened by admitting the previous message was incomplete** ("adding something my last message
+  skipped"), which is a real reason to write again rather than a bump.
+- **The ask was the smallest one available**: run one of your open roles, not book a call.
+
+Pattern worth reusing: when the canonical opener draws silence from a hands-on agency owner, FU1
+should not restate the pain. It should name the one thing that is structurally true about their
+specific desk mix, then attach output they can grade.
+
+Cadence: +6 days, comfortably past the 3-day floor, new angle plus new asset. The tightened
+2026-08-02 cadence produced this, not despite it.

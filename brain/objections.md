@@ -336,6 +336,35 @@ The goal is:
 - Outcome: thread silent since 2026-05-27; next touch human-written only.
 - Source: `../crm/accounts/fernando-eillman.md`
 
+### Second field instance - 2026-08-07, offshore team builder (Istanbul) `[heard in DM - 2026-08]`
+
+> "Verifying technical background is a key component of hiring offshore engineers, and my client
+> handles this process entirely. Experienced engineers conduct personal online interviews with each
+> candidate."
+
+Same class as the Fernando Eillman deflection above, from a different shape of business: not an
+agency owner leaning on an internal CTO, but a supply-side middleman whose CLIENT owns evaluation
+end to end. Replied within twenty minutes of a cold first touch, so this is engagement, not a
+brush-off.
+
+Two things this instance adds:
+
+- **Do not assume the middleman carries the technical read.** Our opener asserted "your technical
+  read is the only one that exists" and she corrected it. For offshore / staff-supply contacts the
+  first question is not "how do you evaluate" but "what does it cost you when the client's engineers
+  reject someone you sent."
+- **The wedge that fits this shape is margin and credibility, not evaluation quality.** She is judged
+  on what she forwards. A pre-filter that stops weak candidates before they reach the client's
+  engineers protects her reputation and their time - leverage for the internal owner, never
+  replacement, which is the answer this objection class has always wanted.
+
+Answer used (right shape): validate the client's setup, ask whether interview load is a constraint,
+then offer the pre-filter. Execution note: the qualifying question was asked and then immediately
+answered by a second message - ask it and stop, the answer decides whether the contact is worth
+working at all.
+
+Source: `../crm/elena-ustinova.md`.
+
 ### "please don't send me any more spam messages" `[tatiana-melnichuk, Lucky Hunter, lost]` (cold pitch read as spam)
 - Who/stage: founder of an international IT recruitment agency (UK-USA-EU), ICP score 5 on paper; first DM after a connect she had accepted. Replied within ~1h, called it spam, asked to stop.
 - Not an objection to rebut - a hard rejection. Do not defend ("it was not spam" only invites more friction; Alexey's polite acknowledge-and-close was the right move). Mark lost, no re-contact.
@@ -355,3 +384,134 @@ The goal is:
 - Best known answer (recommended): concede the wrapper point immediately - a JD-CV keyword match IS a weekend build, do not defend the category. Then differentiate on the one thing a wrapper cannot do: reliable engineering signal extraction under AI-era distortion - scoring how a candidate reasons, not how well the CV matches the JD, calibrated off 1,700+ real technical interviews. Offer zero-risk proof (run his own live role through it) rather than argue. For a builder like James, co-development framing ("let's see where it breaks on your roles") beats a pitch - see `positioning.md` Segment Patterns, technical agency owners.
 - Outcome: live conversation, awaiting his reply.
 - Source: `../crm/james-macdonald.md`
+
+
+---
+
+# Field Objections - 2026-08-06, Nataly Lalova (contingency agency recruiter, Montenegro) `[heard on call - 2026-08]`
+
+Source: `../crm/nataly-lalova.md`, transcript `../sources/calls/2026-08-06__nataly-lalova__demo.md`.
+Persona: hands-on technical recruiter, paid on placement %, three live roles at ~1,000 applicants each,
+no ATS yet, already runs her own LLM scoring setup. Took a trial, refused to buy. This is the sharpest
+"right ICP, wrong problem" call in the log so far - read it before writing another recruiter opener.
+
+### "У меня лично болит не в том, что мне проскорить, мне проскорить не болит" (scoring is not the pain) `[nataly-lalova, meeting]`
+- Who/stage: agency recruiter, on a live demo, after seeing the full scoring flow.
+- Date: 2026-08-06
+- Context: she had already built the scoring layer herself - one folder per role in an LLM, holding the
+  JD plus every hiring-manager debrief, producing an overall assessment and a fit rating. She recognised
+  our output as "практически то же самое" within seconds of seeing it.
+- Answer used: none. Alexey pivoted to building an email connector that ingests her LinkedIn applications.
+  That pivot worked as a next step but left the value proposition unanswered.
+- Outcome: trial accepted, purchase declined, relationship reframed as referral.
+- Best known answer (untested): do not defend the scoring layer against a recruiter who already has one -
+  concede it immediately, then move to the two things a folder-in-an-LLM cannot do: **ingest at volume**
+  (the batch, not the one CV she pastes) and **hold a signal model across interviews** (the 20-signal
+  model, the interviewer calibration). Her own words give the wedge: "на маленьких объемах мне нет
+  никаких проблем вообще ничего сделать... когда ты приходишь до больших объемов, то все становится
+  проблемой." Sell the volume boundary, not the score.
+- **Pattern flag:** this is the third contact (with `margarita-isadjanean` and the 2026-07-16
+  "we develop our own AI-driven processes" agency) where a self-built LLM workflow neutralises the
+  scoring pitch. Recruiters who prompt well are now a standing objection class, not an outlier.
+
+### "На что-то подписываться не готова, а вот матчить - да" `[nataly-lalova, meeting]`
+- Who/stage: same call, at the close, immediately after accepting trial access.
+- Date: 2026-08-06
+- Context: not a price objection - a role objection. She placed herself as a matchmaker between us and
+  her colleagues, and asked for a referral scheme in the same breath ("И реферальную схему можешь мне
+  сделать"). Her agency is small and she is not the budget holder.
+- Answer used: Alexey said he had been thinking about a referral scheme; nothing concrete offered.
+- Outcome: open promise, unfulfilled. She is org-admin with 100 credits and can seat colleagues.
+- Best known answer (untested): take the offer at face value and make it cheap for her to act - a
+  named referral scheme with one number, plus a one-paragraph forward she can paste to a colleague
+  without explaining the product herself. A referrer who has to describe your product will not refer.
+  **Do not treat this as a soft yes to buying later.** The 2026-08-06 ICP update already ruled that
+  amplifier-shaped contacts stay out of the touch queue; this one earns her place only while the trial
+  and the connector experiment are live.
+
+### "Ты привык с чем-то работать... переключать контекст уже не хочется" (switching cost) `[nataly-lalova, meeting]`
+- Who/stage: same call, explaining why a better tool still loses.
+- Date: 2026-08-06
+- Context: her own analogy was Jira - "нафига вам эта джира? - мы уже привыкли". The blocker is not
+  a feature gap, it is that adopting anything costs attention she owes to billable work today.
+- Answer used: none.
+- Best known answer (untested): never ask a percentage recruiter to move a workflow. Attach to the
+  workflow she already has - her inbox, her ATS, her folder - so the first value arrives with zero
+  new habits. This is the strongest argument for building the ingestion connector rather than a UI.
+
+### "Это проблемы кандидата, потому что он мне все указал" (skill-taxonomy differentiator rejected) `[nataly-lalova, meeting]`
+- Who/stage: same call, in response to our proof point that a CV listing only Vue.js implies JS/HTML/CSS
+  and a plain LLM will miss the implied skills.
+- Date: 2026-08-06
+- Context: she does not want implied skills recovered - in a candidate-heavy market an incomplete CV is
+  a legitimate reason to drop someone, and recall is not a value to her.
+- Answer used: none, moved on.
+- Best known answer (untested): drop the taxonomy demo for high-volume recruiters entirely - to them,
+  extra recall means MORE CVs to read, which is the opposite of what they want. Keep it for
+  low-volume / hard-to-fill desks and for staff-aug, where missing a qualified engineer costs a
+  placement. **Same trap as the volume pitch in Latvia:** the feature is real, the audience was wrong.
+
+### "А что так медленно? А если тысяча?" (latency doubt) `[nataly-lalova, meeting]`
+- Date: 2026-08-06
+- Answer used: parallel processing, not a queue; plus an honest "мне надо перезамерить".
+- Outcome: accepted but unconvinced. Fix before the next demo: have a measured number for a batch of
+  1,000 and lead with it, because "two minutes per CV" is the figure that sticks otherwise.
+
+### "Ну это, наверное, должна быть какая-то подписочная модель, нет?" (pricing shape) `[nataly-lalova, meeting]`
+- Date: 2026-08-06
+- Context: per-candidate cents read as unfamiliar to her; the benchmark she was given was a competitor at
+  $200/month for 2,000 analyses. Note that pricing surfaced early on this call, against the standing rule.
+- Best known answer: keep pricing out of first calls. When it does come up, a subscription frame matches
+  the buyer's mental model even if the underlying cost is per-token.
+
+---
+
+# Field Objection - 2026-08-06, freelance tech recruiter (Tbilisi) `[heard in DM - 2026-08]`
+
+Source: `../crm/tika-sharubanashvili.md`.
+
+### "you know that due to security I will not open any links, so if this is kind of setup we can call later and test with you when I will have a time for this"
+
+- Who/stage: independent freelance tech recruiter, HR/TA on the same desk, 300+ hires; replied 23
+  minutes after the first DM, which carried the standard live-board link.
+- Date: 2026-08-06
+- **This is a new objection class: the mechanism is refused, not the offer.** Read the sentence
+  carefully - she declines the link and, in the same breath, proposes a call and a joint test, and
+  signs off warmly. Nothing about the value proposition was rejected. Treating this as a soft no
+  would be a misread.
+- Answer used: an apology ("oh wow.. I didn't know that.. sorry"), then a screenshots offer, then
+  "when can I write you again?" - three messages in one pass carrying two questions. Do not repeat
+  this shape: it breaks one-question-per-message, and apologising for the other person's security
+  policy gives away standing in a thread where they were being helpful.
+- Best known answer (untested): one line, no apology, and move the proof to a format that never
+  leaves the platform. "Makes sense. Here is the same board as images so nothing to click." Then the
+  single ask. Where geography allows, the strongest version is not a workaround at all - meet and open
+  the board on your own screen.
+- Outcome: pending.
+
+## Why this one matters past the individual lead
+
+**Our entire proof motion is a link.** The canonical follow-up asset is a live board URL, and the
+same link has gone out to every recent warm contact. We currently have no link-free way to show
+output. The population most likely to have a no-unknown-links rule is precisely our ICP: recruiters
+and TA people handling candidate PII, often under a client's security policy rather than their own
+preference. One refusal is an anecdote; the structural exposure is not.
+
+Build the fallback before it costs a warmer lead:
+
+- An image pack or PDF of a finished board - the same skill breakdown, risk flags and generated
+  questions - sendable as a LinkedIn attachment.
+- Treat it as the default proof asset for anyone who has not asked for a link, not as the
+  consolation prize after someone refuses one.
+
+## Before filing this as an objection, check whether it was a bug
+
+In this thread the link rendered malformed: the sentence after the URL was absorbed into the anchor,
+object-replacement characters sat between them, and "Would" appeared as a second hyperlink. If the
+message went out looking like that, the recipient saw an unfamiliar long URL with text glued to its
+tail and a stray second link - the visual signature of phishing - and refusing it was the correct
+call about that specific message rather than a standing policy.
+
+Formatting rule from here: the URL goes on its own line with a blank line after it, and nothing is
+ever concatenated onto its tail. Check the sent message in LinkedIn before assuming the objection is
+about policy, and check whether the same malformed link went to anyone else in the batch.

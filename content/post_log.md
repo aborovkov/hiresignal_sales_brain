@@ -14,8 +14,8 @@ Column keys:
 
 | Date | Pillar | Format | Hook | Checkpoint | Impressions | Reactions | Comments | Inbound | What worked |
 |------|--------|--------|------|------------|-------------|-----------|----------|---------|-------------|
-|      |        |        |      | T+48h      |             |           |          |         |             |
-|      |        |        |      | T+14d      |             |           |          |         |             |
+| 2026-08-06 | Narrative | text | F5 | T+48h |             |           |          |         | Essay-paragraph-one, investor prompt. [Post](https://www.linkedin.com/posts/aborovkov_buildinpublic-techhiring-founders-share-7491057474947710976-b4ec/). Text: `published/2026-08-06-essay-paragraph-one.md` |
+| 2026-08-06 | Narrative | text | F5 | T+14d |             |           |          |         |             |
 
 ## Comments engine
 

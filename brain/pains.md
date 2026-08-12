@@ -394,3 +394,68 @@ Good messaging feels like:
 * engineering leadership discussion
 * operational pattern recognition
 * peer-level conversation
+
+
+---
+
+# Pain 8 - Inbound Ingestion (the batch never reaches the tool)
+
+## Description
+
+Everything in this file so far assumes the CVs are already in front of the recruiter. On a
+high-volume inbound desk they are not. Applications arrive through LinkedIn Easy Apply and stay
+locked there: there is no bulk download of the attached CVs, and the one export LinkedIn does give -
+an XLSX of the applicant list - carries only the profile skeleton (name, current place, experience,
+education, licences), never the content of what the candidate actually wrote or attached.
+
+So the recruiter is left clicking through applicants one at a time to download a CV she already has
+permission to read. The evaluation layer - ours or her own - is starved not because it is weak but
+because the batch cannot be handed to it. Any screening product that starts at "upload the CVs" has
+already skipped the step that hurts.
+
+## Symptoms
+
+* Three open roles at roughly 1,000 applicants each, and the applicant list is worked by hand.
+* One role sitting at 150 after knockout questions - and the knockout answers themselves need
+  re-checking, so the filter that shrank the list is not trusted either.
+* Bulk export attempted, then abandoned: the table is real but useless. "Мне нужны конкретные CV
+  конкретного человека" - the export has everything except the thing being screened.
+* CVs land as attachments in a dedicated inbox folder, and that inbox turns out to be a better
+  ingestion surface than the platform itself.
+* No ATS in the loop, and adding one does not fix it: "И че? Он теперь не проскорит АТСка."
+
+## The economics (field figures, 2026-08)
+
+An hour spent sourcing yields around 40 relevant candidates. An hour spent grinding through Easy
+Apply inbound yields 2. That 20x gap is why experienced recruiters treat inbound as a chore rather
+than a channel, and it is a cleaner argument than any efficiency claim we have made so far.
+
+## Emotional Layer
+
+The residue is guilt, not frustration. She knows that of 1,000 applicants maybe 10 are worth a call,
+and she still will not write inbound off: "все равно жалко людей, а вдруг даже из этих 10 кто-то
+подойдет." Every unread application is a person who got no answer. This is also where the
+rejection-letter feature earns its place - a generic rejection from a system beats silence, and both
+recruiters who raised it on the same day framed it as fairness, not efficiency.
+
+## Strong Messaging Angles
+
+* Lead with the ingestion boundary, not the score. "The scoring is the easy half - the hard half is
+  getting a thousand applications out of Easy Apply and into anything at all."
+* Attach to the surface they already own. The inbox already receives every application with its CV
+  attached; a reader on that folder needs no workflow change, no new tab, no new habit. For a
+  percentage recruiter, zero switching cost is the feature.
+* Reframe inbound as a channel rather than a chore, using their own 40-vs-2 number: the channel is
+  not bad, the throughput is. Sourcing wins on an hourly basis only because inbound is processed by
+  hand.
+* Pair it with the rejection letter. Volume ingestion plus an automatic answer to everyone turns a
+  guilt-producing pile into a closed loop - and it is the one part of this that no competitor's
+  scoring feature covers.
+
+## Watch out
+
+This pain belongs to inbound-heavy desks. Sourcing-led recruiters and staff-aug supply teams do not
+have it, and pitching ingestion to them lands as irrelevant the same way volume pitches land in
+low-application markets (see `objections.md`, Latvia field entry).
+
+Field source: `../crm/nataly-lalova.md`, call 2026-08-06.
