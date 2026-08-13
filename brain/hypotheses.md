@@ -1,6 +1,6 @@
 # Продуктовые гипотезы — консолидированный список
 
-> Собрано 2026-07-20 из Data Room. Источники: Google Doc «StepUP: hypotheses v0» (ранний слой + пересборка H1–H19), Google Doc «Гипотезы StepUP V1» (канонические статусы, группы A/B/C), Google Doc «StepUP — Session Notes & Fake-Profile Detection Spec» (18.07, сессия с советником) и Google Doc «Feature: CV Claim Validation Engine» — из двух последних добавлена группа D (интервью-вопросы как верификация).
+> Собрано 2026-08-13 из Data Room. Источники: Google Doc «StepUP: hypotheses v0» (ранний слой + пересборка H1–H19), Google Doc «Гипотезы StepUP V1» (канонические статусы, группы A/B/C), Google Doc «StepUP — Session Notes & Fake-Profile Detection Spec» (18.07, сессия с советником) и Google Doc «Feature: CV Claim Validation Engine» — из двух последних добавлена группа D (интервью-вопросы как верификация).
 >
 > **Канон статусов — V1.** Нумерация v0 (H1–H19) дана в скобках для обратной связи со старым доком.
 >
