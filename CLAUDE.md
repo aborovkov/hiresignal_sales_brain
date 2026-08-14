@@ -17,7 +17,8 @@ ops/        The engines: how transcripts become assets, how we run sales.
 ## brain/ — strategy, voice, knowledge
 
 * `positioning.md` — what HireSignal is, market thesis, differentiation, **core beliefs**. Strategy layer.
-* `hypotheses.md` — consolidated product hypotheses (A/B/C/D groups, statuses, test priority). Canonical statuses live here; named evidence stays in Drive docs + `crm/`.
+* `hypotheses.md` — consolidated product hypotheses (A–E groups, statuses, test priority). Canonical statuses live here; named evidence stays in Drive docs + `crm/`.
+* `integrations.md` — integration surface (ATS, email/n8n, WhatsApp) + regulatory constraints (EU AI Act, GDPR). Matchat only; beliefs live in `hypotheses.md`.
 * `icp.md` — who we sell to (priority-ordered).
 * `voice.md` — tone, **banned/preferred vocabulary**, sentence craft, CTA style, LinkedIn writing rules.
 * `pains.md` — operational pains (deep). `signals.md` — interview signal taxonomy.

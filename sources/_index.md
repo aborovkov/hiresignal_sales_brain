@@ -17,6 +17,7 @@
 | 2026-07-02 | `calls/2026-07-02__internal-team__internal.md` | Internal / Turing alumni | internal | ☐ | |
 | 2026-07-02 | `notes/2026-07-02__recruiter-pains__custdev.docx` | Recruiter-pains research (⚠️ empty file) | custdev | ☐ | |
 | 2026-07-17 | `notes/2026-07-17__david-stepania__internal.md` | David Stepania (advisor / design partner, ThirstySprout) | internal | ✅ | `crm/accounts/david-stepania.md`; objections.md (2 field entries); snippets.md (3); positioning.md AI-Era Identity Fraud + segment pattern; icp.md P1 problem |
+| 2026-08-13 | `notes/2026-08-13__ai-interviewer-direction__internal.md` | Внутренняя (CTO Turing, Кошкин — HM) | internal | ✅ | `brain/integrations.md`; `brain/hypotheses.md` группа E + оговорка к D5 |
 
 Processing an entry runs `ops/extraction.md`. Mark "Processed?" once CRM + brain + content assets exist.
 
