@@ -3,7 +3,7 @@ name: Katsiaryna Dyleuskaya
 company: Lomray Software
 role: BD / partnerships (per headline; exact title unconfirmed)
 location: unknown - confirm (RU would disqualify)
-linkedin: https://www.linkedin.com/in/ACoAAE-px9IBhkSMpWBVPEL5xY-wELpKjZZUFoc
+linkedin: https://www.linkedin.com/in/katsiaryna-dyleuskaya-016725313/ (also ACoAAE-px9IBhkSMpWBVPEL5xY-wELpKjZZUFoc)
 source: inbound LinkedIn DM (she wrote first), 1st-degree connection
 icp_score: 3
 stage: contacted
