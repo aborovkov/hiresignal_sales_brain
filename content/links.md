@@ -25,4 +25,12 @@
 - They sell retention ROI (turnover); we sell engineer-time saved + authenticity/fake-detection. Fake-profile problem is not in their pitch at all.
 - Watch: if they move upmarket into technical screening, the "proven ROI + named logos" story beats our proof.md as it stands today (proof.md is still TODO).
 
+### AI-интервьюеры: ландшафт категории (обзорно)
+
+- Added: 2026-08-13, при разборе направления «AI-интервьюер» (`brain/integrations.md`)
+- Категория уже плотная. Заметные игроки: **Alex AI (ex-Apriora)** - двусторонний голосовой/видео интервьюер, заявляет 5,000+ интервью в день против 16 у человека, 48% вне рабочих часов; **HeyMilo** - end-to-end AI-рекрутер, 20+ языков; **Ribbon AI** - voice-first, 10+ языков, Fast Company Most Innovative 2026; **micro1 (Zara)** - автономный агент плюс сеть проверенных кандидатов; **ConverzAI**, **Sapia.ai**, **Tenzo**, **Tezi**, **HireVue**.
+- ⚠️ **Ближе всех к нам: Talently AI** - живые AI-интервью плюс coding assessment именно под технический найм. Это не соседний сегмент, а наше поле; при заходе в интервьюер разбирать первым.
+- Что это значит: «AI-интервьюер» как таковой уже не дифференциатор и не выигрывает по новизне. Наш заявленный отличитель - верификация конкретных claim'ов из CV и ось Authenticity Risk (группы D и E в `../brain/hypotheses.md`), а не факт наличия AI-интервью.
+- **Willo** (`willo.video`) в этом списке стоит особняком: async-интервью с открытым API и нативными интеграциями (Greenhouse, Lever, Workable, Oracle). Скорее потенциальный слой под нами, чем конкурент - разбор в `../brain/integrations.md` §6.
+
 **Sources:** WebSearch only - upwage.com, linkedin.com, crunchbase.com and rectechmedia.com are all blocked by this session's egress policy, so nothing was read first-hand. Metrics above are vendor-claimed, taken from press coverage and a funding-news aggregator, not verified.
