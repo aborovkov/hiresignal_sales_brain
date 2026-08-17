@@ -267,8 +267,8 @@ def cmd_list(args):
     else:
         sel.sort(key=lambda r: r["last_touch_at"] or r["found_at"])
     for r in sel:
-        score = r["icp_score"] or "-"
-        print(f"{(r['last_touch_at'] or r['found_at'])[:10]}  {score}  "
+        icp = r["icp_score"] or "-"
+        print(f"{(r['last_touch_at'] or r['found_at'])[:10]}  {icp:>2}  "
               f"{(r['name'] or '(no name)')[:28]:<28} {(r['company'] or '')[:22]:<22} "
               f"{r['linkedin_url']}")
     print(f"\n{len(sel)} in {view}")
