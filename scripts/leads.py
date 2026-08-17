@@ -41,7 +41,7 @@ def canon(url):
         return ""
     u = u.split("?")[0].split("#")[0].strip().rstrip("/")
     u = re.sub(r"^https?://", "", u, flags=re.I)
-    u = re.sub(r"^([a-z]{2,3}\.)?linkedin\.com", "linkedin.com", u, flags=re.I)
+    u = re.sub(r"^([a-z0-9-]{1,10}\.)?linkedin\.com", "linkedin.com", u, flags=re.I)
     u = re.sub(r"^linkedin\.com", "https://www.linkedin.com", u)
     u = re.sub(r"/(%s)$" % LOCALES, "", u, flags=re.I).rstrip("/")
     m = re.match(r"(https://www\.linkedin\.com)(/.*)$", u, flags=re.I)
