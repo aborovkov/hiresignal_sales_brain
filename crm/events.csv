@@ -2960,3 +2960,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-17,https://www.linkedin.com/in/olga-cipruse,Olga Cipruse,connected,contacted,transition,Alexey,live,opener sent (expert-question version)
 2026-08-17,https://www.linkedin.com/in/olga-cipruse,Olga Cipruse,contacted,replied,transition,Alexey,live,"substantive RU reply 16:05: main break = link recruiter/tech-interviewer/HM, no shared criteria; asked back: is the problem assessment quality or process organization"
 2026-08-17,https://www.linkedin.com/in/olga-cipruse,Olga Cipruse,replied,replied,alias,Claude,live,https://www.linkedin.com/in/acoaadqosxmbnqzt3jtjwbkihuxd_2wvvpqz9fm
+2026-08-17,https://www.linkedin.com/in/olga-cipruse,Olga Cipruse,replied,replied,edit,Claude,live,contact_file: '' -> 'crm/olga-cipruse.md'
