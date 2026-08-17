@@ -8,8 +8,10 @@ lead also appends to the event journal, so the funnel history stays honest.
   ./scripts/leads.py add < leads.json          append new people, skip known
   ./scripts/leads.py status <url> <status>     move someone, journal it
   ./scripts/leads.py note <url> <text>         append a dated note
+  ./scripts/leads.py set <url> <field> <val>   correct a field, e.g. score an ICP
+  ./scripts/leads.py alias <url> <other-url>   same person, another vanity slug
   ./scripts/leads.py show <url>                everything about one person
-  ./scripts/leads.py list <view>               warm|follow-up|first-dm|to-invite|<status>
+  ./scripts/leads.py list <view>               warm|follow-up|first-dm|to-invite|needs-icp|<status>
   ./scripts/leads.py funnel                    counts by status
 """
 import csv, json, re, sys, unicodedata, subprocess
@@ -205,6 +207,11 @@ def cmd_status(args):
         print(f"refusing to move {r['name']} backwards: {old} -> {new}. "
               f"Use parked or lost, or edit the file by hand.", file=sys.stderr)
         return 1
+    if new in EXITS and not note:
+        why = "a revisit date" if new == "parked" else "a reason"
+        print(f"{new} needs {why}. Pass it as the third argument:\n"
+              f"  leads.py status <url> {new} \"<{why}>\"", file=sys.stderr)
+        return 1
     r["status"], r["last_touch_at"] = new, today
     if note:
         r["notes"] = (r["notes"] + " | " if r["notes"] else "") + f"{today}: {note}"
@@ -213,6 +220,69 @@ def cmd_status(args):
               "transition", "Alexey", "live", note]])
     commit(f"crm: {r['name']} {old} -> {new}")
     print(f"{r['name']}: {old} -> {new}")
+    return 0
+
+
+SETTABLE = ["icp_segment", "icp_score", "icp_reason", "next_action", "company",
+            "role", "headline", "location", "contact_file", "msg1", "msg2",
+            "source_query", "name"]
+
+
+def cmd_set(args):
+    """Correct one field. Scoring a needs-icp connect is the common case."""
+    url, field, value = args[0], args[1], " ".join(args[2:])
+    if field not in SETTABLE:
+        print(f"{field!r} is not settable; expected one of {', '.join(SETTABLE)}.\n"
+              f"status changes go through `status`, notes through `note`, "
+              f"alternate URLs through `alias`.", file=sys.stderr)
+        return 1
+    rows = load()
+    r, _ = lookup(rows, url)
+    if not r:
+        print(f"not in the store: {canon(url)}", file=sys.stderr)
+        return 1
+    if field == "icp_score":
+        value = str(score(value))
+        if not 0 <= int(value) <= 5:
+            print("icp_score is an integer 0-5", file=sys.stderr)
+            return 1
+    old, today = r[field], date.today().isoformat()
+    r[field] = value
+    r["last_touch_at"] = today
+    save(rows)
+    journal([[today, canon(r["linkedin_url"]), r["name"], r["status"], r["status"],
+              "edit", "Claude", "live", f"{field}: {old!r} -> {value!r}"]])
+    commit(f"crm: {r['name']} {field} -> {value}")
+    print(f"{r['name']}: {field} {old!r} -> {value!r}")
+    return 0
+
+
+def cmd_alias(args):
+    """Record another URL the same person appears under, so dedupe catches it."""
+    url, other = args[0], args[1]
+    rows = load()
+    r, _ = lookup(rows, url)
+    if not r:
+        print(f"not in the store: {canon(url)}", file=sys.stderr)
+        return 1
+    c = canon(other)
+    clash, _ = lookup(rows, c)
+    if clash and clash is not r:
+        print(f"{c} already belongs to {clash['name']} ({clash['status']}). "
+              f"Merge them by hand rather than aliasing.", file=sys.stderr)
+        return 1
+    have = [a for a in (r["aliases"] or "").split(" | ") if a.strip()]
+    if c == canon(r["linkedin_url"]) or c in have:
+        print("already known")
+        return 0
+    have.append(c)
+    r["aliases"] = " | ".join(have)
+    today = date.today().isoformat()
+    save(rows)
+    journal([[today, canon(r["linkedin_url"]), r["name"], r["status"], r["status"],
+              "alias", "Claude", "live", c]])
+    commit(f"crm: {r['name']} also appears as {c}")
+    print(f"{r['name']} also appears as {c}")
     return 0
 
 
@@ -254,6 +324,7 @@ VIEWS = {
     "follow-up": lambda r: r["status"] == "contacted",
     "first-dm":  lambda r: r["status"] == "connected",
     "to-invite": lambda r: r["status"] == "new",
+    "needs-icp": lambda r: r["icp_segment"] == "needs-icp" or not r["icp_segment"].strip(),
 }
 
 
@@ -286,7 +357,8 @@ def cmd_funnel(args):
 
 
 COMMANDS = {"check": cmd_check, "add": cmd_add, "status": cmd_status, "note": cmd_note,
-            "show": cmd_show, "list": cmd_list, "funnel": cmd_funnel}
+            "set": cmd_set, "alias": cmd_alias, "show": cmd_show, "list": cmd_list,
+            "funnel": cmd_funnel}
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 or sys.argv[1] not in COMMANDS:
