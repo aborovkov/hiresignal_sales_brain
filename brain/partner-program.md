@@ -7,8 +7,12 @@ resell StepUP's service - running technical interviews - to those clients.
 StepUP shares revenue with the partner for every unit sold.
 
 - Unit = one interview.
-- Share size: NOT YET SPECIFIED by Alexey. Do not name a number or percent in
-  any outbound message until he states one.
+- Share: **10% of each interview billed to a referred client** (fixed by Alexey,
+  2026-08-17, first quoted to Olga Cipruse).
+- Partner's job: the intro only. StepUP runs the sale, the pilot and delivery.
+- Client price: NOT quoted in outbound. Depends on volume/stack; the entry step
+  is the free pilot (real resumes vs one real JD - offer.md wedge), numbers come
+  after it. Do not name the unconfirmed $1,000/mo anchor.
 - Target partner profile: freelance/fractional recruiters, HR consultants,
   agency folks with client books, HR leaders between roles who consult.
 - Positioning: lets a partner add a technical-screening arm to their offer
