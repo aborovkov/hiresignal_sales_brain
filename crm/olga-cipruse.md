@@ -1,29 +1,64 @@
-# Olga Cipruse
+---
+name: Olga Cipruse
+company: (between roles, ex-Dyninno Group)
+role: HR Leader (open to work)
+location: Riga, Latvia
+linkedin: https://www.linkedin.com/in/olga-cipruse
+source: manual connect (Alexey)
+icp_score: 2
+stage: contacted
+stage_date: 2026-08-17
+next_action: soft FU with ready-to-forward partner intro text (no push before that)
+next_action_date: 2026-08-24
+---
 
-- url: https://www.linkedin.com/in/olga-cipruse
-- role: HR Leader (open to work), ex-Dyninno Group, Riga, Latvia
-- segment: smb-inhouse (future buyer) + partner-program candidate
-- language: Russian (posts in RU and EN)
+## Snapshot
 
-## Thread
+HR leader, 13y across HR strategy, HR transformation, employee experience; ex-Dyninno,
+Riga. Open to work. Language: Russian (posts RU/EN). Not a budget holder today -
+partner-program candidate: consultative referrals into her network of companies that
+hire engineers. Her own diagnosis of tech hiring (broken recruiter -> tech interviewer
+-> HM chain, no shared criteria) matches our pitch exactly.
 
-- 2026-08-17 opener sent (expert question: what breaks hardest in tech hiring).
-  Partner program deliberately NOT yet mentioned - held for msg2.
-- 2026-08-17 16:05 replied, long and thoughtful:
-  - her diagnosis: the broken part is the recruiter -> tech interviewer -> HM
-    chain; no shared, explicit answer on which competencies are critical and
-    how to assess them; candidate repeats themselves, waits forever for
-    feedback; interviews drift into memory quizzes and gotchas
-  - her counter-question: is the bigger problem assessment quality, or how
-    companies organize the process around it?
+## Signals
 
-## Angle
+- 2026-08-17: post about "competitive compensation" and coffee (used in opener)
+- 2026-08-17: explicitly interested in partner program details, asked structured questions
 
-Her diagnosis IS our product pitch (shared rubric per role, one written
-breakdown for recruiter+HM). Answer expert-to-expert first, then partner
-program: she is open to work, has 13y of HR network, could resell interviews
-to companies around her. Rev share per interview, size TBD (brain/partner-program.md).
+## Log
 
-## Objections / risks
+### 2026-08-17 - DM (RU thread)
 
-- She is not a budget holder today; do not push a sale, build the relation.
+> Me (15:57): Ольга, спасибо за коннект! Улыбнулся вашему посту про «конкурентное вознаграждение» и кофе - точнее не скажешь. Я строю сервис технических интервью и много разговариваю с HR-лидерами о том, где в найме реально теряется время и доверие кандидатов. У вас 13 лет по обе стороны этих процессов - было бы очень интересно ваше мнение: что в техническом этапе найма, на ваш взгляд, сломано сильнее всего? Не питч - обмен взглядами. И удачи с поиском новой роли, уверен, она быстро найдётся.
+
+> Her (16:05): Алексей, спасибо за сообщение и добрые слова! На мой взгляд, сильнее всего в техническом найме ломается связка между рекрутером, техническим интервьюером и hiring manager. Часто до начала поиска нет единого и понятного ответа, какие компетенции действительно критичны для роли и как именно их оценивать. В результате рекрутер проверяет одно, технический специалист - другое, а руководитель в финале добавляет третий набор ожиданий. Кандидату приходится несколько раз рассказывать об одном и том же, проходить вопросы, слабо связанные с будущей работой, а затем долго ждать обратную связь или вообще её не получать. Особенно много доверия теряется, когда техническое интервью превращается в проверку памяти или попытку «поймать» кандидата, вместо оценки того, как человек думает, решает реальные задачи и взаимодействует с командой. Поэтому для меня главное слабое место - не само техническое интервью, а отсутствие общей структуры, прозрачных критериев и нормальной передачи информации между всеми участниками процесса. А что вы чаще всего видите со своей стороны: проблема больше в качестве технической оценки или в том, как компании организуют весь процесс вокруг неё?
+
+> Me (16:11): Да, Ольга, согласен... обычно это сломанный телефон между HM, интервьюером и кандидатом. Мы StepUP ровно вокруг этого и построили: перед поиском фиксируется одна рубрика по роли, интервью проходит по ней, а на выходе - транскрипт и структурированный разбор, который читают и рекрутер, и HM. Спорят потом о кандидате, а не о том, «что мы вообще проверяли». Вот как выглядит такой разбор: https://app.stepup.services/b/OYd6n1s7C8HAf5fAAkzXwlKiy3w6KhNRH04ON7xQ И ещё одна мысль, уже не про теорию. У нас есть партнёрская программа для HR-профессионалов: если в вашем окружении есть компании, которые нанимают инженеров, вы можете предлагать им наши технические интервью - мы делимся доходом с каждого проведённого интервью, а всю доставку берём на себя. С вашей сетью и опытом это может быть неплохим дополнением к тому, чем вы займётесь дальше. Рассказать детали?
+
+> Her (16:17): Да, Алексей, теперь понимаю, к чему вы вели. Сама модель может быть интересной, поэтому готова узнать подробности. При этом хочу правильно обозначить свой профессиональный профиль. Рекрутмент и хедхантинг действительно были моими сильными сторонами на более раннем этапе карьеры - около десяти лет назад я активно занималась подбором, включая сложные и массовые вакансии. В дальнейшем мой фокус сместился на HR-стратегию, построение и масштабирование HR-функций и процессов, управление международными HR-проектами, а также разработку системных подходов к найму, развитию и employee experience. Поэтому сейчас моя основная экспертиза - не самостоятельный поиск кандидатов, а выстраивание эффективных HR- и recruitment-процессов на уровне компании. Тем не менее предложение может быть релевантно для моего профессионального окружения. Расскажите, пожалуйста, как устроена партнёрская программа: кто является целевым клиентом, как фиксируется рекомендация, какое вознаграждение получает партнёр и какова стоимость интервью для компании? Также хотелось бы понять, предполагается ли от партнёра только знакомство с потенциальным клиентом или дальнейшее участие в переговорах и продаже.
+
+> Me (16:23): Ольга, спасибо за такой структурированный запрос - отвечу тем же порядком. Целевой клиент - компании, которые нанимают инженеров и у которых техническая оценка стала узким местом: IT-рекрутинговые агентства, аутстафф/аутсорс-команды и инхаус-найм в компаниях примерно до 200 человек. Типичный признак - «сеньоры тонут в собеседованиях» или «рекрутер не может проверить глубину кандидата». Роль партнёра - только знакомство. Вы представляете нас человеку, которому это релевантно, дальше переговоры, пилот и доставку ведём мы. Никаких продаж с вашей стороны - и это, судя по вашему описанию профиля, ровно то, что вам подходит: здесь работает не сорсинг, а ваша сеть и доверие к вашей экспертизе в процессах. Как фиксируется рекомендация - просто и прозрачно: вы делаете интро (письмом или в LinkedIn), с этого момента клиент закреплён за вами. Никаких промокодов и форм. Вознаграждение - 10% с каждого проведённого интервью по вашему клиенту, пока он с нами работает. Не разовая премия за сделку, а доля с потока. Стоимость для компании зависит от объёма и стека, поэтому вилку вслепую не называю. Первый шаг - встреча-диагностика, в идеале вместе с инженерами компании: разбираемся, как у них устроена оценка сейчас, и калибруем интервью под их реальные потребности, а не под плоскую универсальную рубрику. Предметный разговор о цене - после неё. Это упрощает и ваше интро: вы рекомендуете не расход, а разговор, из которого компания в любом случае унесёт пользу. Если формат откликается - пришлю короткий текст-интро, который удобно переслать знакомому с болью в тех-найме. С кого было бы естественно начать?
+
+> Me (16:33): что скажете? :)
+
+> Her (20:40): Я подумаю 🤔
+
+Seen by her 20:40. Reactions: she got 👏 on 16:05, 👍 on 16:17, 🤝 on 20:40.
+
+## Objections raised
+
+- "Я подумаю" (20:40, after full partner terms + "с кого начать?") -> not answered yet;
+  plan: no push, soft FU 2026-08-24 with the ready-to-forward intro text so the next
+  step costs her nothing. Note: the 16:33 nudge "что скажете? :)" 4h after a detailed
+  ask likely added pressure - avoid same-day nudges after big asks.
+- "Мой профиль - HR-стратегия/процессы, не сорсинг" (16:17) -> answered 16:23:
+  intro-only role, network + trust, no sales -> outcome: stayed engaged, then deferred.
+
+## Notes
+
+- Ball is with her. Do NOT nudge before 2026-08-24.
+- Next touch = give, not ask: send the short forwardable intro text ("вот текст, который
+  удобно переслать - вдруг пригодится"), zero pressure, no "so what did you decide".
+- Referral potential: 13y HR network in Baltics/CIS; positions herself as process
+  consultant - frame partner pitch as "you recommend a diagnostic conversation, not a cost".
+- Relationship play long-term: future in-house buyer once she lands a role.
