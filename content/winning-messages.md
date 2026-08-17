@@ -62,3 +62,13 @@ specific desk mix, then attach output they can grade.
 
 Cadence: +6 days, comfortably past the 3-day floor, new angle plus new asset. The tightened
 2026-08-02 cadence produced this, not despite it.
+
+### 2026-08-17 - Olga Cipruse, HR leader (ex-Dyninno, open to work) - substantive reply in 8 minutes
+Context: first DM after manual connect, RU thread. Expert-question opener: no pitch, one real
+question, personalization from her own post (crm/olga-cipruse.md)
+> Ольга, спасибо за коннект! Улыбнулся вашему посту про «конкурентное вознаграждение» и кофе - точнее не скажешь. Я строю сервис технических интервью и много разговариваю с HR-лидерами о том, где в найме реально теряется время и доверие кандидатов. У вас 13 лет по обе стороны этих процессов - было бы очень интересно ваше мнение: что в техническом этапе найма, на ваш взгляд, сломано сильнее всего? Не питч - обмен взглядами. И удачи с поиском новой роли, уверен, она быстро найдётся.
+Why it likely worked:
+- Asked for expertise, not attention: "не питч - обмен взглядами" named and defused the sales frame, and the question was one she could answer from 13 years of experience
+- Personalization was real (her post that same week) and the open-to-work situation was acknowledged with a wish, not exploited as an angle
+- Her answer WAS our pitch (broken recruiter/interviewer/HM chain, no shared criteria) - the expert question selects for people who feel the exact pain the product solves, so the 16:11 product reveal read as agreement, not a bait-and-switch
+Pattern: for HR leaders / process people (vs agency owners), open with the diagnostic question and let them articulate the pain before showing the board. Caveat from the same thread: after the reveal, do not stack a commitment ask + same-day nudge - see the "Я подумаю" objection entry
