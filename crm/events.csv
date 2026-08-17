@@ -2940,3 +2940,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-17 00:00:00,https://www.linkedin.com/in/ksenia-bussen-2266a63,,invited,lost,transition,Alexey,live,"invite not accepted, withdrawn"
 2026-08-17,https://www.linkedin.com/in/vismay-h-b9a89a81gde,vismay hegde,parked,parked,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-agency-small'
 2026-08-17,https://www.linkedin.com/in/vismay-h-b9a89a81gde,vismay hegde,parked,parked,edit,Claude,live,icp_segment: 'rec-agency-small' -> 'needs-icp'
+2026-08-17,https://www.linkedin.com/in/aliona-makaryeva-118b14175,Aliona Makaryeva,replied,lost,transition,Alexey,live,"objection: interviews done in-house, Alexey decided not to pursue"
