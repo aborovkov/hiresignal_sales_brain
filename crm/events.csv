@@ -2962,3 +2962,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-17,https://www.linkedin.com/in/olga-cipruse,Olga Cipruse,replied,replied,alias,Claude,live,https://www.linkedin.com/in/acoaadqosxmbnqzt3jtjwbkihuxd_2wvvpqz9fm
 2026-08-17,https://www.linkedin.com/in/olga-cipruse,Olga Cipruse,replied,replied,edit,Claude,live,contact_file: '' -> 'crm/olga-cipruse.md'
 2026-08-17,https://www.linkedin.com/in/olga-cipruse,Olga Cipruse,replied,replied,edit,Claude,live,next_action: '' -> 'answer her counter-question + introduce partner program'
+2026-08-17,https://www.linkedin.com/in/gaz-wright-b0b6a294,Gaz Wright,,new,transition,Claude,lead-hunter,"in-house TA at a cloud/AI services firm, recruits AI+data engineers - segment and title match"
