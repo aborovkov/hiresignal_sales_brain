@@ -66,8 +66,10 @@ python3 scripts/leads.py check <url> [name]   # known already? matched how?
 python3 scripts/leads.py add < leads.json     # append new, skip known, journal
 python3 scripts/leads.py status <url> <status> [note]
 python3 scripts/leads.py note <url> <text>
+python3 scripts/leads.py set <url> <field> <value>   # correct a field
+python3 scripts/leads.py alias <url> <other-url>     # same person, another slug
 python3 scripts/leads.py show <url>           # the row plus its full history
-python3 scripts/leads.py list warm|follow-up|first-dm|to-invite|<status>
+python3 scripts/leads.py list warm|follow-up|first-dm|to-invite|needs-icp|<status>
 python3 scripts/leads.py funnel
 ```
 
@@ -75,6 +77,21 @@ python3 scripts/leads.py funnel
 and `name` are the ones that matter. Every mutating command appends to
 `crm/events.csv` and makes its own git commit, so the funnel history is real and
 any mistake is one `git revert` away.
+
+`parked` and `lost` are refused without a third argument: a revisit date for
+`parked`, a reason for `lost`. A terminal status with no explanation is how a
+pipeline rots.
+
+`set` is the only way to correct a field, and it exists mainly for one job:
+70 rows currently sit at `icp_segment = needs-icp`, added by lead-sync as manual
+connects and never scored. `list needs-icp` is that backlog. Note that
+`out-of-icp` is also a literal value (69 rows), so a blank check is not enough
+to decide who is in the ICP.
+
+`alias` is what keeps the dedupe fix working. When you find someone under a URL
+that differs from their stored one, record it - otherwise the next hunt has
+nothing to match and they come back as a fresh lead. It refuses to attach a URL
+that already belongs to somebody else.
 
 Read the store directly with pandas or csv when a question is easier answered
 that way. Only **write** through the CLI.
