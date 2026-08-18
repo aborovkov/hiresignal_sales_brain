@@ -47,3 +47,25 @@ EN:
 "We don't try to delete every fake. We surface the ones who can actually defend their work - and flag the ones who can't, so your team spends time only where it pays off."
 
 * Source: `../crm/accounts/david-stepania.md`, 2026-07-17
+
+---
+
+## Partner-program first-touch DMs (EN, model A only) - ACTIVE since 2026-08-18
+
+Canonical source: `../brain/partner-program.md` (pitch text v1, segmentation
+rule, and the three variants below). Rules: one variant per person, rotate
+across a batch, one real personalization line each, max 20-25 first DMs/day,
+`leads.py check` before every send. Never mention the reseller/markup model or
+any transfer price in writing.
+
+**V1 - "we pay recruiters" hook (default):**
+Hi {Name}, we started paying recruiters a cut of every interview we run. The mechanics: you know companies where staff engineers interview candidates themselves. You make one intro, our engineers take those interviews over - recorded, structured report per candidate - and you get 10% of every interview we run for that client, for as long as they stay. We do zero sourcing, so the client stays yours. Want the short one-pager?
+
+**V2 - pain-first (client engineers' time):**
+Hi {Name}, most hiring stalls I see have one cause: the engineers who run tech interviews have no time for them. We take that load - our engineers interview the client's candidates, record everything, send a structured report on each. New part: we opened a partner program. You intro us to a client, we handle the sale and delivery, you earn 10% of every interview we run for them. Sourcing stays 100% yours. Worth a look?
+
+**V3 - anti-competition (agency owners):**
+Hi {Name}, we opened a partner track I think fits your agency. StepUP runs technical interviews as a service: practicing engineers interview the client's candidates, recorded, structured report on each. You bring the client, keep the relationship, and take 10% of every interview we run for them. We sell no recruiting services at all, so there is nothing for us to compete with you on. Open to details?
+
+* Target pool: `rec-fractional` + `partner` segments first, then agency founders. Buyer-ICP leads (staff-aug CTOs etc.) keep the standard buyer opener.
+* Known gap: V1 promises a one-pager that does not exist yet - build before first V1 send, or send V2/V3 meanwhile.
