@@ -194,3 +194,27 @@ price, no "1,700 interviews".
 
 **V3 - anti-competition (for agency owners)**
 > Hi {Name}, we opened a partner track I think fits your agency. StepUP runs technical interviews as a service: practicing engineers interview the client's candidates, recorded, structured report on each. You bring the client, keep the relationship, and take 10% of every interview we run for them. We sell no recruiting services at all, so there is nothing for us to compete with you on. Open to details?
+
+## Решение 2026-08-18 (Alexey): тренировочные интервью - reseller markup
+
+Открытый вопрос 1 ("10% vs наценка сверху") РЕШЁН для линии тренировочных
+(mock) интервью кандидатам (B2C-кейс, первый кейс - Elizaveta Ivanova,
+crm, lizarecruiter):
+
+- Модель: **reseller markup**. Партнёру даётся трансферная цена
+  **$100 за интервью** (зафиксировано Alexey 2026-08-18), розничную цену
+  своим кандидатам партнёр назначает сам и оставляет дельту себе.
+- Розничную цену мы не фиксируем и с кандидатами партнёра напрямую не
+  работаем.
+- Формат линии: один тип интервью - по планке Senior Software Engineer,
+  без деления по грейдам. Выход - вердикт: Senior-ready / почти senior
+  (что добить) / Mid (план прокачки). ~60 мин, Zoom, запись +
+  структурированный разбор кандидату.
+- Обоснование выбора markup: при $100 и rev share 10% партнёр получает $10
+  за интервью - слабая мотивация; при markup его дельта $30-50. Партнёр в
+  этой линии сам продаёт и сам собирает кандидатов, вклад больше, чем
+  "интро" в B2B-механике.
+- B2B-механика (интро к клиенту, StepUP ведёт продажу и доставку) остаётся
+  на rev share 10% - решение 2026-08-17 не меняется.
+- Оффер-док (RU, для партнёра): Google Doc "StepUP - Тренировочное
+  интервью Senior Software Engineer".
