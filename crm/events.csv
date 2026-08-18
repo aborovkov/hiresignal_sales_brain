@@ -3055,3 +3055,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-18,https://www.linkedin.com/in/oziomaudoette,Ozioma (Nnamani) Udoette,new,connected,transition,Alexey,live,1st degree confirmed on profile 2026-08-18; mutual: Jacqueline
 2026-08-18,https://www.linkedin.com/in/oziomaudoette,Ozioma (Nnamani) Udoette,connected,connected,edit,Claude,live,icp_segment: '' -> 'rec-fractional'
 2026-08-18,https://www.linkedin.com/in/oziomaudoette,Ozioma (Nnamani) Udoette,connected,connected,edit,Claude,live,icp_score: '' -> '3'
+2026-08-18,https://www.linkedin.com/in/oziomaudoette,Ozioma (Nnamani) Udoette,connected,connected,edit,Claude,live,"icp_reason: '' -> 'fractional HR partner for founders (hiring+onboarding+people ops), book of business not confirmed - partner-program candidate'"
