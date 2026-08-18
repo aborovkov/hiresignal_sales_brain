@@ -169,3 +169,28 @@ the recording to the client. No client pricing anywhere in the text.
 - Трансферную цену не публиковать нигде и не писать в рассылаемые тексты -
   только в разговоре с конкретным партнером, иначе она становится публичной
   ценой StepUP.
+
+## Segmentation rule + EN DM pack (2026-08-18)
+
+Segmentation (confirmed direction): pitch ONLY model A (10%) to everyone - one
+text, one number. Model B (reseller markup) is never offered proactively; it is
+an escalation card for (a) a partner negotiating for a bigger cut, (b) the
+competition fear that words do not remove, (c) agencies with an entity that want
+to own the commercial relationship. Hard filter: no legal entity = A only.
+Never show both models in one message; never put the transfer price in writing.
+
+### EN first-touch DMs (partner program, model A only, humanizer-strict passed)
+
+Rules for use: ONE variant per person, rotate variants across a batch, add one
+real personalization line per person, max ~20-25 first-touch DMs/day (see
+outreach-rules anti-automation guardrails). No client pricing, no transfer
+price, no "1,700 interviews".
+
+**V1 - "we pay recruiters" hook (default announcement)**
+> Hi {Name}, we started paying recruiters a cut of every interview we run. The mechanics: you know companies where staff engineers interview candidates themselves. You make one intro, our engineers take those interviews over - recorded, structured report per candidate - and you get 10% of every interview we run for that client, for as long as they stay. We do zero sourcing, so the client stays yours. Want the short one-pager?
+
+**V2 - pain-first (client engineers' time)**
+> Hi {Name}, most hiring stalls I see have one cause: the engineers who run tech interviews have no time for them. We take that load - our engineers interview the client's candidates, record everything, send a structured report on each. New part: we opened a partner program. You intro us to a client, we handle the sale and delivery, you earn 10% of every interview we run for them. Sourcing stays 100% yours. Worth a look?
+
+**V3 - anti-competition (for agency owners)**
+> Hi {Name}, we opened a partner track I think fits your agency. StepUP runs technical interviews as a service: practicing engineers interview the client's candidates, recorded, structured report on each. You bring the client, keep the relationship, and take 10% of every interview we run for them. We sell no recruiting services at all, so there is nothing for us to compete with you on. Open to details?
