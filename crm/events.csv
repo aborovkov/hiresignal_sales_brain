@@ -3064,3 +3064,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-18,https://www.linkedin.com/in/ksu-theoffer-room,Ksenia Bratkova,,new,transition,Claude,lead-hunter,"not an agency - career-services co-founder + practicing recruiter, RU-speaking audience; partner-network fit, client book unconfirmed"
 2026-08-19,https://www.linkedin.com/in/lizarecruiter,Elizaveta Ivanova,replied,replied,edit,Claude,live,contact_file: '' -> 'crm/elizaveta-ivanova.md'
 2026-08-19,https://www.linkedin.com/in/lizarecruiter,Elizaveta Ivanova,replied,replied,edit,Claude,live,icp_segment: 'needs-icp' -> 'partner'
+2026-08-19,https://www.linkedin.com/in/lizarecruiter,Elizaveta Ivanova,replied,replied,edit,Claude,live,icp_score: '' -> '4'
