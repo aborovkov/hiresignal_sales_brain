@@ -3172,3 +3172,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-21,https://www.linkedin.com/in/alina-yaremenko,Alina Yaremenko,new,connected,transition,Alexey,live,manual connect accepted 2026-08-21
 2026-08-21,https://www.linkedin.com/in/annapavlyk,Anna Pavlyk,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-agency-tech'
 2026-08-21,https://www.linkedin.com/in/annapavlyk,Anna Pavlyk,connected,connected,edit,Claude,live,icp_score: '' -> '5'
+2026-08-21,https://www.linkedin.com/in/annapavlyk,Anna Pavlyk,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'co-founder IDN Recruitment (Spain), 5 open eng roles for US startups - partner program'"
