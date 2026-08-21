@@ -3247,3 +3247,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-21,https://www.linkedin.com/in/chetanvyas1,Chetan Vyas,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-21 - referral - partner program, Deel client companies"
 2026-08-21,https://www.linkedin.com/in/riyaamiin,Riya A,,new,transition,Claude,lead-hunter,"Leads recruitment division at APS Resources (global agency: mining, O&G, energy, some IT). High-volume CV inflow (mass offshore campaigns, 11 disciplines) but mostly non-tech desk; not an owner. P1 partial fit."
 2026-08-21,https://www.linkedin.com/in/riyaamiin,Riya A,new,contacted,transition,Alexey,live,"first DM sent 2026-08-21, variant A (trigger: offshore 11-discipline post)"
+2026-08-21,https://www.linkedin.com/in/riyaamiin,Riya A,contacted,contacted,edit,Claude,live,"next_action: '' -> 'FU1 not before 2026-08-25: new angle (time-zone / overlap-hours) or asset, not a bump'"
