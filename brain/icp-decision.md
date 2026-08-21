@@ -322,3 +322,87 @@ decision" - реальный ответ из поля, см. `objections.md`, ma
 Обрати внимание: `inhouse-recruiter` и `in-house TA (IT)` - отдельные теги от
 `p2-inhouse-TA`, и они НЕ возвращаются этим решением. Если имелись в виду и они,
 это надо записать отдельно.
+
+---
+
+## Update 2026-08-17, by Alexey: НОВАЯ КАРТА СЕГМЕНТОВ - 9 слагов вместо 24 меток.
+
+Решение Алексея: две недели гоним аутбаунд по сегментам и меряем отклик по каждому;
+если отклика нет - меняем сегменты. Для этого 24 накопившиеся метки `icp_segment`
+схлопнуты в 9 канонических слагов. 17.08.2026 вся таблица (899 строк, 832 правки)
+переразмечена по этой карте; старое значение каждой строки сохранено в
+`icp_segment_raw`. Карта сегментов (слаг, название, описание, приоритет, отклик)
+живёт в новом табе `segments` той же Google-таблицы.
+
+### Словарь - ЕДИНСТВЕННЫЕ допустимые значения `icp_segment` для новых рядов
+
+Проверяемые гипотезы: **H1** - внешние (не-инхаус) рекрутеры покупают;
+**H2** - малые компании с небольшим инженерным отделом (тип Control Plus) покупают.
+
+| слаг | кто это | гипотеза | приоритет |
+|---|---|---|---|
+| `rec-agency-tech` | тех. рекрутинговое агентство (срез hands-on владельца/чемпиона) | H1 | A - активно гнать |
+| `rec-fractional` | независимый / фракционный / соло тех. рекрутер | H1 | A - активно гнать |
+| `smb-inhouse` | малая компания, нанимающая инженеров себе (founder/CTO/TA) | H2 | A - активно гнать |
+| `rec-agency-small` | универсальное агентство до ~50 чел | H1 | B - второй эшелон |
+| `rec-staff-aug` | аутстафф / dev shop / talent marketplace (vetting = их продукт) | H1 | B - второй эшелон |
+| `rec-agency-large` | универсальное агентство 51+ | - | C - морозить (0% reply) |
+| `partner` | инвесторы, канальные партнёры, усилители | - | C - не для продаж |
+| `needs-icp` | не отскорен / требует проверки | - | скоринг до любого касания |
+| `out-of-icp` | осознанно исключён | - | не трогать |
+
+Старые метки в `icp_segment` больше НЕ ПИШУТСЯ. Тонкая деталь (размер агентства,
+подтип p2-startup vs p2-inhouse-TA, источник TeamTailor и т.п.) при скоринге нового
+лида записывается в `icp_segment_raw`.
+
+Маппинг старое -> новое: agency-tech, agency-tech (TeamTailor) -> `rec-agency-tech`;
+agency-generic и (1-10), (11-50) -> `rec-agency-small`; agency-generic (51-200),
+(201-500), (500+) -> `rec-agency-large`; staff-aug -> `rec-staff-aug`;
+independent-fractional, independent-fractional (P1) -> `rec-fractional`; p2-startup,
+p2-inhouse-TA, inhouse-recruiter, in-house TA (IT) -> `smb-inhouse`; partner-channel,
+investor, amplifier, p2-adjacent -> `partner`; (пусто), unclassified, recruiter-misc,
+recruiter-misc (verify), mid-market -> `needs-icp`; out-of-icp, disqualified ->
+`out-of-icp`.
+
+### Что это меняет относительно решений 2026-08-06 / 08-07 - явные развязки
+
+1. **`agency-generic` (малые) возвращается в набор как `rec-agency-small`,
+   приоритет B.** Основание - решение Алексея по карте 17.08; данные (20% reply на
+   20 contacted, у 1-10 и 11-50 лучший отклик в базе) - иллюстрация, не обоснование:
+   гардрейл "не переруливать ICP на горстке ответов" помним, выборка мала. Крупные
+   (51+) остаются вне работы как `rec-agency-large`.
+2. **`inhouse-recruiter` (7 чел) и `in-house TA (IT)` (1 чел) влиты в `smb-inhouse`
+   и тем самым ВОЗВРАЩЕНЫ в активный набор** - update 2026-08-07 (b) их не возвращал,
+   это отдельное следствие новой карты. Если кто-то из них сидит в крупной компании
+   (не малой), при первом касании переразметить в `needs-icp` через `icp_segment_raw`.
+3. **Фронт `mid-market` (non-tech, строящие инженерный отдел) слота в карте не имеет
+   и на две недели теста ПРИОСТАНОВЛЕН** - он вне обеих гипотез. Единственная строка
+   (Topaz Rabi Einy, Semperis) ушла в `needs-icp`. Если фронт возобновляется, для
+   него заводится отдельный слаг (например `midmarket-inhouse`) отдельным решением.
+4. **`rec-staff-aug` формально спирхедом быть перестаёт** - на две недели теста
+   основной удар по трём сегментам A. Спирхед-логика от 2026-07-29 не отменена, а
+   отложена: сегмент почти не тронут (2 contacted), вернёмся после теста.
+
+### Правила на две недели теста (до ~2026-08-31)
+
+- Хант и первые DM - только сегменты **A**; **B** - по остаточной квоте;
+  C / needs-icp / out-of-icp - не хантить, не писать.
+- Правило "сегмент важнее статуса" (2026-08-06) действует в новом словаре:
+  вне очереди касаний = `rec-agency-large`, `partner`, `out-of-icp`, а `needs-icp` -
+  до скоринга.
+- Мерило теста: reply-rate по каждому из A/B сегментов (pipeline считает по
+  `segments`-табу). Решение о смене сегментов - после окна, не на 2-3 ответах.
+
+**Hard disqualifiers без изменений: никаких лидов из Украины (UA) и России (RU);
+personal-network denylist от 2026-08-06 (b) действует.**
+
+---
+
+## Update 2026-08-21, by Alexey: RU/UA hard-stop is about the EMPLOYER, not the person's city.
+
+Clarification of the 2026-07-18 (UA) and 2026-07-25 (RU) hard disqualifiers: the
+stop applies when the COMPANY we would contract with is based in Russia or Ukraine.
+A person physically located in RU/UA who works for a company incorporated elsewhere
+(first case: Evgeny Konechnyi, Head of Engineering @ Uzum Market - Uzbekistan,
+person in St Petersburg) is allowed, scored on normal ICP rules. Note the person's
+location in `icp_reason` so the exception is visible.
