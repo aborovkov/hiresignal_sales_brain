@@ -3198,3 +3198,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-21,https://www.linkedin.com/in/alina-pakhucha,Alina (Mykhno) Pakhucha,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-agency-small'
 2026-08-21,https://www.linkedin.com/in/alina-pakhucha,Alina (Mykhno) Pakhucha,connected,connected,edit,Claude,live,icp_score: '' -> '3'
 2026-08-21,https://www.linkedin.com/in/alina-pakhucha,Alina (Mykhno) Pakhucha,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'recruitment lead - partner program'
+2026-08-21,https://www.linkedin.com/in/alina-pakhucha,Alina (Mykhno) Pakhucha,connected,connected,edit,Claude,live,"next_action: 'score against ICP (lead-hunter)' -> 'FU1 not before 2026-08-25 - new angle or asset, only if silent'"
