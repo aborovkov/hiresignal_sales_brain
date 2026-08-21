@@ -1,6 +1,6 @@
 # PILLARS.md
 
-> The content discipline. Governs what we post and in what mix. Voice is owned by `brain/voice.md`; this file owns **structure**. Speaks the vocabulary of the `linkedin-content-planner` + `linkedin-post-writer` skills so the numbers in `post_log.md` are legible.
+> The content discipline. Governs what we post and in what mix. Voice is owned by `brain/voice.md`; this file owns **structure**. Distribution of each post over 2-3 weeks is owned by `amplification.md`. Speaks the vocabulary of the `linkedin-content-planner` + `linkedin-post-writer` skills so the numbers in `post_log.md` are legible.
 
 ---
 

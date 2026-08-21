@@ -40,6 +40,7 @@ ops/        The engines: how transcripts become assets, how we run sales.
 ## content/
 
 * `pillars.md` → `ideas.md` → `drafts/` → `published/` → `post_log.md`.
+* `amplification.md` — the 4-stage distribution cycle (source → hijack → reframe → hand-off) every post goes through; plan stages 2-4 at draft time.
 * `links.md` — external links worth keeping: competitor pages, articles, tools, own posts that performed. Links only, analysis links out to `brain/`.
 
 ## ops/
