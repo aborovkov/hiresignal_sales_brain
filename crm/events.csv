@@ -3174,3 +3174,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-21,https://www.linkedin.com/in/annapavlyk,Anna Pavlyk,connected,connected,edit,Claude,live,icp_score: '' -> '5'
 2026-08-21,https://www.linkedin.com/in/annapavlyk,Anna Pavlyk,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'co-founder IDN Recruitment (Spain), 5 open eng roles for US startups - partner program'"
 2026-08-21,https://www.linkedin.com/in/annapavlyk,Anna Pavlyk,connected,connected,edit,Claude,live,"next_action: 'score against ICP (lead-hunter)' -> 'FU1 not before 2026-08-25 - new angle or asset, only if silent'"
+2026-08-21,https://www.linkedin.com/in/annapavlyk,Anna Pavlyk,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-21 - partner program opener (10% per interview for a client intro), one-pager link, personalized per headline"
