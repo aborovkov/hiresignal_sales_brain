@@ -3159,3 +3159,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-21,https://www.linkedin.com/in/elena-zalesskaya-26862b387,Elena Zalesskaya,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-21 - live RU thread, small talk so far (Alexey: hiring season about to start), observed in Messaging (You: last), logged by outbound sync"
 2026-08-21,https://www.linkedin.com/in/elena-zalesskaya-26862b387,Elena Zalesskaya,contacted,contacted,edit,Claude,live,icp_segment: 'needs-icp' -> 'partner'
 2026-08-21,https://www.linkedin.com/in/elena-zalesskaya-26862b387,Elena Zalesskaya,contacted,contacted,edit,Claude,live,icp_score: '' -> '3'
+2026-08-21,https://www.linkedin.com/in/elena-zalesskaya-26862b387,Elena Zalesskaya,contacted,contacted,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'in-house HR BP, fully staffed, not hiring - partner/referral play, agreed to read partner program'"
