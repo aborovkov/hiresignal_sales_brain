@@ -3211,3 +3211,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-21,https://www.linkedin.com/in/irina-odisharia,Irina Odisharia,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-21 - partner program opener (10% per interview for a client intro), one-pager link, personalized per headline"
 2026-08-21,https://www.linkedin.com/in/ketevan-betsuashvili,Ketevan Betsuashvili,connected,connected,edit,Claude,live,icp_segment: 'rec-agency-tech' -> 'partner'
 2026-08-21,https://www.linkedin.com/in/ketevan-betsuashvili,Ketevan Betsuashvili,connected,connected,edit,Claude,live,icp_score: '3' -> '3'
+2026-08-21,https://www.linkedin.com/in/ketevan-betsuashvili,Ketevan Betsuashvili,connected,connected,edit,Claude,live,"icp_reason: 'tech HRBP and senior technical TA manager, IT recruiting - employer unknown' -> 'tech HR BP / senior tech TA manager - referral play'"
