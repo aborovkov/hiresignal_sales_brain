@@ -3155,3 +3155,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-21,https://www.linkedin.com/in/ivan-novoselov,Ivan Novoselov,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-13 - observed in LinkedIn Messaging (You: last), logged retroactively by outbound reconcile 2026-08-21"
 2026-08-21,https://www.linkedin.com/in/nadia-rinsky,Nadia Rinsky,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-12 - observed in LinkedIn Messaging (You: last), logged retroactively by outbound reconcile 2026-08-21"
 2026-08-21,https://www.linkedin.com/in/elena-zalesskaya-26862b387,Elena Zalesskaya,,new,transition,Claude,lead-hunter,manual connect - not yet scored
+2026-08-21,https://www.linkedin.com/in/elena-zalesskaya-26862b387,Elena Zalesskaya,new,connected,transition,Alexey,live,"manual connect, in Connections list (lead-sync 2026-08-21)"
