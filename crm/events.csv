@@ -3121,3 +3121,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-21,https://www.linkedin.com/in/thedataagent,Mark Stevenson,new,connected,transition,Alexey,live,"manual connect, in Connections list (lead-sync 2026-08-21)"
 2026-08-21,https://www.linkedin.com/in/hirecarolina,Carolina Dunn,new,connected,transition,Alexey,live,"manual connect, in Connections list (lead-sync 2026-08-21)"
 2026-08-21,https://www.linkedin.com/in/jnrecruitment,Josephine New,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-21 - observed in LinkedIn Messaging (You: last), logged retroactively by outbound reconcile 2026-08-21"
+2026-08-21,https://www.linkedin.com/in/hirecarolina,Carolina Dunn,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-20 - observed in LinkedIn Messaging (You: last), logged retroactively by outbound reconcile 2026-08-21"
