@@ -3219,3 +3219,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-21,https://www.linkedin.com/in/sofyadongauzer,Sofya Dongauzer,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-21 - partner program opener (10% per interview for a client intro), one-pager link, personalized per headline"
 2026-08-21,https://www.linkedin.com/in/daria-salii-261a88159,Daria Salii,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'partner'
 2026-08-21,https://www.linkedin.com/in/daria-salii-261a88159,Daria Salii,connected,connected,edit,Claude,live,icp_score: '' -> '3'
+2026-08-21,https://www.linkedin.com/in/daria-salii-261a88159,Daria Salii,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'head of recruitment team / HR BP - referral play'
