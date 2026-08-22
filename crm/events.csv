@@ -3490,3 +3490,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/michalis-constantinou-0563659a,Michalis Constantinou,connected,lost,transition,Alexey,live,out-of-icp: early-stage founder
 2026-08-22,https://www.linkedin.com/in/giorgi-kadagishvili-6710a0363,Giorgi Kadagishvili,connected,connected,edit,Claude,live,icp_score: '' -> '0'
 2026-08-22,https://www.linkedin.com/in/giorgi-kadagishvili-6710a0363,Giorgi Kadagishvili,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
+2026-08-22,https://www.linkedin.com/in/giorgi-kadagishvili-6710a0363,Giorgi Kadagishvili,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Category management at Wolt Market - not tech, not hiring'"
