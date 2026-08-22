@@ -3542,3 +3542,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/giovannaguido,Giovanna Guido,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-agency-tech'
 2026-08-22,https://www.linkedin.com/in/anastasia-k-014879258,Anastasia Kozlova,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/anastasia-k-014879258,Anastasia Kozlova,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
+2026-08-22,https://www.linkedin.com/in/anastasia-k-014879258,Anastasia Kozlova,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Senior recruiter at EPC Network, Uzhhorod - UA-based employer'"
