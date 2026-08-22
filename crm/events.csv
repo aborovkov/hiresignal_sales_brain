@@ -3444,3 +3444,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/volha-kiparuk-84009a398,Volha Kiparuk,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/volha-kiparuk-84009a398,Volha Kiparuk,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Co-founder VidSeeds.ai - pre-seed creator tool, no eng team'"
 2026-08-22,https://www.linkedin.com/in/volha-kiparuk-84009a398,Volha Kiparuk,connected,lost,transition,Alexey,live,"out-of-icp: pre-seed, no eng hiring"
+2026-08-22,https://www.linkedin.com/in/koulikova,Olga Kulikova,connected,connected,edit,Claude,live,icp_score: '' -> '1'
