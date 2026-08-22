@@ -3476,3 +3476,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/olga-trushkevich,Olga Trushkevich,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/olga-trushkevich,Olga Trushkevich,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'AI product ops / program manager - not a hiring owner'
 2026-08-22,https://www.linkedin.com/in/olga-trushkevich,Olga Trushkevich,connected,lost,transition,Alexey,live,out-of-icp: product ops
+2026-08-22,https://www.linkedin.com/in/davinia-del-campo-6b7615104,Davinia del Campo,connected,connected,edit,Claude,live,icp_score: '' -> '1'
