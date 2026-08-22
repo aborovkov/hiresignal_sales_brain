@@ -3616,3 +3616,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/anna-miroshina,Anna Miroshina,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'partner'
 2026-08-22,https://www.linkedin.com/in/anna-miroshina,Anna Miroshina,connected,connected,edit,Claude,live,company: '' -> 'Empleora'
 2026-08-22,https://www.linkedin.com/in/anna-miroshina,Anna Miroshina,connected,connected,edit,Claude,live,location: '' -> 'Argentina'
+2026-08-22,https://www.linkedin.com/in/anna-miroshina,Anna Miroshina,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Co-founder Empleora (AI career platform for LATAM talent) - not a buyer, possible LATAM channel later'"
