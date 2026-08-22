@@ -3485,3 +3485,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/victoria-kravchenko-productmanager,Victoria Kravchenko,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Founder Verba (AI editor for creators) - early-stage, no eng team signal'"
 2026-08-22,https://www.linkedin.com/in/victoria-kravchenko-productmanager,Victoria Kravchenko,connected,lost,transition,Alexey,live,out-of-icp: early-stage founder
 2026-08-22,https://www.linkedin.com/in/michalis-constantinou-0563659a,Michalis Constantinou,connected,connected,edit,Claude,live,icp_score: '' -> '1'
+2026-08-22,https://www.linkedin.com/in/michalis-constantinou-0563659a,Michalis Constantinou,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
