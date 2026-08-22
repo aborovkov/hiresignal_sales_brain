@@ -3585,3 +3585,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/ida-prolaz-b9208365,Ida Prolaz,connected,connected,edit,Claude,live,icp_score: '4' -> '4'
 2026-08-22,https://www.linkedin.com/in/ida-prolaz-b9208365,Ida Prolaz,connected,connected,edit,Claude,live,icp_segment: 'rec-staff-aug' -> 'rec-staff-aug'
 2026-08-22,https://www.linkedin.com/in/ida-prolaz-b9208365,Ida Prolaz,connected,connected,edit,Claude,live,company: '' -> 'Virtasant'
+2026-08-22,https://www.linkedin.com/in/ida-prolaz-b9208365,Ida Prolaz,connected,connected,edit,Claude,live,"location: '' -> 'Sarajevo, Bosnia and Herzegovina'"
