@@ -3803,3 +3803,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,company: '' -> 'BBG Inc.'
 2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,location: '' -> 'United States'
 2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'CEO at BBG Inc. (US) - company unidentified from profile; verify what BBG does before any touch'
+2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 2 needs-icp
