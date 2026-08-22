@@ -3509,3 +3509,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/valentina-shteinikova-a64aa21bb,Valentina Shteinikova,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'FMCG product/category - not tech'
 2026-08-22,https://www.linkedin.com/in/valentina-shteinikova-a64aa21bb,Valentina Shteinikova,connected,lost,transition,Alexey,live,out-of-icp: FMCG
 2026-08-22,https://www.linkedin.com/in/arifun-nadia-410590372,Arifun Nadia,connected,connected,edit,Claude,live,icp_score: '' -> '0'
+2026-08-22,https://www.linkedin.com/in/arifun-nadia-410590372,Arifun Nadia,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
