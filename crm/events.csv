@@ -3552,3 +3552,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/esther-oyeleye600,Esther Omotosho (Oyeleye),connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/esther-oyeleye600,Esther Omotosho (Oyeleye),connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'TA specialist at Northvolt (Berlin) - large enterprise, not SMB'"
 2026-08-22,https://www.linkedin.com/in/esther-oyeleye600,Esther Omotosho (Oyeleye),connected,lost,transition,Alexey,live,out-of-icp: enterprise TA
+2026-08-22,https://www.linkedin.com/in/daria-vysotskaya-a549a1252,Daria Vysotskaya,connected,connected,edit,Claude,live,icp_score: '' -> '1'
