@@ -3503,3 +3503,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/frankegoesdown,Alexander Chernikov,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/frankegoesdown,Alexander Chernikov,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/frankegoesdown,Alexander Chernikov,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Chief Reliability Officer at Savings and Investments - unclear, likely RU-market fintech; no hiring signal'"
+2026-08-22,https://www.linkedin.com/in/frankegoesdown,Alexander Chernikov,connected,lost,transition,Alexey,live,out-of-icp: no hiring signal
