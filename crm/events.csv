@@ -3433,3 +3433,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/apetrunin,Alex Petrunin,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Founder of OTLYX (AI sports coaching app) - tiny early-stage, no eng team to speak of'"
 2026-08-22,https://www.linkedin.com/in/apetrunin,Alex Petrunin,connected,lost,transition,Alexey,live,"out-of-icp: solo founder, no eng hiring"
 2026-08-22,https://www.linkedin.com/in/rodin-dmitry,Dimitri Rodin,connected,connected,edit,Claude,live,icp_score: '' -> '1'
+2026-08-22,https://www.linkedin.com/in/rodin-dmitry,Dimitri Rodin,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
