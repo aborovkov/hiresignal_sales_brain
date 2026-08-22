@@ -3549,3 +3549,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/ida-prolaz-b9208365,Ida Prolaz,connected,connected,edit,Claude,live,icp_score: '' -> '4'
 2026-08-22,https://www.linkedin.com/in/ida-prolaz-b9208365,Ida Prolaz,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-staff-aug'
 2026-08-22,https://www.linkedin.com/in/esther-oyeleye600,Esther Omotosho (Oyeleye),connected,connected,edit,Claude,live,icp_score: '' -> '1'
+2026-08-22,https://www.linkedin.com/in/esther-oyeleye600,Esther Omotosho (Oyeleye),connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
