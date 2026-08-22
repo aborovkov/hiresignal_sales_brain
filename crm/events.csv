@@ -3351,3 +3351,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/arifun-nadia-410590372,Arifun Nadia,new,connected,transition,Alexey,live,connection accepted 2026-08-21 - manual connect observed in Connections list
 2026-08-22,https://www.linkedin.com/in/diana-ekaladze-1261ab136,Diana Ekaladze,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-21 - observed in LinkedIn Messaging (You: last), logged by outbound sync"
 2026-08-22,https://www.linkedin.com/in/tetiana-kovalova-628950b6,Tetiana Kovalova,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-21 - partner program pitch, observed in LinkedIn Messaging, logged by outbound sync"
+2026-08-22,https://www.linkedin.com/in/vladiskashh,Vladyslav Kashuashvili,connected,contacted,transition,Alexey,live,"first DM sent 2026-08-21 - partner program one-pager sent, observed in LinkedIn Messaging, logged by outbound sync"
