@@ -3611,3 +3611,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/maxkossakowski,Maximilian Kossakowski,connected,connected,edit,Claude,live,company: '' -> 'SkyCell AG'
 2026-08-22,https://www.linkedin.com/in/maxkossakowski,Maximilian Kossakowski,connected,connected,edit,Claude,live,location: '' -> 'Switzerland'
 2026-08-22,https://www.linkedin.com/in/maxkossakowski,Maximilian Kossakowski,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'People & Culture leader at SkyCell AG - product company with engineering org, upper end of the 20-100 eng band; hiring owner on people side'"
+2026-08-22,https://www.linkedin.com/in/maxkossakowski,Maximilian Kossakowski,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 3 smb-inhouse
