@@ -3492,3 +3492,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/giorgi-kadagishvili-6710a0363,Giorgi Kadagishvili,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/giorgi-kadagishvili-6710a0363,Giorgi Kadagishvili,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Category management at Wolt Market - not tech, not hiring'"
 2026-08-22,https://www.linkedin.com/in/giorgi-kadagishvili-6710a0363,Giorgi Kadagishvili,connected,lost,transition,Alexey,live,out-of-icp: category mgmt
+2026-08-22,https://www.linkedin.com/in/abdelaziz-moussaoui,Abdelaziz Moussaoui,connected,connected,edit,Claude,live,icp_score: '' -> '1'
