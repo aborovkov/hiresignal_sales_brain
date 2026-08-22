@@ -3744,3 +3744,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/nursultan-markisbek,Nursultan Markisbek,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
 2026-08-22,https://www.linkedin.com/in/nursultan-markisbek,Nursultan Markisbek,connected,connected,edit,Claude,live,company: '' -> 'BizOne'
 2026-08-22,https://www.linkedin.com/in/nursultan-markisbek,Nursultan Markisbek,connected,connected,edit,Claude,live,"location: '' -> 'Bishkek, Kyrgyzstan'"
+2026-08-22,https://www.linkedin.com/in/nursultan-markisbek,Nursultan Markisbek,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Co-founder & CTO at BizOne (fintech, Bishkek) - founder-led, owns eng hiring; small team'"
