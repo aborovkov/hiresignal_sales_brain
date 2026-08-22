@@ -3756,3 +3756,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/alexanderhakimov,Oleksandr Hakimov,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/alexanderhakimov,Oleksandr Hakimov,connected,connected,edit,Claude,live,company: '' -> 'REG.RU'
 2026-08-22,https://www.linkedin.com/in/alexanderhakimov,Oleksandr Hakimov,connected,connected,edit,Claude,live,"location: '' -> 'Kyiv, Ukraine'"
+2026-08-22,https://www.linkedin.com/in/alexanderhakimov,Oleksandr Hakimov,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'CTO at REG.RU (Russian domain registrar) - RU employer'
