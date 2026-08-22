@@ -3760,3 +3760,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/alexanderhakimov,Oleksandr Hakimov,connected,lost,transition,Alexey,live,RU employer - hard disqualifier
 2026-08-22,https://www.linkedin.com/in/synytsyn,Volodymyr Synytsyn,connected,connected,edit,Claude,live,icp_score: '' -> '2'
 2026-08-22,https://www.linkedin.com/in/synytsyn,Volodymyr Synytsyn,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
+2026-08-22,https://www.linkedin.com/in/synytsyn,Volodymyr Synytsyn,connected,connected,edit,Claude,live,"location: '' -> 'Warsaw, Poland'"
