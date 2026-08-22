@@ -3633,3 +3633,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/yegorolshevskyy,Yegor Olshevskyy,connected,connected,edit,Claude,live,icp_score: '' -> '3'
 2026-08-22,https://www.linkedin.com/in/yegorolshevskyy,Yegor Olshevskyy,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
 2026-08-22,https://www.linkedin.com/in/yegorolshevskyy,Yegor Olshevskyy,connected,connected,edit,Claude,live,company: '' -> 'Cradly'
+2026-08-22,https://www.linkedin.com/in/yegorolshevskyy,Yegor Olshevskyy,connected,connected,edit,Claude,live,"location: '' -> 'Warsaw, Poland'"
