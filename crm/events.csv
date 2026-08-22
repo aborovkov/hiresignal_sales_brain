@@ -3629,3 +3629,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/nicksher,Nikita Sheryukov,connected,connected,edit,Claude,live,company: '' -> 'Neginski'
 2026-08-22,https://www.linkedin.com/in/nicksher,Nikita Sheryukov,connected,connected,edit,Claude,live,"location: '' -> 'Erdemli, Turkiye'"
 2026-08-22,https://www.linkedin.com/in/nicksher,Nikita Sheryukov,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'HR Director / HRBP at Neginski (Turkey) - employer profile unclear, possible RU origin; verify before any touch'"
+2026-08-22,https://www.linkedin.com/in/nicksher,Nikita Sheryukov,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 2 smb-inhouse
