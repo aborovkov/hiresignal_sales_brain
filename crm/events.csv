@@ -3682,3 +3682,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/fessalian,Vitalii Vasylchenko,connected,connected,edit,Claude,live,location: '' -> 'Ukraine'
 2026-08-22,https://www.linkedin.com/in/fessalian,Vitalii Vasylchenko,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'CTO / solution architect based in Ukraine, no employer listed - UA-based'"
 2026-08-22,https://www.linkedin.com/in/fessalian,Vitalii Vasylchenko,connected,lost,transition,Alexey,live,"UA-based, no non-UA employer"
+2026-08-22,https://www.linkedin.com/in/igor-branitsky-21259a177,Igor Branitsky,connected,connected,edit,Claude,live,icp_score: '' -> '2'
