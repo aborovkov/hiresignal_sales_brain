@@ -3639,3 +3639,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/sergei-zaporozhets-4ab61a384,Sergei Zaporozhets,connected,connected,edit,Claude,live,icp_score: '' -> '2'
 2026-08-22,https://www.linkedin.com/in/sergei-zaporozhets-4ab61a384,Sergei Zaporozhets,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
 2026-08-22,https://www.linkedin.com/in/sergei-zaporozhets-4ab61a384,Sergei Zaporozhets,connected,connected,edit,Claude,live,company: 'Syneps AI' -> 'Syneps AI'
+2026-08-22,https://www.linkedin.com/in/sergei-zaporozhets-4ab61a384,Sergei Zaporozhets,connected,connected,edit,Claude,live,"location: '' -> 'Batumi, Georgia'"
