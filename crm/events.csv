@@ -3650,3 +3650,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/anton-rudov-7666b664,Anton Rudov,connected,connected,edit,Claude,live,icp_score: '' -> '3'
 2026-08-22,https://www.linkedin.com/in/anton-rudov-7666b664,Anton Rudov,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
 2026-08-22,https://www.linkedin.com/in/anton-rudov-7666b664,Anton Rudov,connected,connected,edit,Claude,live,company: '' -> 'LEXX SOFTWARE CO LTD'
+2026-08-22,https://www.linkedin.com/in/anton-rudov-7666b664,Anton Rudov,connected,connected,edit,Claude,live,"location: '' -> 'Warsaw, Poland'"
