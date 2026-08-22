@@ -3800,3 +3800,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/margarita-rapoporte,Margarita Rapoporte,connected,lost,transition,Alexey,live,"out-of-icp: no employer, generic TA"
 2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,icp_score: '' -> '2'
 2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'needs-icp'
+2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,company: '' -> 'BBG Inc.'
