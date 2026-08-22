@@ -3672,3 +3672,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/illia-shkurenko-128288157,Illia Shkurenko,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Founding CTO at RM Synaptic Works AG (Swiss employer; person located in Ukraine - allowed per 2026-08-21 rule) - early-stage AI product, hands-on CTO owning eng hiring'"
 2026-08-22,https://www.linkedin.com/in/illia-shkurenko-128288157,Illia Shkurenko,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 3 smb-inhouse
 2026-08-22,https://www.linkedin.com/in/sintija-b-0044a6229,Sintija Berzina,connected,connected,edit,Claude,live,icp_score: '' -> '1'
+2026-08-22,https://www.linkedin.com/in/sintija-b-0044a6229,Sintija Berzina,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
