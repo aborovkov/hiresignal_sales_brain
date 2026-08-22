@@ -3653,3 +3653,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/anton-rudov-7666b664,Anton Rudov,connected,connected,edit,Claude,live,"location: '' -> 'Warsaw, Poland'"
 2026-08-22,https://www.linkedin.com/in/anton-rudov-7666b664,Anton Rudov,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'Engineering Manager / startup CTO at LEXX Software (Warsaw) - hands-on eng leader at a small software company; hires engineers'
 2026-08-22,https://www.linkedin.com/in/anton-rudov-7666b664,Anton Rudov,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 3 smb-inhouse
+2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,edit,Claude,live,icp_score: '' -> '4'
