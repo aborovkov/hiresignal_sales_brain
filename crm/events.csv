@@ -3688,3 +3688,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/igor-branitsky-21259a177,Igor Branitsky,connected,connected,edit,Claude,live,"location: '' -> 'Minsk, Belarus'"
 2026-08-22,https://www.linkedin.com/in/igor-branitsky-21259a177,Igor Branitsky,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'CTO at MyfinGroup (Belarus fintech media/product) - has own eng team; Belarus payment and sanctions friction lowers score'
 2026-08-22,https://www.linkedin.com/in/igor-branitsky-21259a177,Igor Branitsky,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 2 smb-inhouse
+2026-08-22,https://www.linkedin.com/in/vladislavol4,Vladyslav Protsenko,connected,connected,edit,Claude,live,icp_score: '' -> '1'
