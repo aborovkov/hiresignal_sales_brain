@@ -3524,3 +3524,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/rebecagallegoferris,Rebeca Gallego Ferris,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/rebecagallegoferris,Rebeca Gallego Ferris,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Business talent strategist - consulting, no tech recruiting desk'"
 2026-08-22,https://www.linkedin.com/in/rebecagallegoferris,Rebeca Gallego Ferris,connected,lost,transition,Alexey,live,out-of-icp: talent consultant
+2026-08-22,https://www.linkedin.com/in/kanikapahwabhalla,Kanika Pahwa- Bhalla,connected,connected,edit,Claude,live,icp_score: '' -> '1'
