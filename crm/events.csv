@@ -3572,3 +3572,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/teona-tchigladze-449882158,Teona Tchigladze,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 4 rec-agency-tech
 2026-08-22,https://www.linkedin.com/in/giovannaguido,Giovanna Guido,connected,connected,edit,Claude,live,icp_score: '3' -> '3'
 2026-08-22,https://www.linkedin.com/in/giovannaguido,Giovanna Guido,connected,connected,edit,Claude,live,icp_segment: 'rec-agency-tech' -> 'rec-agency-tech'
+2026-08-22,https://www.linkedin.com/in/giovannaguido,Giovanna Guido,connected,connected,edit,Claude,live,company: '' -> 'Kake'
