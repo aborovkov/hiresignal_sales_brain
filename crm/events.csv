@@ -3694,3 +3694,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/vladislavol4,Vladyslav Protsenko,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'CTO iGaming, based in Zaporizhzhya, no employer listed - UA-based'"
 2026-08-22,https://www.linkedin.com/in/vladislavol4,Vladyslav Protsenko,connected,lost,transition,Alexey,live,"UA-based, no non-UA employer"
 2026-08-22,https://www.linkedin.com/in/yaroslavmolochko,Yaroslav Molochko,connected,connected,edit,Claude,live,icp_score: '' -> '0'
+2026-08-22,https://www.linkedin.com/in/yaroslavmolochko,Yaroslav Molochko,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
