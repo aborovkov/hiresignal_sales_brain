@@ -3791,3 +3791,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/agnese-alekseičeva-51140349,Agnese Alekseiceva,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'partner'
 2026-08-22,https://www.linkedin.com/in/agnese-alekseičeva-51140349,Agnese Alekseiceva,connected,connected,edit,Claude,live,company: '' -> 'Alma Career Latvia'
 2026-08-22,https://www.linkedin.com/in/agnese-alekseičeva-51140349,Agnese Alekseiceva,connected,connected,edit,Claude,live,"location: '' -> 'Riga, Latvia'"
+2026-08-22,https://www.linkedin.com/in/agnese-alekseičeva-51140349,Agnese Alekseiceva,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'TA specialist at Alma Career Latvia (job board cv.lv) - not a buyer; possible channel only'
