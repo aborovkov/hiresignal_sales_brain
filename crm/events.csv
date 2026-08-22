@@ -3657,3 +3657,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-staff-aug'
 2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,edit,Claude,live,company: '' -> 'Forte Group'
 2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,edit,Claude,live,"location: '' -> 'Buenos Aires, Argentina'"
+2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'Head of Delivery / Director of Engineering at Forte Group (US-LATAM software dev outsourcing) - delivery lead owns engineer quality billed to clients'
