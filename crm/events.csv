@@ -3641,3 +3641,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/sergei-zaporozhets-4ab61a384,Sergei Zaporozhets,connected,connected,edit,Claude,live,company: 'Syneps AI' -> 'Syneps AI'
 2026-08-22,https://www.linkedin.com/in/sergei-zaporozhets-4ab61a384,Sergei Zaporozhets,connected,connected,edit,Claude,live,"location: '' -> 'Batumi, Georgia'"
 2026-08-22,https://www.linkedin.com/in/sergei-zaporozhets-4ab61a384,Sergei Zaporozhets,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Co-founder & CPO at Syneps AI - early-stage, product side; little or no eng hiring yet'"
+2026-08-22,https://www.linkedin.com/in/sergei-zaporozhets-4ab61a384,Sergei Zaporozhets,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 2 smb-inhouse
