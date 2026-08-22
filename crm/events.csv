@@ -3773,3 +3773,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/oleksandra-pryimak-3974a183,Oleksandra Pryimak,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/oleksandra-pryimak-3974a183,Oleksandra Pryimak,connected,connected,edit,Claude,live,company: '' -> 'Self Employed'
 2026-08-22,https://www.linkedin.com/in/oleksandra-pryimak-3974a183,Oleksandra Pryimak,connected,connected,edit,Claude,live,location: '' -> 'Ukraine'
+2026-08-22,https://www.linkedin.com/in/oleksandra-pryimak-3974a183,Oleksandra Pryimak,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Self-employed HR director/HRBP based in Ukraine - UA-based, generic HR'"
