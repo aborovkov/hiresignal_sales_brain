@@ -3581,3 +3581,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/viksafonov,Viktor Safonov,connected,connected,edit,Claude,live,company: '' -> 'NDA'
 2026-08-22,https://www.linkedin.com/in/viksafonov,Viktor Safonov,connected,connected,edit,Claude,live,"location: '' -> 'Yerevan, Armenia'"
 2026-08-22,https://www.linkedin.com/in/viksafonov,Viktor Safonov,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Recruitment lead under NDA, Yerevan - C-level & hard-to-fill fintech roles; likely solo/agency desk, partner-program candidate'"
+2026-08-22,https://www.linkedin.com/in/viksafonov,Viktor Safonov,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 3 rec-fractional
