@@ -3446,3 +3446,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/volha-kiparuk-84009a398,Volha Kiparuk,connected,lost,transition,Alexey,live,"out-of-icp: pre-seed, no eng hiring"
 2026-08-22,https://www.linkedin.com/in/koulikova,Olga Kulikova,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/koulikova,Olga Kulikova,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'partner'
+2026-08-22,https://www.linkedin.com/in/koulikova,Olga Kulikova,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'IT entrepreneur / business angel - investor-partner profile, channel paused until case studies'"
