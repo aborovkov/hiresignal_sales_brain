@@ -3527,3 +3527,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/kanikapahwabhalla,Kanika Pahwa- Bhalla,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/kanikapahwabhalla,Kanika Pahwa- Bhalla,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/kanikapahwabhalla,Kanika Pahwa- Bhalla,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'AI talent development & advisory - L&D, not recruiting'"
+2026-08-22,https://www.linkedin.com/in/kanikapahwabhalla,Kanika Pahwa- Bhalla,connected,lost,transition,Alexey,live,out-of-icp: L&D advisory
