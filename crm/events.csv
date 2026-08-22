@@ -3626,3 +3626,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/paulina-sagirova,Polina Sagirova,connected,lost,transition,Alexey,live,out-of-icp: edtech placement
 2026-08-22,https://www.linkedin.com/in/nicksher,Nikita Sheryukov,connected,connected,edit,Claude,live,icp_score: '' -> '2'
 2026-08-22,https://www.linkedin.com/in/nicksher,Nikita Sheryukov,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
+2026-08-22,https://www.linkedin.com/in/nicksher,Nikita Sheryukov,connected,connected,edit,Claude,live,company: '' -> 'Neginski'
