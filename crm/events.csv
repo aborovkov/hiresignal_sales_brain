@@ -3703,3 +3703,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/schrepfler,Srdan Srepfler,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-staff-aug'
 2026-08-22,https://www.linkedin.com/in/schrepfler,Srdan Srepfler,connected,connected,edit,Claude,live,company: '' -> 'The Unit'
 2026-08-22,https://www.linkedin.com/in/schrepfler,Srdan Srepfler,connected,connected,edit,Claude,live,"location: '' -> 'Ohrid, North Macedonia'"
+2026-08-22,https://www.linkedin.com/in/schrepfler,Srdan Srepfler,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'VP of Engineering at The Unit (software studio / dev shop, North Macedonia) - engineering leader at a company that bills engineers to clients'"
