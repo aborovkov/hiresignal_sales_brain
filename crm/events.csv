@@ -3557,3 +3557,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/daria-vysotskaya-a549a1252,Daria Vysotskaya,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Recruiter/HR generalist at NPKC Intex, Brest (BY) - small non-product local firm'"
 2026-08-22,https://www.linkedin.com/in/daria-vysotskaya-a549a1252,Daria Vysotskaya,connected,lost,transition,Alexey,live,out-of-icp: generic local HR
 2026-08-22,https://www.linkedin.com/in/xenhr,Ksenia B.,connected,connected,edit,Claude,live,icp_score: '' -> '4'
+2026-08-22,https://www.linkedin.com/in/xenhr,Ksenia B.,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
