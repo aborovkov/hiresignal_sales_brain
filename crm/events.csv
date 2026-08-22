@@ -3646,3 +3646,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/andriy-chernysh,Andriy Chernysh,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
 2026-08-22,https://www.linkedin.com/in/andriy-chernysh,Andriy Chernysh,connected,connected,edit,Claude,live,"location: '' -> 'Warsaw, Poland'"
 2026-08-22,https://www.linkedin.com/in/andriy-chernysh,Andriy Chernysh,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'CTO / engineering leader, no current company on profile - between roles or consulting; no hiring budget now'"
+2026-08-22,https://www.linkedin.com/in/andriy-chernysh,Andriy Chernysh,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 2 smb-inhouse
