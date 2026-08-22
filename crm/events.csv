@@ -3563,3 +3563,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/elina-kopteleva,Elina Kopteleva,connected,connected,edit,Claude,live,company: '' -> 'JOBWHYZE LTD'
 2026-08-22,https://www.linkedin.com/in/elina-kopteleva,Elina Kopteleva,connected,connected,edit,Claude,live,"location: '' -> 'Riga, Latvia'"
 2026-08-22,https://www.linkedin.com/in/elina-kopteleva,Elina Kopteleva,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Owner of JOBWHYZE (Riga) - generic desk (office staff, drivers, accounting), not tech; has own clients -> partner-program candidate only'"
+2026-08-22,https://www.linkedin.com/in/elina-kopteleva,Elina Kopteleva,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 2 rec-agency-small
