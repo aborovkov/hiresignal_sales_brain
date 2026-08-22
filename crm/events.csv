@@ -3782,3 +3782,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/olga-lubenska-8590405,Olga Lubenska,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'TA at an unnamed e-commerce platform, Kyiv - UA-based employer'"
 2026-08-22,https://www.linkedin.com/in/olga-lubenska-8590405,Olga Lubenska,connected,lost,transition,Alexey,live,UA-based employer
 2026-08-22,https://www.linkedin.com/in/kaiva-beitika-714a08134,Kaiva Beitika,connected,connected,edit,Claude,live,icp_score: '' -> '3'
+2026-08-22,https://www.linkedin.com/in/kaiva-beitika-714a08134,Kaiva Beitika,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
