@@ -3461,3 +3461,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/elisa-zambreanu-a58152152,Elisa Zambreanu,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'Sales coach for founders - no hiring'
 2026-08-22,https://www.linkedin.com/in/elisa-zambreanu-a58152152,Elisa Zambreanu,connected,lost,transition,Alexey,live,out-of-icp: sales coach
 2026-08-22,https://www.linkedin.com/in/ivan-sur,Ivan Potapov,connected,connected,edit,Claude,live,icp_score: '' -> '0'
+2026-08-22,https://www.linkedin.com/in/ivan-sur,Ivan Potapov,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
