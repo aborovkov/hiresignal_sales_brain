@@ -3439,3 +3439,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/nikvladimir,Vladimir Nikitin,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/nikvladimir,Vladimir Nikitin,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/nikvladimir,Vladimir Nikitin,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'Board director / fractional exec in fintech-crypto - not hiring engineers'
+2026-08-22,https://www.linkedin.com/in/nikvladimir,Vladimir Nikitin,connected,lost,transition,Alexey,live,out-of-icp: board/fractional exec
