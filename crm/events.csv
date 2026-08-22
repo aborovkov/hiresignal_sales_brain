@@ -3517,3 +3517,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/алексей-юр-1046a3189,Aleksei Iur,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'Every.ru exec / fitness apps co-founder - RU-market company'
 2026-08-22,https://www.linkedin.com/in/алексей-юр-1046a3189,Aleksei Iur,connected,lost,transition,Alexey,live,RU employer - hard disqualifier
 2026-08-22,https://www.linkedin.com/in/ninoshurghaia,Nino Shurghaia,connected,connected,edit,Claude,live,icp_score: '' -> '1'
+2026-08-22,https://www.linkedin.com/in/ninoshurghaia,Nino Shurghaia,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
