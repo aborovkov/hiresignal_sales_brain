@@ -3423,3 +3423,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/nino-natchkebia-214865152,Nino Natchkebia,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/nino-natchkebia-214865152,Nino Natchkebia,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/nino-natchkebia-214865152,Nino Natchkebia,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Head of Comp & Ben / payroll - not recruiting, not engineering'"
+2026-08-22,https://www.linkedin.com/in/nino-natchkebia-214865152,Nino Natchkebia,connected,lost,transition,Alexey,live,out-of-icp: comp&ben
