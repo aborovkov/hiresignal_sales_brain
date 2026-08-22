@@ -3620,3 +3620,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/anna-miroshina,Anna Miroshina,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 2 partner
 2026-08-22,https://www.linkedin.com/in/paulina-sagirova,Polina Sagirova,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/paulina-sagirova,Polina Sagirova,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
+2026-08-22,https://www.linkedin.com/in/paulina-sagirova,Polina Sagirova,connected,connected,edit,Claude,live,company: '' -> 'ITCareerHub'
