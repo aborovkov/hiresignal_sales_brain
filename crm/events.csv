@@ -3452,3 +3452,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/aleksandar-ilic42,Aleksandar Ilic,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/aleksandar-ilic42,Aleksandar Ilic,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored (developer, likely out of ICP)' -> 'Senior back-end developer - IC'"
 2026-08-22,https://www.linkedin.com/in/aleksandar-ilic42,Aleksandar Ilic,connected,lost,transition,Alexey,live,out-of-icp: IC developer
+2026-08-22,https://www.linkedin.com/in/oluwapelumi-omotesho-1b335b27b,Oluwapelumi Omotesho,connected,connected,edit,Claude,live,icp_score: '' -> '0'
