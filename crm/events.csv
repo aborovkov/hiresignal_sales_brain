@@ -3764,3 +3764,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/synytsyn,Volodymyr Synytsyn,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'CTO / Head of Engineering in Warsaw, no current employer listed - between roles; no hiring budget now'"
 2026-08-22,https://www.linkedin.com/in/synytsyn,Volodymyr Synytsyn,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 2 smb-inhouse
 2026-08-22,https://www.linkedin.com/in/nutsa-barbakadze-112833206,Nutsa Barbakadze,connected,connected,edit,Claude,live,icp_score: '' -> '1'
+2026-08-22,https://www.linkedin.com/in/nutsa-barbakadze-112833206,Nutsa Barbakadze,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
