@@ -3410,3 +3410,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/sergnnn,Serg Nepomyashtiy,connected,lost,transition,Alexey,live,out-of-icp: GTM consultant / non-tech staffing
 2026-08-22,https://www.linkedin.com/in/dmitri-litvinkovich-649203424,Dmitri Litvinkovich,connected,connected,edit,Claude,live,icp_score: '' -> '0'
 2026-08-22,https://www.linkedin.com/in/dmitri-litvinkovich-649203424,Dmitri Litvinkovich,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
+2026-08-22,https://www.linkedin.com/in/dmitri-litvinkovich-649203424,Dmitri Litvinkovich,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'Head of dept at CNIITU - Russian institute (RU employer)'
