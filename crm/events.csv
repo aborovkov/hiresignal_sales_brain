@@ -3547,3 +3547,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/viksafonov,Viktor Safonov,connected,connected,edit,Claude,live,icp_score: '' -> '3'
 2026-08-22,https://www.linkedin.com/in/viksafonov,Viktor Safonov,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-fractional'
 2026-08-22,https://www.linkedin.com/in/ida-prolaz-b9208365,Ida Prolaz,connected,connected,edit,Claude,live,icp_score: '' -> '4'
+2026-08-22,https://www.linkedin.com/in/ida-prolaz-b9208365,Ida Prolaz,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-staff-aug'
