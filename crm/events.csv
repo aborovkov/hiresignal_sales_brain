@@ -3655,3 +3655,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/anton-rudov-7666b664,Anton Rudov,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 3 smb-inhouse
 2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,edit,Claude,live,icp_score: '' -> '4'
 2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-staff-aug'
+2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,edit,Claude,live,company: '' -> 'Forte Group'
