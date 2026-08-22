@@ -3561,3 +3561,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/elina-kopteleva,Elina Kopteleva,connected,connected,edit,Claude,live,icp_score: '2' -> '2'
 2026-08-22,https://www.linkedin.com/in/elina-kopteleva,Elina Kopteleva,connected,connected,edit,Claude,live,icp_segment: 'rec-agency-small' -> 'rec-agency-small'
 2026-08-22,https://www.linkedin.com/in/elina-kopteleva,Elina Kopteleva,connected,connected,edit,Claude,live,company: '' -> 'JOBWHYZE LTD'
+2026-08-22,https://www.linkedin.com/in/elina-kopteleva,Elina Kopteleva,connected,connected,edit,Claude,live,"location: '' -> 'Riga, Latvia'"
