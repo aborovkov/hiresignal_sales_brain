@@ -3598,3 +3598,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/irina-kuramshina-13252661,Irina Kuramshina,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
 2026-08-22,https://www.linkedin.com/in/irina-kuramshina-13252661,Irina Kuramshina,connected,connected,edit,Claude,live,company: '' -> 'Mira'
 2026-08-22,https://www.linkedin.com/in/irina-kuramshina-13252661,Irina Kuramshina,connected,connected,edit,Claude,live,"location: '' -> 'Tbilisi, Georgia'"
+2026-08-22,https://www.linkedin.com/in/irina-kuramshina-13252661,Irina Kuramshina,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Startup HR leader at Mira (Tbilisi) - built HR from scratch at a scaled US startup; small product company, in-house hiring owner on the people side'"
