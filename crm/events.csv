@@ -3751,3 +3751,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/igor-kardashevskii,Igor Kardashevskii,connected,connected,edit,Claude,live,company: '' -> 'InVero.me'
 2026-08-22,https://www.linkedin.com/in/igor-kardashevskii,Igor Kardashevskii,connected,connected,edit,Claude,live,"location: '' -> 'Podgorica, Montenegro'"
 2026-08-22,https://www.linkedin.com/in/igor-kardashevskii,Igor Kardashevskii,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Director of AI Product & Technology / CPO at InVero.me - product side, eng hiring ownership unclear'"
+2026-08-22,https://www.linkedin.com/in/igor-kardashevskii,Igor Kardashevskii,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 2 smb-inhouse
