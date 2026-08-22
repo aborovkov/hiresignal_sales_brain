@@ -3660,3 +3660,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'Head of Delivery / Director of Engineering at Forte Group (US-LATAM software dev outsourcing) - delivery lead owns engineer quality billed to clients'
 2026-08-22,https://www.linkedin.com/in/hdbringas,Humberto Daniel Bringas,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 4 rec-staff-aug
 2026-08-22,https://www.linkedin.com/in/gatses,Sergey Lipov,connected,connected,edit,Claude,live,icp_score: '' -> '0'
+2026-08-22,https://www.linkedin.com/in/gatses,Sergey Lipov,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
