@@ -3684,3 +3684,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/fessalian,Vitalii Vasylchenko,connected,lost,transition,Alexey,live,"UA-based, no non-UA employer"
 2026-08-22,https://www.linkedin.com/in/igor-branitsky-21259a177,Igor Branitsky,connected,connected,edit,Claude,live,icp_score: '' -> '2'
 2026-08-22,https://www.linkedin.com/in/igor-branitsky-21259a177,Igor Branitsky,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
+2026-08-22,https://www.linkedin.com/in/igor-branitsky-21259a177,Igor Branitsky,connected,connected,edit,Claude,live,company: '' -> 'MyfinGroup'
