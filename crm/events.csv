@@ -3427,3 +3427,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/denis-klimashev-9828b225,Denis Klimashev,connected,connected,edit,Claude,live,icp_score: '' -> '0'
 2026-08-22,https://www.linkedin.com/in/denis-klimashev-9828b225,Denis Klimashev,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/denis-klimashev-9828b225,Denis Klimashev,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Sales/GTM/CS leader at Microsoft - enterprise, non-hiring role'"
+2026-08-22,https://www.linkedin.com/in/denis-klimashev-9828b225,Denis Klimashev,connected,lost,transition,Alexey,live,out-of-icp: enterprise sales
