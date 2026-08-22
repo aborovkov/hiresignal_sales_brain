@@ -3466,3 +3466,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/ivan-sur,Ivan Potapov,connected,lost,transition,Alexey,live,out-of-icp: IC researcher
 2026-08-22,https://www.linkedin.com/in/brody-smith-30192791,Brody Smith,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/brody-smith-30192791,Brody Smith,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
+2026-08-22,https://www.linkedin.com/in/brody-smith-30192791,Brody Smith,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'Software delivery / product owner generalist - no hiring ownership signal'
