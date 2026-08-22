@@ -3529,3 +3529,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/kanikapahwabhalla,Kanika Pahwa- Bhalla,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'AI talent development & advisory - L&D, not recruiting'"
 2026-08-22,https://www.linkedin.com/in/kanikapahwabhalla,Kanika Pahwa- Bhalla,connected,lost,transition,Alexey,live,out-of-icp: L&D advisory
 2026-08-22,https://www.linkedin.com/in/kanikapahwabhalla,Kanika Pahwa- Bhalla,lost,lost,note,Alexey,live,scored 2026-08-22 from headline
+2026-08-22,https://www.linkedin.com/in/elina-kopteleva,Elina Kopteleva,connected,connected,edit,Claude,live,icp_score: '' -> '2'
