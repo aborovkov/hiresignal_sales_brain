@@ -3801,3 +3801,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,icp_score: '' -> '2'
 2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'needs-icp'
 2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,company: '' -> 'BBG Inc.'
+2026-08-22,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,location: '' -> 'United States'
