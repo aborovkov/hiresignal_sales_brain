@@ -3499,3 +3499,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/denys-kandyba-721b803a4,Denys Kandyba,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/denys-kandyba-721b803a4,Denys Kandyba,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/denys-kandyba-721b803a4,Denys Kandyba,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'Founder Swiftin / forward deployed engineer - solo, no eng team'"
+2026-08-22,https://www.linkedin.com/in/denys-kandyba-721b803a4,Denys Kandyba,connected,lost,transition,Alexey,live,out-of-icp: solo founder
