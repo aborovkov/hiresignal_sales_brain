@@ -3404,3 +3404,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/daviscabral,Davis Zanetti Cabral,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/daviscabral,Davis Zanetti Cabral,connected,connected,edit,Claude,live,"icp_reason: ""manual connect - not yet scored; note: Kake is Ana Maria Santa's company (contacted)"" -> 'Sr software engineer at Kake - IC developer, not a buyer; Kake itself is a known account (Giovanna Guido)'"
 2026-08-22,https://www.linkedin.com/in/daviscabral,Davis Zanetti Cabral,connected,lost,transition,Alexey,live,out-of-icp: IC developer
+2026-08-22,https://www.linkedin.com/in/sergnnn,Serg Nepomyashtiy,connected,connected,edit,Claude,live,icp_score: '' -> '1'
