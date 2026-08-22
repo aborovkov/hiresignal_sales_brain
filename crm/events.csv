@@ -3663,3 +3663,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/gatses,Sergey Lipov,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/gatses,Sergey Lipov,connected,connected,edit,Claude,live,company: '' -> 'EdgeCenter'
 2026-08-22,https://www.linkedin.com/in/gatses,Sergey Lipov,connected,connected,edit,Claude,live,location: '' -> 'Indonesia'
+2026-08-22,https://www.linkedin.com/in/gatses,Sergey Lipov,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'CIO/CTO at EdgeCenter - Russian CDN company (RU employer)'
