@@ -3679,3 +3679,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/sintija-b-0044a6229,Sintija Berzina,connected,lost,transition,Alexey,live,out-of-icp: enterprise People lead
 2026-08-22,https://www.linkedin.com/in/fessalian,Vitalii Vasylchenko,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/fessalian,Vitalii Vasylchenko,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
+2026-08-22,https://www.linkedin.com/in/fessalian,Vitalii Vasylchenko,connected,connected,edit,Claude,live,location: '' -> 'Ukraine'
