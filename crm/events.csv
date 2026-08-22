@@ -3707,3 +3707,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/schrepfler,Srdan Srepfler,connected,connected,note,Alexey,live,scored 2026-08-22 (lead-hunter): 3 rec-staff-aug
 2026-08-22,https://www.linkedin.com/in/sofya-nesudimova-1b715a124,Sofya Nesudimova,connected,connected,edit,Claude,live,icp_score: '' -> '3'
 2026-08-22,https://www.linkedin.com/in/sofya-nesudimova-1b715a124,Sofya Nesudimova,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
+2026-08-22,https://www.linkedin.com/in/sofya-nesudimova-1b715a124,Sofya Nesudimova,connected,connected,edit,Claude,live,company: '' -> 'COLIBRIX ONE'
