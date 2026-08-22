@@ -3769,3 +3769,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/nutsa-barbakadze-112833206,Nutsa Barbakadze,connected,connected,edit,Claude,live,"location: '' -> 'Tbilisi, Georgia'"
 2026-08-22,https://www.linkedin.com/in/nutsa-barbakadze-112833206,Nutsa Barbakadze,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'High-volume TA partner at Wolt - enterprise, non-engineering volume hiring'"
 2026-08-22,https://www.linkedin.com/in/nutsa-barbakadze-112833206,Nutsa Barbakadze,connected,lost,transition,Alexey,live,out-of-icp: enterprise volume TA
+2026-08-22,https://www.linkedin.com/in/oleksandra-pryimak-3974a183,Oleksandra Pryimak,connected,connected,edit,Claude,live,icp_score: '' -> '1'
