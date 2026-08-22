@@ -3720,3 +3720,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-22,https://www.linkedin.com/in/bohdan-humennyi,Bohdan Humennyi,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-22,https://www.linkedin.com/in/bohdan-humennyi,Bohdan Humennyi,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-22,https://www.linkedin.com/in/bohdan-humennyi,Bohdan Humennyi,connected,connected,edit,Claude,live,"location: '' -> 'Kyiv, Ukraine'"
+2026-08-22,https://www.linkedin.com/in/bohdan-humennyi,Bohdan Humennyi,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'CTO based in Kyiv, no employer listed - UA-based'"
