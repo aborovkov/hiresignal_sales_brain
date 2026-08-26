@@ -3891,3 +3891,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-26,https://www.linkedin.com/in/irina-vishnevskaya-73246341,Irina Vishnevskaya,,new,transition,Claude,lead-hunter,"HR consultant with own client book (IT companies 15-400 people, 17 yrs), exact partner-program target profile; live signal - 3 senior eng vacancies posted in 2 weeks, non-technical screener"
 2026-08-26,https://www.linkedin.com/in/irina-vishnevskaya-73246341,Irina Vishnevskaya,new,connected,transition,Alexey,live,"existing 1st-degree contact, not from an invite"
 2026-08-26,https://www.linkedin.com/in/irina-vishnevskaya-73246341,Irina Vishnevskaya,connected,contacted,transition,Alexey,live,"first DM sent by Alexey, partner program model A (10% per interview)"
+2026-08-26,https://www.linkedin.com/in/irina-vishnevskaya-73246341,Irina Vishnevskaya,contacted,contacted,edit,Claude,live,contact_file: '' -> 'crm/irina-vishnevskaya.md'
