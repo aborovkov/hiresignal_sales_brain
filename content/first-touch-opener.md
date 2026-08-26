@@ -1,21 +1,36 @@
 <!-- repo path: content/first-touch-opener.md -->
 
-# First-touch opener (canonical, set 2026-07-29)
+# First-touch opener (canonical, set 2026-07-29, link added 2026-08-12)
 
 The default first DM. Supersedes the previous Turing-credential + free-offer
 opener structure as the DEFAULT first touch.
 
-## Template (swap the first name)
+## Template (swap the first name and the link)
 
 > {FirstName}, 1,000 CVs land on day one of a role. Reading and sorting them
 > takes 2 days, about 10 hours, and by then your best candidates are already
 > hired elsewhere. We do it in 5 minutes, so you reach the strongest the same
-> morning. Worth a 20-minute call?
+> morning. Here is how it looks: {PersonalDemoLink} Worth a 20-minute call?
+
+## The per-lead demo link (added 2026-08-12)
+
+Every first touch carries a personalized demo link, generated per lead:
+`https://app.stepup.services/b/<unique-token>`. In use for several weeks
+(Instantly + manual sends) before it was written down here.
+
+- One link per person - never reuse one lead's link for another.
+- Alexey generates and supplies the link; if a draft is requested without one,
+  ask for it before finalizing.
+- Insert before the CTA, prefixed with "Here is how it looks:" (or a
+  per-person equivalent).
+- The link is an asset, not the CTA - the single CTA stays the 20-minute
+  call question.
 
 ## Shape
 
 Concrete pain (volume + time cost) -> the miss it causes (best candidates gone)
--> our speed (5 minutes, same morning) -> one low-friction ask (20-minute call).
+-> our speed (5 minutes, same morning) -> per-lead demo link -> one low-friction
+ask (20-minute call).
 
 ## Rules it still follows
 

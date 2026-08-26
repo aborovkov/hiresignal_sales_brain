@@ -16,6 +16,8 @@ Column keys:
 |------|--------|--------|------|------------|-------------|-----------|----------|---------|-------------|
 | 2026-08-06 | Narrative | text | F5 | T+48h |             |           |          |         | Essay-paragraph-one, investor prompt. [Post](https://www.linkedin.com/posts/aborovkov_buildinpublic-techhiring-founders-share-7491057474947710976-b4ec/). Text: `published/2026-08-06-essay-paragraph-one.md` |
 | 2026-08-06 | Narrative | text | F5 | T+14d |             |           |          |         |             |
+| 2026-08-26 | Authority | text | F10 | T+48h |             |           |          |         | "Never grade the first answer" - second-question rule from `brain/signals.md` Signal 3. No Turing anchor, no product mention, no stats. Text: `published/2026-08-26-never-grade-the-first-answer.md`. URL: TBD |
+| 2026-08-26 | Authority | text | F10 | T+14d |             |           |          |         |             |
 
 ## Comments engine
 
