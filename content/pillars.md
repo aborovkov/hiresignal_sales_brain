@@ -23,7 +23,7 @@
 * Scaling hiring quality — how signal degrades under hiring pressure.
 * Weak signal — noise mistaken for competence.
 * Structured evaluation — repeatable scoring vs. gut feel.
-* Inside the machine — patterns from 1,700+ interviews across 28 countries (Turing anchor; see `brain/proof.md`).
+* Inside the machine — patterns observed across years of running technical screens. **Do not open with the "1,700 interviews / 28 countries" count** (default off, 2026-08-26 — see `brain/voice.md`). Show a pattern or a real interview moment instead.
 
 ---
 

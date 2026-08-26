@@ -279,3 +279,27 @@ Never loud, motivational, over-enthusiastic, inspirational, or startup-bro style
 
 "Finally someone talking about the actual problem."
 "This person has actually seen how engineering hiring works internally."
+
+---
+
+# Credential anchors - default OFF (2026-08-26, Alexey)
+
+**Stop opening with "1,700 technical interviews across 28 countries."** Alexey called it
+worn out. It already carried a default-off rule for outreach (`outreach.md`, prohibitions);
+this extends the same rule to LinkedIn content. A credential repeated in every post stops
+reading as authority and starts reading as the only card in the hand.
+
+Replace the claim with the artifact:
+
+* Do not say the interviews happened. Show one. A real question, two real answers, and what
+  separates them. The reader does the judging, which is what makes it proof.
+* Lead with an observed pattern, not with the count that produced it. "Two interviewers on the
+  same candidate reach opposite conclusions, and both can defend theirs" needs no credential.
+* Numbers earn their place when they are about the reader's problem, not about Alexey's
+  resume.
+
+The Turing background stays true and stays usable in conversation when someone asks who we
+are. It is not an opener any more, in DMs or in posts.
+
+`pillars.md` Authority topic "Inside the machine" is rewritten accordingly: the topic is the
+patterns, not the headcount.
