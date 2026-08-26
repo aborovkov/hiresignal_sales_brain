@@ -46,13 +46,21 @@ step sits entirely with the client's engineers.
 
 ### 2026-08-26 - DM (first touch, partner program)
 
-> Me: [VERBATIM PENDING - Alexey confirmed "написал" but has not pasted the sent text.
-> Drafted variant A, partner program model A: consults IT companies 15-400 people ->
-> their technical interviews bottleneck on two or three senior engineers -> we run the
-> interview (practicing engineer, 30-40 min, recording + report per candidate) ->
-> she resells it to her clients as her own service and takes 10% of every interview,
-> monthly, for as long as the client stays -> we never supply candidates, no overlap
-> with her recruiting -> one-pager link -> "С какого клиента начали бы?"]
+> Me: Ирина, вы консультируете IT-компании от 15 до 400 человек, и у части из них
+> технический интервью упирается в календарь двух-трёх сеньоров.
+>
+> Мы это интервью проводим за них: практикующий инженер, 60 минут, запись и отчёт
+> под каждого кандидата.
+>
+> Вы можете отдавать это клиентам как свою услугу и получать 10% с каждого интервью,
+> ежемесячно, пока клиент работает. Кандидатов мы не поставляем, с вашим рекрутингом
+> не пересекаемся.
+>
+> one-pager: https://docs.google.com/document/d/13qgsscelqTW4M53Rf_Q9d59G9biRRC67tnlXKpFWS9w/edit?tab=t.0
+
+Deviations from the drafted variant A, deliberate by Alexey: interview length quoted
+as 60 minutes (other outbound and the sample boards say 30-40); closing question
+"С какого клиента начали бы?" dropped, so the message ends on the link with no ask.
 
 ## Objections raised
 
