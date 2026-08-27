@@ -303,3 +303,24 @@ are. It is not an opener any more, in DMs or in posts.
 
 `pillars.md` Authority topic "Inside the machine" is rewritten accordingly: the topic is the
 patterns, not the headcount.
+
+---
+
+# Outbound language - RU or EN only (2026-08-26, Alexey)
+
+**Never write outbound in a language Alexey does not speak.** Ukrainian, Georgian,
+Kazakh, Polish and the rest are off, even when the lead's profile or posts are in
+that language.
+
+Why it went wrong once: a lead's notes said "posts in Ukrainian", and a follow-up
+was drafted in Ukrainian on that basis. Alexey does not write Ukrainian. If she
+answers in it, the thread is dead on our side, and a machine-translated message
+reads as exactly what it is.
+
+The rule:
+
+* Default to the language the person has ALREADY used with us in the thread.
+* No thread yet - English, unless the person is clearly a Russian speaker writing
+  in Russian, in which case Russian.
+* Profile language and post language are NOT a reason to switch. What matters is
+  which language Alexey can carry the whole conversation in.
