@@ -1,5 +1,5 @@
 ---
-pillar: Product
+pillar: Authority
 format: text
 hook: F1 (Platform-Risk Anaphora, адаптирована - анафора "не помнит")
 status: draft
