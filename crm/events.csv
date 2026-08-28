@@ -4047,3 +4047,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-28,https://www.linkedin.com/in/keilian,Keilian Knudsen,replied,replied,edit,Claude,live,role: '' -> 'Founder / Pangea.ai'
 2026-08-28,https://www.linkedin.com/in/keilian,Keilian Knudsen,replied,replied,edit,Claude,live,"next_action: '' -> 'повторить пилот на 3 кандидатах, опираясь на кейс CTRL+; решить цену до письма'"
 2026-08-28,https://www.linkedin.com/in/keilian,Keilian Knudsen,replied,replied,edit,Claude,live,contact_file: '' -> 'crm/keilian-knudsen.md'
+2026-08-28,https://www.linkedin.com/in/evgeny-maskalev-1622099,Evgeny Maskalev,connected,lost,transition,Alexey,live,"2026-08-28: Москва / РФ - дела не ведём (решение Алексея). Уточнение 21.08 про работодателя не применяем: работодатель не установлен, решение принято по человеку"
