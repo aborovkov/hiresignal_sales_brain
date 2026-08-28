@@ -1,0 +1,103 @@
+role,conf,status,name,headline,company,icp_segment,icp_score,why,linkedin_url
+BUYER,5,invited,Adrian Slipko,Co-Founder & Principal Engineer @ Kick (we're hiring),Kick,smb-inhouse,5,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/adrian-slipko-25188160
+BUYER,5,invited,Alexander Sergeychik,CTO at Softeq Lab,Softeq,rec-staff-aug,5,buyer-сигналы 5,https://www.linkedin.com/in/alexander-sergeychik
+BUYER,5,invited,Catalin Savu,Co-Founder & CTO at FINOR,FINOR Tech,smb-inhouse,5,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/catalin-savu-23596029
+BUYER,5,invited,Gavin Bennett,CTO & Co-Founder at CreditLogic (Pioneering SaaS in Banking),CreditLogic,smb-inhouse,5,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/gavinbennettt
+BUYER,5,invited,Jesse Reiss,Co-Founder & CTO at Hummingbird - we're hiring!,Hummingbird,smb-inhouse,5,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/jessereiss
+BUYER,5,invited,Tomas Navickas,"CTO and Co-Founder of myTU. Hands-on and beyond with cloud infrastructure, AI, and digital banking!",Travel Union,smb-inhouse,5,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/ntomas
+BUYER,5,invited,Vahur Hansen,"Founder, CTO at Roleo.com | YC S21 | ex-Wise",Roleo,smb-inhouse,5,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/vahur-hansen-5372a498
+BUYER,5,invited,Ference Brose,CTO | Tech Entrepreneur,Alpas AI,smb-inhouse,4,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/ferencebrose
+BUYER,5,invited,Kipngeno Kering,Co-founder & CTO @Pesabook| Software Engineer|RESTful APIs|DevOps|PHP Laravel|NodeJs | SAAS &Fintech Enthusiast,Pesabook,smb-inhouse,4,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/kipngeno-kering-44925966
+BUYER,5,invited,Markus Malum Kim,Co-Founder & CTO Fokus,Fokus,smb-inhouse,4,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/markus-malum-kim
+BUYER,5,invited,Serge Liakin,Founder & CTO at odo.tax | Automatic mileage tracking for self-employed US workers,odo.tax,smb-inhouse,4,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/serge-liakin
+BUYER,5,connected,Anton Rudov,Engineering Manager | StartUp CTO | 3x 0->1->10 | 100M+ Users | 15+ YOE | AI-Enabled Engineering,LEXX SOFTWARE CO LTD,smb-inhouse,3,buyer-сигналы 9,https://www.linkedin.com/in/anton-rudov-7666b664
+BUYER,5,invited,Artyom Bondarenko,AI Automation | B2B SaaS | FinTech | Web3 | Business Process Optimization | Co-Founder and CTO at Lab2Lab.tech,Lab2Lab,rec-staff-aug,3,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/arty-bondarenko
+BUYER,5,new,Ben Harper,"Co-Founder, CTO and FinTech Innovator",WebBank,smb-inhouse,3,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/benharpers
+BUYER,5,connected,Illia Shkurenko,Founding CTO | AI & Product Engineering | LLM | Scaling Startups,RM Synaptic Works AG,smb-inhouse,3,buyer-сигналы 5,https://www.linkedin.com/in/illia-shkurenko-128288157
+BUYER,5,new,Jihed Othmani,CTO Thunders.ai | Transforming Manual Testing into Automated Success with AI.,Thunders,smb-inhouse,3,buyer-сигналы 5,https://www.linkedin.com/in/jihedo
+BUYER,5,invited,Nurdaulet Samen,Co-Founder & COO @ Finflow.pro,FinFlow.pro,smb-inhouse,3,"buyer-сигналы 2; основатель, рекрутерских признаков нет",https://www.linkedin.com/in/nurdaulet-samen
+BUYER,5,connected,Nursultan Markisbek,Co-founder & CTO @ BizOne | AI & FinTech Entrepreneur | Architecting High-Load Systems,BizOne,smb-inhouse,3,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/nursultan-markisbek
+BUYER,5,connected,Pavel Artelnyi,Technology & Product Leader (CPTO track) - iGaming & Fintech CTO - Ex-Deputy CTO SberMarket,PGWAY,smb-inhouse,3,buyer-сигналы 5,https://www.linkedin.com/in/artelnyy
+BUYER,5,new,Rafeeq CE,Co-founder & CTO at Miracle Traffic AI,Miracle Traffic AI,smb-inhouse,3,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/rafeeqce
+BUYER,5,connected,Sergei Grenivetckii,Deputy CTO | Head of Platform | Head of DevOps | Engineering Manager | k8s,OLX Uzbekistan,smb-inhouse,3,buyer-сигналы 9,https://www.linkedin.com/in/sergei-grenivetckii-2158a9a9
+BUYER,5,connected,Stanislav M,Chief Technology Officer @ Mellifera,Mellifera Operations Limited,smb-inhouse,3,buyer-сигналы 5,https://www.linkedin.com/in/stanislav-m
+BUYER,5,invited,Taivo Pungas,CTO @ Pactum | Seeing AI agents from both ends: building and adopting,Pactum AI,smb-inhouse,3,buyer-сигналы 5,https://www.linkedin.com/in/pungas
+BUYER,5,connected,Vlad Bronishevsky,CTO | ex Director Of Engineering (NASDAQ: IAC) | Head Of Development | CTO Consulting,Joyteractive,smb-inhouse,3,buyer-сигналы 9,https://www.linkedin.com/in/vlad-bronishevsky-215bb460
+BUYER,5,connected,Yegor Olshevskyy,CTO | Engineering Manager | Lead Software Engineer | Mentor,Cradly,smb-inhouse,3,buyer-сигналы 9,https://www.linkedin.com/in/yegorolshevskyy
+BUYER,5,connected,Andriy Chernysh,"CTO | Engineering Leader | Expert in Software Architecture, DevOps & Scaling Teams",,smb-inhouse,2,buyer-сигналы 9,https://www.linkedin.com/in/andriy-chernysh
+BUYER,5,connected,Igor Branitsky,CTO - Chief technical officer,MyfinGroup,smb-inhouse,2,buyer-сигналы 5,https://www.linkedin.com/in/igor-branitsky-21259a177
+BUYER,5,new,Luca Piras,Co Founder & C.O.O. at Pluribus One S.r.l.,Pluribus One,smb-inhouse,2,"buyer-сигналы 2; основатель, рекрутерских признаков нет",https://www.linkedin.com/in/lpiras
+BUYER,5,connected,Sergei Zaporozhets,Co-founder & CPO at Syneps AI,Syneps AI,smb-inhouse,2,buyer-сигналы 3; основатель нанимающей компании,https://www.linkedin.com/in/sergei-zaporozhets-4ab61a384
+BUYER,5,connected,Volodymyr Synytsyn,"CTO / Head of Engineering | Hands-on Technology Leader | Software Architecture | AWS, DevOps",,smb-inhouse,2,buyer-сигналы 9,https://www.linkedin.com/in/synytsyn
+BUYER,5,connected,Artem Huralnyk,Head of Engineering/ CTO / Director of Engineering | Built and scaled tech products from zero | Driving revenue-aligned engineering,,needs-icp,,buyer-сигналы 9,https://www.linkedin.com/in/artem-guralnyk
+BUYER,5,invited,Divyansh Kumar,"Co-Founder CTO at WebLight IT Solutions | Enterprise Software, AI SaaS",WebLight IT Solutions,needs-icp,,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/divyanshkumar29
+BUYER,5,connected,Evgeny Maskalev,"CIO, CTO, IT Transformation leader",,needs-icp,,buyer-сигналы 5,https://www.linkedin.com/in/evgeny-maskalev-1622099
+BUYER,5,invited,Ilyas Mustafin,CTO | MBA | EMBA | Enterprise Architect | DevOps | IT Transformation | R&D AI Solutions Architect | Banking & FinTech,,needs-icp,,buyer-сигналы 5,https://www.linkedin.com/in/ilyas-mustafin-44b575144
+BUYER,5,connected,Kairat Sultanov,CTO | Enterprise IT & Critical Infrastructure | Data Centers | Bitcoin Mining | Energy Systems | HPC,,needs-icp,,buyer-сигналы 5,https://www.linkedin.com/in/ksultanov
+BUYER,5,invited,Nishant Prakash,"Co-Founder CTO | Advaya Platform | SaaS Low-Code/No-Code for FinTech, Lending Co-Lending",Advaya Platform,needs-icp,,buyer-сигналы 5; основатель нанимающей компании,https://www.linkedin.com/in/nishant-prakash-advaya
+BUYER,5,invited,Pavel Savelyev,"CIO | CTO | 14+ Yrs Tech Leadership Strategy | Built Products at VK, Samolet, Lamoda | Scaled 100+ Teams",,needs-icp,,buyer-сигналы 5,https://www.linkedin.com/in/pavelsavelyev
+BUYER,5,invited,Sanzhar Sarsenbi,Chief Technical Officer,,needs-icp,,buyer-сигналы 5,https://www.linkedin.com/in/sanzhar-sarsenbi-b3b205129
+BUYER,5,invited,Strahinja Devic,CTO @ Evermed | Engineering Leadership | Organizational Systems Thinker | AI Pragmatist,Evermed,needs-icp,,buyer-сигналы 9,https://www.linkedin.com/in/strahinja-devic-16309694
+BUYER,5,invited,Tom Gethings,"Chief Technology Officer | Enterprise Transformation | Engineering, Product AI Leadership",,needs-icp,,buyer-сигналы 5,https://www.linkedin.com/in/tom-gethings
+BUYER,5,connected,Vijay Kumar,"Chief Technology Officer (CTO) at Xanadu | Building AI-Native Real Estate Operating Systems | Agentic AI, Data Platforms & Enterprise Transformation",Xanadu,needs-icp,,buyer-сигналы 5,https://www.linkedin.com/in/ivijay
+BUYER,5,connected,Vladislav Aristarkhov,CTO Jana-System Digital | From Payment Systems & Anti-Fraud to Industrial Digital Transformation,Jana-System Digital,needs-icp,,buyer-сигналы 5,https://www.linkedin.com/in/vladislav-aristarhov
+BUYER,4,invited,Anastasia Logvinets,Director of Engineering | Technology Consulting,Forte Group,rec-staff-aug,4,buyer-сигналы 4,https://www.linkedin.com/in/anastasia-logvinets-358644135
+BUYER,4,invited,Fara Ashiru,Engineering Leader | Fintech Platform Infra | Scaled Systems & Teams Globally | Still Shipping Code,Kernel,smb-inhouse,4,buyer-сигналы 4,https://www.linkedin.com/in/faraashiru
+BUYER,4,new,Denis Knysh,Group Manager | Software Engineering Manager | Technical Manager,Softeq,rec-staff-aug,3,buyer-сигналы 4,https://www.linkedin.com/in/denis-knysh-47a95252
+BUYER,4,invited,Pete Buckney,Head of Engineering at Pliant,Pliant,smb-inhouse,3,buyer-сигналы 4,https://www.linkedin.com/in/petebuckney
+BUYER,4,new,Sergey Ilin,VP of AI Engineering at Forte Group,Forte Group,rec-staff-aug,3,buyer-сигналы 4,https://www.linkedin.com/in/sergeyilinn
+BUYER,4,connected,Srdan Srepfler,VP of Engineering at The Unit,The Unit,rec-staff-aug,3,buyer-сигналы 4,https://www.linkedin.com/in/schrepfler
+BUYER,4,invited,Daniyar Aubekerov,AI Product Engineer | Engineering Lead | Forbes 30u30 | Ex-Amazon,,needs-icp,,buyer-сигналы 4,https://www.linkedin.com/in/danikhandro
+BUYER,4,invited,Dmitry Khapenkov,"Engineering Leader Hands-on AI-first Backend Engineer | 19 YOE | PHP/Symfony, Python, Go",,needs-icp,,buyer-сигналы 4,https://www.linkedin.com/in/dmitry-khapenkov
+BUYER,4,invited,Dragos Cojocaru,Director of Engineering,,needs-icp,,buyer-сигналы 4,https://www.linkedin.com/in/dragos-cojocaru-b348933
+BUYER,4,connected,Guido Mureddu,Director of Engineering @ Pluribus One,Pluribus One,needs-icp,,buyer-сигналы 4,https://www.linkedin.com/in/guido-mureddu
+BUYER,3,invited,Kapil P.,FinTech Entrepreneur/Product/Engineering | Co-Founder & CPTO @ Payzli,Payzli,smb-inhouse,5,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/kapilpershad
+BUYER,3,invited,Maayan Lahav,Co-Founder & CPTO @ Fintech Startup | Cassiopeia was acquired by HiBob,Stealth Fintech Startup,smb-inhouse,5,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/maayan-lahav
+BUYER,3,invited,Peter Shubenok,Founder & CEO at ProcessMIX.com | Founder at AblePlatform.io,ProcessMIX / ABLE Platform,smb-inhouse,5,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/pshubenok
+BUYER,3,invited,Akshat Birla,"Founder & CEO, BharatNXT | FinTech | B2B Payments | Angel Investor | INSEAD | ex-Samsung Pay | ex-Credit Suisse",BharatNXT,smb-inhouse,4,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/akshatbirla
+BUYER,3,invited,Cosmin Curticapean,"CEO, Lendox / VP, Angel Investor at TechAngels Romania",Lendox,smb-inhouse,4,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/cosmin-curticapean-277aa978
+BUYER,3,invited,Daniel Simon,"Founder and CEO at Coast, previously cofounder at Bread",Coast,smb-inhouse,4,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/danielksimon
+BUYER,3,invited,Gertjan De Wilde,Co-founder & CEO @ Apideck | Powering Embedded Integrations for Fintech & SaaS,Apideck,smb-inhouse,4,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/gertjandewilde
+BUYER,3,invited,Kevin Bennett,Cofounder & CEO @ Further,Further,smb-inhouse,4,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/kevinspencerbennett
+BUYER,3,invited,Marat Abasaliev,"Fintech Entrepreneur | Payments & AML/KYC Specialist | With over 15 years of experience, I build cutting-edge solutions for banks and financial institutions.",Noda,smb-inhouse,4,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/marat-abasaliev
+BUYER,3,invited,Tomas Holub,CEO & Founder at CoverGo | Insurtech | Fintech | Entrepreneur & Speaker | WE ARE HIRING!,CoverGo,smb-inhouse,4,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/tomasholub1
+BUYER,3,new,Adam Swartzbaugh,CEO | Cross-Border FX Infrastructure & Stablecoin Optimization,Almond Fintech,smb-inhouse,3,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/swartzbaugh
+BUYER,3,new,Levan Tchanukvadze,CEO @ Campyon | Building the Operating System for Modern Marketing | Digital Marketing | Campaign Manager,Wayzen,smb-inhouse,3,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/levaniko
+BUYER,3,connected,Igor Kardashevskii,Director of AI Product & Technology | Chief Product Officer | Head of Products,InVero.me,smb-inhouse,2,buyer-сигналы 3,https://www.linkedin.com/in/igor-kardashevskii
+BUYER,3,connected,Pavel Romanteev,CEO at BBG Inc.,BBG Inc.,needs-icp,2,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/pavelromanteev
+BUYER,3,new,Tridib Jana,Managing Director at Issac Technologies Pvt.Ltd.,Issac Technologies Pvt.Ltd.,needs-icp,2,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/tridib-jana-09a69b32
+BUYER,3,connected,Ambroise Couissin,CEO & Founder of Mazecare,Mazecare,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/ambroise-couissin
+BUYER,3,invited,Ani Chikvaidze,Co-Founder of Georgia Robotics Association (GRA) / Project Manager at Tech Entrepreneurship and Innovation Development Center,,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/ani-chikvaidze
+BUYER,3,invited,Artem Grishan,Founder @ Sitrifor | C-level product leader | Open to IT advisor roles,,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/temagrishan
+BUYER,3,invited,Galymbek Zharassov,CEO,,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/galymbek-zharassov
+BUYER,3,invited,Ilan Tal,CEO Co-Founder at Liolan,Liolan,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/ilan-tal-33690115
+BUYER,3,connected,Khayatulla Abdul Khussein,"Entrepreneur & Founder | Retail, Automotive Logistics & Business Systems | Multilingual",,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/khayatulla-abdul-khussein-a692a0422
+BUYER,3,invited,Kirill Kuzin,Go Tech Lead | Highload Distributed Systems | Mentoring Teaching | Podcaster,,needs-icp,,buyer-сигналы 3,https://www.linkedin.com/in/kirill-kuzin-dev
+BUYER,3,invited,Laura Taganova,CEO @Aldente AI | AI + Vision | backed by 500 Global,Aldente AI,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/laura-taganova-lalorka
+BUYER,3,invited,Magzhan Ikram,AI | Satellite | Entrepreneurship,,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/magzhan-ikram-04b455119
+BUYER,3,invited,Merey Baizhokin,Co-founder and BoD at 1Fit,1Fit,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/mereybaizhokin
+BUYER,3,connected,Michael Matveenko,CFO. CEO.,,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/michael-matveenko-43069626
+BUYER,3,invited,Saurabh Bajaj,Managing Director - APAC MENA @ Virtasant,Virtasant,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/rabhbajaj
+BUYER,3,invited,Sofiane Benihaddadene,"Fondateur (photo IA pour hotels, Airbnb immobilier) | SaaS IA Builder @ Gigaflux Studio",,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/sofiane-benihaddadene-14b17184
+BUYER,3,invited,Zharas Jexenbayev,Founder в компании Qamal,Qamal,needs-icp,,"основатель, рекрутерских признаков нет",https://www.linkedin.com/in/zharas-jexenbayev-06a637421
+BUYER,2,invited,Serge Stepantsov,Chief Operating Officer,Intetics,rec-staff-aug,5,buyer-сигналы 2,https://www.linkedin.com/in/sergest
+BUYER,1,invited,Alexander Sashkov,Head of Hardware Development at Softeq Development Corp.,Softeq,rec-staff-aug,5,только по старой метке rec-staff-aug,https://www.linkedin.com/in/alexander-sashkov-98a5a5a8
+BUYER,1,invited,Denis Syraeshko,VP of Client Experience / Delivery Director,Intetics,rec-staff-aug,5,только по старой метке rec-staff-aug,https://www.linkedin.com/in/denis-syraeshko
+BUYER,1,invited,Pablo Blauer,VP of Delivery LATAM @ Forte Group,Forte Group,rec-staff-aug,5,только по старой метке rec-staff-aug,https://www.linkedin.com/in/pabloblauer
+BUYER,1,invited,Victor Baikov,Embedded Operating System Unit Lead at Softeq,Softeq,rec-staff-aug,5,только по старой метке rec-staff-aug,https://www.linkedin.com/in/victor-baikov-49967859
+BUYER,1,new,Alex Ivanitsky,Head of Development Department,Unic Lab,rec-staff-aug,4,только по старой метке rec-staff-aug,https://www.linkedin.com/in/alex-ivanitsky-5882001a9
+BUYER,1,new,Barend Lemans,Manager Engineering bij Sintecs,VDL Sintecs,rec-staff-aug,4,только по старой метке rec-staff-aug,https://www.linkedin.com/in/barendlemans
+BUYER,1,invited,Chingiz Dauletbayev,Shaping the Future of Contracts and Finance | backed by Tim Draper,TrustMe,smb-inhouse,4,только по старой метке smb-inhouse,https://www.linkedin.com/in/dauletbayev
+BUYER,1,new,Egle Baltrune,Delivery Director at Softeq,Softeq,rec-staff-aug,4,только по старой метке rec-staff-aug,https://www.linkedin.com/in/eglebaltrune
+BUYER,1,new,Jan H.,"Director Operations @ Sintecs | Operations Strategy, Team Leadership",VDL Sintecs,rec-staff-aug,4,только по старой метке rec-staff-aug,https://www.linkedin.com/in/jhorchner
+BUYER,1,new,Jasper Rikhof,Group Leader Hardware Engineering @Sintecs,VDL Sintecs,rec-staff-aug,4,только по старой метке rec-staff-aug,https://www.linkedin.com/in/jasper-rikhof-08592365
+BUYER,1,invited,Pavel Chechat,"VP, DevSecOps & Strategic Delivery @ Forte Group",Forte Group,rec-staff-aug,4,только по старой метке rec-staff-aug,https://www.linkedin.com/in/pavel-chechat-49760880
+BUYER,1,invited,Pieter Wellens,"Looking for talented Software Engineers, passionate Technical Sales profiles and Data Driven Marketing Wizards",APICbase.com,smb-inhouse,4,только по старой метке smb-inhouse,https://www.linkedin.com/in/pieterwellens
+BUYER,1,invited,Rana Peries,Building the next generation Embedded Finance platform,101 Digital,smb-inhouse,4,только по старой метке smb-inhouse,https://www.linkedin.com/in/ranaperies
+BUYER,1,new,Alexander Simonov,Engineering Department Manager (DevOps & Cloud),Coherent Solutions,rec-staff-aug,3,только по старой метке rec-staff-aug,https://www.linkedin.com/in/alexander-simonov-46363a57
+BUYER,1,new,Alexey Fedorov,18K+ contact. Hiring Senior Backend Developer (Rust+TS+Node.js),,smb-inhouse,3,только по старой метке smb-inhouse,https://www.linkedin.com/in/fedorov-aleksey
+BUYER,1,new,Anton Halkouski,Client Engagement & Strategic Relationship Lead at Promwad | Custom Product Development,Promwad Engineering,rec-staff-aug,3,только по старой метке rec-staff-aug,https://www.linkedin.com/in/ahalkouski
+BUYER,1,new,MAKSIM KHARYTONAU,Delivery Manager / Agile Project Manager / Scrum Master,Forte Group,rec-staff-aug,3,только по старой метке rec-staff-aug,https://www.linkedin.com/in/maxohari
+BUYER,1,new,Soso Longurashvili,Delivery manager at Exadel,Exadel,rec-staff-aug,3,только по старой метке rec-staff-aug,https://www.linkedin.com/in/soso-longurashvili-720369176
+BUYER,1,new,Tamila Maslyukova,Head of Applications at Aston,Aston,rec-staff-aug,3,только по старой метке rec-staff-aug,https://www.linkedin.com/in/tamila-maslyukova
+BUYER,1,connected,Sona Veziryan,Partner at Formula VC | Director at BANA Angels,,smb-inhouse,2,только по старой метке smb-inhouse,https://www.linkedin.com/in/sona-veziryan-683620154
