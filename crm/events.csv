@@ -4350,3 +4350,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/dmitry-legchikov,Dmitry Legchikov,connected,connected,edit,Claude,live,icp_reason: 'manual connect 2026-08-27 - not yet scored; headline captured only partially' -> 'AI lead; hiring authority and company size unknown'
 2026-08-31,https://www.linkedin.com/in/dmitry-legchikov,Dmitry Legchikov,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'first DM (sales-brain)'
 2026-08-31,https://www.linkedin.com/in/ken-tantsura,Ken Tantsura,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
+2026-08-31,https://www.linkedin.com/in/ken-tantsura,Ken Tantsura,connected,connected,edit,Claude,live,icp_score: '' -> '1'
