@@ -4617,3 +4617,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/ekaterinayankovskaya,Ekaterina Yankovskaya,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'first DM (sales-brain)'
 2026-08-31,https://www.linkedin.com/in/vineet-c-nambiar-5b25336,Vineet C. Nambiar,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'partner'
 2026-08-31,https://www.linkedin.com/in/vineet-c-nambiar-5b25336,Vineet C. Nambiar,connected,connected,edit,Claude,live,icp_score: '' -> '3'
+2026-08-31,https://www.linkedin.com/in/vineet-c-nambiar-5b25336,Vineet C. Nambiar,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'venture builder across AI, media and capital; referral channel'"
