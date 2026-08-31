@@ -4428,3 +4428,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/oleg-tikhonov-acca,"Oleg Tikhonov, ACCA",connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'group CFO; no eng-hiring authority'
 2026-08-31,https://www.linkedin.com/in/oleg-tikhonov-acca,"Oleg Tikhonov, ACCA",connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'none - out of ICP'
 2026-08-31,https://www.linkedin.com/in/vana-aroushian-b2b-sales-outsourcing-outstaffing-it-remittance-money-transfers,Vana Aroushian,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-staff-aug'
+2026-08-31,https://www.linkedin.com/in/vana-aroushian-b2b-sales-outsourcing-outstaffing-it-remittance-money-transfers,Vana Aroushian,connected,connected,edit,Claude,live,icp_score: '' -> '4'
