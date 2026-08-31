@@ -4432,3 +4432,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/vana-aroushian-b2b-sales-outsourcing-outstaffing-it-remittance-money-transfers,Vana Aroushian,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'outstaffing and outsourcing provider for SaaS and IT companies; supplies vetted engineers'
 2026-08-31,https://www.linkedin.com/in/vana-aroushian-b2b-sales-outsourcing-outstaffing-it-remittance-money-transfers,Vana Aroushian,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'first DM (sales-brain)'
 2026-08-31,https://www.linkedin.com/in/cliodhnascully,Cliodhna Scully,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
+2026-08-31,https://www.linkedin.com/in/cliodhnascully,Cliodhna Scully,connected,connected,edit,Claude,live,icp_score: '' -> '1'
