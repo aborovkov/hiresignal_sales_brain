@@ -4390,3 +4390,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/dragos-cojocaru-b348933,Dragos Cojocaru,connected,connected,edit,Claude,live,"icp_reason: 'manual PYMK invite by Alexey, backfilled from LinkedIn Sent page 2026-08-27 - not yet scored' -> 'director of engineering, hires engineers; company size unknown'"
 2026-08-31,https://www.linkedin.com/in/dragos-cojocaru-b348933,Dragos Cojocaru,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'first DM (sales-brain)'
 2026-08-31,https://www.linkedin.com/in/laura-taganova-lalorka,Laura Taganova,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
+2026-08-31,https://www.linkedin.com/in/laura-taganova-lalorka,Laura Taganova,connected,connected,edit,Claude,live,icp_score: '' -> '4'
