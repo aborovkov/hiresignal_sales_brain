@@ -4316,3 +4316,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/ambroise-couissin,Ambroise Couissin,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
 2026-08-31,https://www.linkedin.com/in/ambroise-couissin,Ambroise Couissin,connected,connected,edit,Claude,live,icp_score: '' -> '3'
 2026-08-31,https://www.linkedin.com/in/ambroise-couissin,Ambroise Couissin,connected,connected,edit,Claude,live,"icp_reason: 'manual connect 2026-08-27 - not yet scored; headline captured only partially' -> 'founder of Mazecare, a small healthtech product company; eng team size unverified'"
+2026-08-31,https://www.linkedin.com/in/ambroise-couissin,Ambroise Couissin,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'first DM (sales-brain)'
