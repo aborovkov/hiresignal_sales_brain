@@ -4664,3 +4664,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/emilygalinauske,Emily Galinauske,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'HR operations specialist; not tech hiring'
 2026-08-31,https://www.linkedin.com/in/emilygalinauske,Emily Galinauske,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'none - out of ICP'
 2026-08-31,https://www.linkedin.com/in/alin-serban-a9723514,Alin Serban,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
+2026-08-31,https://www.linkedin.com/in/alin-serban-a9723514,Alin Serban,connected,connected,edit,Claude,live,icp_score: '' -> '1'
