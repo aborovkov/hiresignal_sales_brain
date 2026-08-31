@@ -4547,3 +4547,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/antonmaslov,Anton Maslov,connected,connected,edit,Claude,live,icp_score: '' -> '3'
 2026-08-31,https://www.linkedin.com/in/antonmaslov,Anton Maslov,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'VP talent acquisition at Pragmatech; tech hiring owner, company size unknown'"
 2026-08-31,https://www.linkedin.com/in/antonmaslov,Anton Maslov,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'first DM (sales-brain)'
+2026-08-31,https://www.linkedin.com/in/dervysperez,Dervys Perez,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-agency-small'
