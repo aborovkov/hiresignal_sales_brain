@@ -4721,3 +4721,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/pavelsavelyev,Pavel Savelyev,connected,connected,edit,Claude,live,"icp_reason: 'CTO/CIO profile; current employer unknown, past roles at RU companies - verify employer before touching' -> ""based in Moscow, RU - Alexey 2026-08-31: we do not work with RU. Hard disqualifier applied on the person's location, not the employer"""
 2026-08-31,https://www.linkedin.com/in/pavelsavelyev,Pavel Savelyev,connected,connected,edit,Claude,live,next_action: 'first DM (sales-brain)' -> 'none - RU'
 2026-08-31,https://www.linkedin.com/in/pavelsavelyev,Pavel Savelyev,connected,lost,transition,Alexey,live,"RU (Moscow) - Alexey 2026-08-31, we do not work with RU"
+2026-08-31,https://www.linkedin.com/in/pletinsky,Anton Pletinskii,connected,connected,edit,Claude,live,next_action: 'first DM (sales-brain)' -> 'none - do not contact'
