@@ -4263,3 +4263,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/brc77,Bogdan Constantinescu,new,connected,transition,Alexey,live,connection accepted
 2026-08-31,https://www.linkedin.com/in/topaz-rabi,Topaz Rabi Einy,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-31,https://www.linkedin.com/in/topaz-rabi,Topaz Rabi Einy,connected,connected,edit,Claude,live,icp_score: '3' -> '1'
+2026-08-31,https://www.linkedin.com/in/topaz-rabi,Topaz Rabi Einy,connected,connected,edit,Claude,live,"icp_reason: 'senior technical TA partner at Semperis - right company band, adjacent title (TA, not engineering leadership)' -> 'in-house TA at a 500+ tech vendor (Semperis); midmarket front paused 2026-08-17, no slug'"
