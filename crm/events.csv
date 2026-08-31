@@ -4631,3 +4631,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/daniyar-shaimerdenov,Daniyar Shaimerdenov,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-31,https://www.linkedin.com/in/daniyar-shaimerdenov,Daniyar Shaimerdenov,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'enterprise CIO in oil and gas; midmarket front paused 2026-08-17'
 2026-08-31,https://www.linkedin.com/in/daniyar-shaimerdenov,Daniyar Shaimerdenov,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'none - out of ICP'
+2026-08-31,https://www.linkedin.com/in/pavlechkoidze,Pavle Chkoidze,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'partner'
