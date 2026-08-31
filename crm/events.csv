@@ -4267,3 +4267,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/topaz-rabi,Topaz Rabi Einy,connected,connected,edit,Claude,live,next_action: 'first DM (sales-brain)' -> 'none - out of ICP'
 2026-08-31,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-31,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,icp_score: '2' -> '1'
+2026-08-31,https://www.linkedin.com/in/pavelromanteev,Pavel Romanteev,connected,connected,edit,Claude,live,"icp_reason: 'CEO at BBG Inc. (US) - company unidentified from profile; verify what BBG does before any touch' -> 'CEO, no engineering-hiring or recruiting signal on the profile'"
