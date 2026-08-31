@@ -4724,3 +4724,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/pletinsky,Anton Pletinskii,connected,connected,edit,Claude,live,next_action: 'first DM (sales-brain)' -> 'none - do not contact'
 2026-08-31,https://www.linkedin.com/in/pletinsky,Anton Pletinskii,connected,lost,transition,Alexey,live,Alexey 2026-08-31: do not contact at all
 2026-08-31,https://www.linkedin.com/in/stole,Stojan Trajkovic,connected,connected,edit,Claude,live,next_action: 'first DM (sales-brain)' -> 'on hold - revisit 2026-10-31'
+2026-08-31,https://www.linkedin.com/in/stole,Stojan Trajkovic,connected,parked,transition,Alexey,live,2026-10-31
