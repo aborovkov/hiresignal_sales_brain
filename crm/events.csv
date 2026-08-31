@@ -4609,3 +4609,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/stole,Stojan Trajkovic,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'first DM (sales-brain)'
 2026-08-31,https://www.linkedin.com/in/nikolay-makhov-b58076290,Nikolay Makhov,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'smb-inhouse'
 2026-08-31,https://www.linkedin.com/in/nikolay-makhov-b58076290,Nikolay Makhov,connected,connected,edit,Claude,live,icp_score: '' -> '3'
+2026-08-31,https://www.linkedin.com/in/nikolay-makhov-b58076290,Nikolay Makhov,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'founder and system architect of a small product studio'
