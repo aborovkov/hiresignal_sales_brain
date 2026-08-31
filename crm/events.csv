@@ -4397,3 +4397,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/anastasia-jolokhava-b31462284,Anastasia Jolokhava,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-31,https://www.linkedin.com/in/anastasia-jolokhava-b31462284,Anastasia Jolokhava,connected,connected,edit,Claude,live,"icp_reason: 'manual PYMK invite by Alexey, backfilled from LinkedIn Sent page 2026-08-27 - not yet scored' -> 'HR org-development generalist, not tech hiring'"
 2026-08-31,https://www.linkedin.com/in/anastasia-jolokhava-b31462284,Anastasia Jolokhava,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'none - out of ICP'
+2026-08-31,https://www.linkedin.com/in/divyanshkumar29,Divyansh Kumar,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-staff-aug'
