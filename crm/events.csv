@@ -4407,3 +4407,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/magzhan-ikram-04b455119,Magzhan Ikram,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'none - out of ICP'
 2026-08-31,https://www.linkedin.com/in/rabhbajaj,Saurabh Bajaj,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-staff-aug'
 2026-08-31,https://www.linkedin.com/in/rabhbajaj,Saurabh Bajaj,connected,connected,edit,Claude,live,icp_score: '' -> '4'
+2026-08-31,https://www.linkedin.com/in/rabhbajaj,Saurabh Bajaj,connected,connected,edit,Claude,live,icp_segment: 'rec-staff-aug' -> 'rec-staff-aug'
