@@ -4715,3 +4715,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/verolleon,Oleg Verjbitskiy,connected,connected,edit,Claude,live,icp_score: '' -> '0'
 2026-08-31,https://www.linkedin.com/in/verolleon,Oleg Verjbitskiy,connected,connected,edit,Claude,live,"icp_reason: 'manual connect - not yet scored' -> 'employer ecom.tech (Samokat, Megamarket, Sberlogistics) is RU-based - hard disqualifier 2026-07-25, employer rule 2026-08-21'"
 2026-08-31,https://www.linkedin.com/in/verolleon,Oleg Verjbitskiy,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'none - RU employer'
+2026-08-31,https://www.linkedin.com/in/verolleon,Oleg Verjbitskiy,connected,lost,transition,Alexey,live,RU-based employer (ecom.tech / Sber ecosystem) - hard disqualifier
