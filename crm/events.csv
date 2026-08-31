@@ -4475,3 +4475,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/erna-hovhannisyan-7131b9373,Erna Hovhannisyan,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-31,https://www.linkedin.com/in/erna-hovhannisyan-7131b9373,Erna Hovhannisyan,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'LinkedIn marketing services; not a buyer or recruiting channel'
 2026-08-31,https://www.linkedin.com/in/erna-hovhannisyan-7131b9373,Erna Hovhannisyan,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'none - out of ICP'
+2026-08-31,https://www.linkedin.com/in/lejla-d%c5%beini%c4%87-51a8b342a,Lejla Dzinic,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'rec-agency-small'
