@@ -4666,3 +4666,4 @@ ts,linkedin_url,name,from_status,to_status,kind,actor,source,note
 2026-08-31,https://www.linkedin.com/in/alin-serban-a9723514,Alin Serban,connected,connected,edit,Claude,live,icp_segment: 'needs-icp' -> 'out-of-icp'
 2026-08-31,https://www.linkedin.com/in/alin-serban-a9723514,Alin Serban,connected,connected,edit,Claude,live,icp_score: '' -> '1'
 2026-08-31,https://www.linkedin.com/in/alin-serban-a9723514,Alin Serban,connected,connected,edit,Claude,live,icp_reason: 'manual connect - not yet scored' -> 'profile built on past executive roles; current company unknown'
+2026-08-31,https://www.linkedin.com/in/alin-serban-a9723514,Alin Serban,connected,connected,edit,Claude,live,next_action: 'score against ICP (lead-hunter)' -> 'none - out of ICP'
